@@ -1,0 +1,45 @@
+{
+ "premiumStory": {
+  "publishedTimeInSec": 1786629613,
+  "seasonNumber": 0,
+  "episodeNumber": 0,
+  "ownerBusinessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+  "story": {
+   "id": "3137398530361344",
+   "type": "PUBLISHER",
+   "title": "The Music Trailed Off 😬",
+   "subtitle": "",
+   "thumbnailUrl": "https://feelinsonice-hrd.appspot.com//rsp/discover/asset/url?url=aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaWpkMXFWczRNejhGSW1zOFZjTzU0LjMxMD9tbz1HazBhQnpJQkJGQUZZQUZRb2dKYUdGQnlaVzFwZFcxVGRHOXllVlJwYkdWV1lYSnBZVzUwYzZJQkZnaTJBaUlSQ2cwNkFYMUNCZ2ktb19iVEJrZ0NFZ0NpQVFzSUFTSUhDZ1V5QVgxSUFRJTNEJTNEJnVjPTU%3D&transcodedMediaId=871b8e94-036d-4603-a27d-e8a1dbade9b0&story=3:3137398530361344",
+   "tapId": "0",
+   "videoTrackUrl": "https://cf-st.sc-cdn.net/d/hZ121IDUnkRLwlpuzD8a5.1202.m3u8?mo=GqIEGh4SFWc1SmpGNGlxVEViRmRoV3VLd0ZzQTIBBFAFYAFQKFoVTG9uZ2Zvcm1WaWRlb1ZhcmlhbnRzogE_CLIJEggKBlCUsTRoAyIwCi4SH2haMTIxSURVbmtSTHdscHV6RDhhNS4xMjAyLm0zdTg6AX1CBgjXqfbTBkgCogFOCIULEhgKFkoOCgksHxEbGiAbHR4Q9ANQlLE0aAQiLwotEh5hM3FZbHpiSjJvMlJtNWU5SEZXbXUuMTQxMy5tcGQ6AX1CBgjXqfbTBkgCogFOCI8LEhgKFkoOCgktIxQcFhcVFCAQ9ANQkbE0aAQiLwotEh5pN3drZ0tzUWY3MzJMdG56RFBJMDcuMTQyMy5tcGQ6AX1CBgjDp_bTBkgCogFVCG4SJQojCLTrhyowxAI4wARAAUoOCglDLSYpKyQrKioQ9ANQlLE0aAEiKgooEhlhVUtxVjlBQ2hGN2tjcE9sVmlQRGMuMTEwOgF9QgYI1az20wZIAqIBVQhvEiUKIwjE6o1RMJwEOMAHQAFKDgoJellGU1RDTFhPEPQDUJSxNGgBIioKKBIZc29XZHUzT1A0THN2WU9jaUVNdVF0LjExMToBfUIGCKCu9tMGSAKiAT8IlgoSCAoGUJGxNGgDIjAKLhIfOFY5NnR1NHprdHBMNjNsOUU3TlltLjEzMDIubTN1ODoBfUIGCMKn9tMGSAKiAQsIASIHCgUyAX1IAZADlLE0&uc=5",
+   "snaps": [
+    {
+     "index": "0",
+     "id": "3137398530361345",
+     "snapMediaType": "VIDEO",
+     "timestampInSec": 0,
+     "snapTitle": "",
+     "intervalStartTimeMs": 0,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/hZ121IDUnkRLwlpuzD8a5.1202.m3u8?mo=GqIEGh4SFWc1SmpGNGlxVEViRmRoV3VLd0ZzQTIBBFAFYAFQKFoVTG9uZ2Zvcm1WaWRlb1ZhcmlhbnRzogE_CLIJEggKBlCUsTRoAyIwCi4SH2haMTIxSURVbmtSTHdscHV6RDhhNS4xMjAyLm0zdTg6AX1CBgjXqfbTBkgCogFOCIULEhgKFkoOCgksHxEbGiAbHR4Q9ANQlLE0aAQiLwotEh5hM3FZbHpiSjJvMlJtNWU5SEZXbXUuMTQxMy5tcGQ6AX1CBgjXqfbTBkgCogFOCI8LEhgKFkoOCgktIxQcFhcVFCAQ9ANQkbE0aAQiLwotEh5pN3drZ0tzUWY3MzJMdG56RFBJMDcuMTQyMy5tcGQ6AX1CBgjDp_bTBkgCogFVCG4SJQojCLTrhyowxAI4wARAAUoOCglDLSYpKyQrKioQ9ANQlLE0aAEiKgooEhlhVUtxVjlBQ2hGN2tjcE9sVmlQRGMuMTEwOgF9QgYI1az20wZIAqIBVQhvEiUKIwjE6o1RMJwEOMAHQAFKDgoJellGU1RDTFhPEPQDUJSxNGgBIioKKBIZc29XZHUzT1A0THN2WU9jaUVNdVF0LjExMToBfUIGCKCu9tMGSAKiAT8IlgoSCAoGUJGxNGgDIjAKLhIfOFY5NnR1NHprdHBMNjNsOUU3TlltLjEzMDIubTN1ODoBfUIGCMKn9tMGSAKiAQsIASIHCgUyAX1IAZADlLE0&uc=5",
+      "mediaPreviewUrl": "https://cf-st.sc-cdn.net/d/wQnfHzS1EWqlhAw7Nh5Ya.410?mo=GrQBGh4SFWx4SGFmSEx0ZTVkbHhhZVI3ZDEwWjIBBFAFYAFQH1oeTG9uZ2Zvcm1WaWRlb1RodW1ibmFpbFZhcmlhbnRzogEvCJoDIioKKBIZd1FuZkh6UzFFV3FsaEF3N05oNVlhLjQxMDoBfUIGCP6l9tMGSAKiAS8IpAMiKgooEhlBUWgzVG50RVFaaTZCUkhpTTFUTWQuNDIwOgF9QgYI_qX20wZIAqIBCwgBIgcKBTIBfUgB&uc=5",
+      "overlayUrl": ""
+     }
+    },
+    {
+     "index": "1",
+     "id": "1536509600432128",
+     "snapMediaType": "VIDEO",
+     "timestampInSec": 0,
+     "snapTitle": "",
+     "intervalStartTimeMs": 5005,
+     "snapUrls": {
+      "mediaUrl": "",
+      "mediaPreviewUrl": "https://cf-st.sc-cdn.net/d/wQnfHzS1EWqlhAw7Nh5Ya.410?mo=GrQBGh4SFWx4SGFmSEx0ZTVkbHhhZVI3ZDEwWjIBBFAFYAFQH1oeTG9uZ2Zvcm1WaWRlb1RodW1ibmFpbFZhcmlhbnRzogEvCJoDIioKKBIZd1FuZkh6UzFFV3FsaEF3N05oNVlhLjQxMDoBfUIGCP6l9tMGSAKiAS8IpAMiKgooEhlBUWgzVG50RVFaaTZCUkhpTTFUTWQuNDIwOgF9QgYI_qX20wZIAqIBCwgBIgcKBTIBfUgB&uc=5",
+      "overlayUrl": ""
+     }
+    }
+   ]
+  }
+ }
+}

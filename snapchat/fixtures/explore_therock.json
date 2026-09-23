@@ -1,0 +1,5550 @@
+{
+ "locale": "en-US",
+ "country": "IN",
+ "query": "therock",
+ "sections": [
+  {
+   "title": "Subscribe",
+   "sectionType": 3,
+   "results": [
+    {
+     "resultType": 2,
+     "result": {
+      "$case": "snapProEntity",
+      "snapProEntity": {
+       "profile": {
+        "businessProfile": {
+         "id": "6beee624-5461-4f97-89a8-abcb4eb909eb",
+         "title": "Dwayne Johnson",
+         "description": "",
+         "logoUrl": "",
+         "phoneNumber": "",
+         "address": "",
+         "emailAddress": "",
+         "whatsappNumber": "",
+         "profileDeeplinkUrl": "",
+         "websiteUrl": "",
+         "hostAccountUsername": "therock",
+         "hostAccountMutableUsername": "therock",
+         "lastUpdateSequence": "2897",
+         "category": "",
+         "categoryEnum": 0,
+         "subcategory": "",
+         "subcategoryEnum": 0,
+         "internalCategory": 1,
+         "tier": 3,
+         "moderationStatus": 0,
+         "displayAddress": "",
+         "createdTimestamp": "0",
+         "businessLogo": {
+          "discoverFeedLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbTh2a0NRemVFZ0RFY29rZ3JDZlhhP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,72_FMpng",
+          "megaProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbTh2a0NRemVFZ0RFY29rZ3JDZlhhP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
+          "manageProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbTh2a0NRemVFZ0RFY29rZ3JDZlhhP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+          "originalLogoUrl": "https://cf-st.sc-cdn.net/d/m8vkCQzeEgDEcokgrCfXa?bo=Eg0aABoAMgEESAJQGWAB&uc=25",
+          "isDefault": false
+         },
+         "heroImageUrl": "",
+         "originalHeroImageUrl": "",
+         "hostAccountVerifiedEmoji": "",
+         "hostAccountVerifiedEmojiSafe": "",
+         "isOfficialAccount": true,
+         "hostAccountVerifiedEmojiWithoutModifiers": "",
+         "bitmojiAvatarId": "256416685_7-s1",
+         "bitmojiSelfieId": "10226021",
+         "subtitle": "therock",
+         "mutableSubtitle": "therock",
+         "hostAccountUserId": "403667d9-3f60-4bf5-8f96-a6788cdb4ce5",
+         "contents": [],
+         "contentIdentifiers": [],
+         "initiallyDisplayedContentIndex": "0",
+         "subscriberCount": "2908971",
+         "hasLenses": false,
+         "isLensCreator": false,
+         "hasHighlights": false,
+         "privateEmail": "",
+         "isTestProfile": false,
+         "isBrandProfile": false,
+         "organizationId": "",
+         "accountId": "",
+         "organizationType": 0,
+         "privatePhoneNumber": "",
+         "heroImageHeight": 0,
+         "heroImageWidth": 0,
+         "heroImageVerticalPosition": 0,
+         "isSnapchatPlusSubscriber": false,
+         "placeCollectionId": "",
+         "deactivateReason": 0,
+         "isPlaceholderProfile": false,
+         "canDisplayWebsite": false,
+         "profileIconPrimaryColorHex": "",
+         "l90Country": 0,
+         "isPartnerProfile": false,
+         "thirdPartyProfiles": [],
+         "orderedTabContent": [],
+         "isCreatorHubCollaborator": false,
+         "containsContent": [],
+         "contentVisibility": 0
+        },
+        "businessProfileSettings": {
+         "showStoryReplies": false,
+         "showSubscriberCount": false,
+         "showGifting": false,
+         "audienceGateSettings": {},
+         "hasUnreadNotification": false,
+         "autoSavePublicStory": false,
+         "autoSaveFanPassStory": false
+        },
+        "story": {
+         "businessId": "6beee624-5461-4f97-89a8-abcb4eb909eb",
+         "storyId": "",
+         "numSnaps": 0,
+         "thumbnailUrl": "",
+         "lastSnapId": ""
+        },
+        "promotableContents": [],
+        "isSubscribed": false,
+        "allowedActions": [],
+        "pendingRoleInvites": []
+       }
+      }
+     },
+     "compId": {
+      "corpus": 2,
+      "id": "6beee624-5461-4f97-89a8-abcb4eb909eb",
+      "version": "2897"
+     }
+    },
+    {
+     "resultType": 2,
+     "result": {
+      "$case": "snapProEntity",
+      "snapProEntity": {
+       "profile": {
+        "businessProfile": {
+         "id": "b19ba4a6-8c58-49c6-a796-00173d2d5bfc",
+         "title": "TheRoamerAmit",
+         "description": "Thoda sa vlogger🫡 and follow for more 🤗 paid promotion available dm me and contact | youtube -KGRoamer",
+         "logoUrl": "",
+         "phoneNumber": "",
+         "address": "",
+         "emailAddress": "",
+         "whatsappNumber": "",
+         "profileDeeplinkUrl": "",
+         "websiteUrl": "",
+         "hostAccountUsername": "roamerbro",
+         "hostAccountMutableUsername": "theroameramitt",
+         "lastUpdateSequence": "38",
+         "category": "",
+         "categoryEnum": 0,
+         "subcategory": "",
+         "subcategoryEnum": 0,
+         "internalCategory": 1,
+         "tier": 2,
+         "moderationStatus": 0,
+         "displayAddress": "",
+         "createdTimestamp": "0",
+         "businessLogo": {
+          "discoverFeedLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbE9ic25heVFlQW9tZ1FFQk43TFlIP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+          "megaProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbE9ic25heVFlQW9tZ1FFQk43TFlIP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "manageProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbE9ic25heVFlQW9tZ1FFQk43TFlIP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "originalLogoUrl": "https://cf-st.sc-cdn.net/d/lObsnayQeAomgQEBN7LYH?bo=EgkyAQRIAlAZYAE%3D&uc=25",
+          "isDefault": false
+         },
+         "heroImageUrl": "",
+         "originalHeroImageUrl": "",
+         "hostAccountVerifiedEmoji": "",
+         "hostAccountVerifiedEmojiSafe": "",
+         "isOfficialAccount": false,
+         "hostAccountVerifiedEmojiWithoutModifiers": "",
+         "bitmojiAvatarId": "106384592516_2-s5",
+         "bitmojiSelfieId": "10226021",
+         "subtitle": "roamerbro",
+         "mutableSubtitle": "theroameramitt",
+         "hostAccountUserId": "89f486dd-0119-42a3-947e-d1bb19e82ef4",
+         "contents": [],
+         "contentIdentifiers": [],
+         "initiallyDisplayedContentIndex": "0",
+         "subscriberCount": "52217",
+         "hasLenses": false,
+         "isLensCreator": false,
+         "hasHighlights": false,
+         "privateEmail": "",
+         "isTestProfile": false,
+         "isBrandProfile": false,
+         "organizationId": "",
+         "accountId": "",
+         "organizationType": 0,
+         "privatePhoneNumber": "",
+         "heroImageHeight": 0,
+         "heroImageWidth": 0,
+         "heroImageVerticalPosition": 0,
+         "isSnapchatPlusSubscriber": false,
+         "placeCollectionId": "",
+         "deactivateReason": 0,
+         "isPlaceholderProfile": false,
+         "canDisplayWebsite": false,
+         "profileIconPrimaryColorHex": "",
+         "l90Country": 0,
+         "isPartnerProfile": false,
+         "thirdPartyProfiles": [],
+         "orderedTabContent": [],
+         "isCreatorHubCollaborator": false,
+         "containsContent": [],
+         "contentVisibility": 0
+        },
+        "businessProfileSettings": {
+         "showStoryReplies": false,
+         "showSubscriberCount": false,
+         "showGifting": false,
+         "audienceGateSettings": {},
+         "hasUnreadNotification": false,
+         "autoSavePublicStory": false,
+         "autoSaveFanPassStory": false
+        },
+        "story": {
+         "businessId": "b19ba4a6-8c58-49c6-a796-00173d2d5bfc",
+         "storyId": "",
+         "numSnaps": 0,
+         "thumbnailUrl": "",
+         "lastSnapId": ""
+        },
+        "promotableContents": [],
+        "isSubscribed": false,
+        "allowedActions": [],
+        "pendingRoleInvites": []
+       }
+      }
+     },
+     "compId": {
+      "corpus": 2,
+      "id": "b19ba4a6-8c58-49c6-a796-00173d2d5bfc",
+      "version": "38"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Lenses",
+   "sectionType": 6,
+   "results": [
+    {
+     "resultType": 6,
+     "result": {
+      "$case": "lens",
+      "lens": {
+       "lensId": "60922281601",
+       "name": "TheRock",
+       "iconUrl": "https://lens-storage.storage.googleapis.com/png/b469a5233c0146a5b095cd81b3ded40c",
+       "deeplinkUrl": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=83ee4a693b1247669e30171db7604df8&metadata=01",
+       "creatorName": "c̷a̷d̷e̷n̷",
+       "creatorUserId": "49ab4f94-dbc1-4df6-9fbc-c68a0eb81158",
+       "creatorProfileId": "",
+       "creatorIsOffical": false,
+       "thumbnailUrl": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_poster/5678bfd4-8cbd-4817-ad6d-df5107376b3a.jpg",
+       "thumbnailSequence": {
+        "urlPattern": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_seq/5678bfd4-8cbd-4817-ad6d-df5107376b3a/image_%d.jpg",
+        "numThumbnails": 6,
+        "animationIntervalMs": 300
+       },
+       "scpExclusive": false
+      }
+     },
+     "compId": {
+      "corpus": 3,
+      "id": "60922281601",
+      "version": "1669497791"
+     }
+    },
+    {
+     "resultType": 6,
+     "result": {
+      "$case": "lens",
+      "lens": {
+       "lensId": "63736114207",
+       "name": "TheRock Video Call",
+       "iconUrl": "https://lens-storage.storage.googleapis.com/png/377b1529a11c412e869caf2846111426",
+       "deeplinkUrl": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d3f530b6890c419a8c21a06640e88624&metadata=01",
+       "creatorName": "Snap Queen",
+       "creatorUserId": "cf3f0b84-4e3e-4503-ad78-bed0a40b7668",
+       "creatorProfileId": "",
+       "creatorIsOffical": false,
+       "thumbnailUrl": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_poster/e108a6b2-66e4-4f55-bde0-2fd27e20e0b2.jpg",
+       "thumbnailSequence": {
+        "urlPattern": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_seq/e108a6b2-66e4-4f55-bde0-2fd27e20e0b2/image_%d.jpg",
+        "numThumbnails": 4,
+        "animationIntervalMs": 300
+       },
+       "scpExclusive": false
+      }
+     },
+     "compId": {
+      "corpus": 3,
+      "id": "63736114207",
+      "version": "1714482671"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Places",
+   "sectionType": 16,
+   "results": [
+    {
+     "resultType": 13,
+     "result": {
+      "$case": "place",
+      "place": {
+       "id": "e387a1b2-914e-4711-b0d2-e73b7366d774",
+       "displayName": "Therock",
+       "locality": "Tomás Gomensoro y, Montevideo",
+       "mapOpenParams": {
+        "boundingBox": {
+         "p1": {
+          "lat": -34.8750614,
+          "lng": -56.153890499999996
+         },
+         "p2": {
+          "lat": -34.8749614,
+          "lng": -56.15379049999999
+         }
+        }
+       },
+       "categoryIconUrl": "https://cf-st.sc-cdn.net/snapzen-assets/v1/styles/friend-stories-3d-light/sprite/jewelry_glyph_dark@2x.png?api_key=viAIqRr9UOG",
+       "isFavorited": false,
+       "categoryName": "Jewelry Store",
+       "profilePhoto": {
+        "provider": 1,
+        "uploadedAtMs": "0",
+        "imageUrl": "https://cf-st.sc-cdn.net/snapzen-assets/v1/styles/friend-stories-3d-light/sprite/jewelry_glyph_dark@2x.png?api_key=viAIqRr9UOG",
+        "imageType": 1,
+        "providerDisplayName": "",
+        "authorAttributions": []
+       },
+       "centroid": {
+        "lat": -34.8750114,
+        "lng": -56.153840499999994
+       },
+       "placePivots": []
+      }
+     },
+     "compId": {
+      "corpus": 12,
+      "id": "e387a1b2-914e-4711-b0d2-e73b7366d774",
+      "version": "0"
+     }
+    },
+    {
+     "resultType": 13,
+     "result": {
+      "$case": "place",
+      "place": {
+       "id": "b903b479-2158-4a84-9508-64a9584b01ee",
+       "displayName": "TheRock",
+       "locality": "Strada Pompelor 3, Ploieşti",
+       "mapOpenParams": {
+        "boundingBox": {
+         "p1": {
+          "lat": 44.938440199999995,
+          "lng": 26.0726928
+         },
+         "p2": {
+          "lat": 44.9385402,
+          "lng": 26.072792800000002
+         }
+        }
+       },
+       "categoryIconUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVVdNdkhmalR4TW9zUEU2cExNMlBVP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._FMpng",
+       "isFavorited": false,
+       "categoryName": "Contractor",
+       "profilePhoto": {
+        "provider": 1,
+        "uploadedAtMs": "0",
+        "imageUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVVdNdkhmalR4TW9zUEU2cExNMlBVP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._FMpng",
+        "imageType": 1,
+        "providerDisplayName": "",
+        "authorAttributions": []
+       },
+       "centroid": {
+        "lat": 44.9384902,
+        "lng": 26.0727428
+       },
+       "placePivots": []
+      }
+     },
+     "compId": {
+      "corpus": 12,
+      "id": "b903b479-2158-4a84-9508-64a9584b01ee",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Topics",
+   "sectionType": 23,
+   "results": [
+    {
+     "resultType": 14,
+     "result": {
+      "$case": "topic",
+      "topic": {
+       "text": "therock",
+       "numSnaps": "277",
+       "type": 1,
+       "thumbnail": "https://bolt-gcdn.sc-cdn.net/x/gb9uFkyEQGk9s5gbDZu4I.256.IRZXSOY?mo=GkYaCTIBd0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+       "creator": "",
+       "iconUrl": "https://cf-st.sc-cdn.net/d/aVMYTAhEG5gHhcjWofT3q?bo=EhMaABoAMgIEfUgCUAhaAwjcLmAB&uc=8",
+       "onTap": {
+        "action": {
+         "$case": "openHashtagTopic",
+         "openHashtagTopic": {
+          "topicText": "therock"
+         }
+        }
+       },
+       "conversationId": {}
+      }
+     },
+     "compId": {
+      "corpus": 14,
+      "id": "therock",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Spotlight",
+   "sectionType": 47,
+   "results": [
+    {
+     "resultType": 26,
+     "result": {
+      "$case": "storyCard",
+      "storyCard": {
+       "storyId": "5a769c31549a0f8d6d28a67fc0308ca5",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.1025?mo=GiIaCTIBBEgCUC5gAVCdAVoIRGZGRnJhbWWiAQcIgQgiAhIA&uc=46",
+       "thumbnailIv": "TrJBJ1MV8TftpVWYkK/+4w==",
+       "mediaKey": "nwnTj0AoHzIg8cLwEv7UiRq4nhGYN4V5CeT1KjBYXmo=",
+       "onTap": {
+        "action": {
+         "$case": "playStoryCard",
+         "playStoryCard": {
+          "storyId": "5a769c31549a0f8d6d28a67fc0308ca5"
+         }
+        }
+       },
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+       "bottomLeadingUiElements": [
+        1
+       ],
+       "playCount": "23K",
+       "creatorName": "",
+       "creatorNameMaxNumLines": 0,
+       "creatorNameDecorators": [],
+       "creatorNameLogoUrl": "",
+       "teaserText": "",
+       "teaserTextMaxNumLines": 0,
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.27.IRZXSOY?mo=GmcaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQi8jz0gATDgAziABUABSg4KCXFIUU5LS01XVxD0A1CYL2gCdSz0SkB9AACAPyILEgAqB0lSWlhTT1mQA5gv&uc=46",
+       "ageText": "",
+       "creatorDisplayName": "",
+       "creatorUsername": ""
+      }
+     },
+     "compId": {
+      "corpus": 32,
+      "id": "5a769c31549a0f8d6d28a67fc0308ca5",
+      "version": "0"
+     }
+    },
+    {
+     "resultType": 26,
+     "result": {
+      "$case": "storyCard",
+      "storyCard": {
+       "storyId": "46af788e3f5444342b68c5f404620bd7",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.1025?mo=GiIaCTIBBEgCUC5gAVCdAVoIRGZGRnJhbWWiAQcIgQgiAhIA&uc=46",
+       "thumbnailIv": "38QFkTDPgMony2NKebL7IA==",
+       "mediaKey": "CeEWtOpPDK6kA68qO/aukuxAcvU0xiS0Mu0zav4eWEE=",
+       "onTap": {
+        "action": {
+         "$case": "playStoryCard",
+         "playStoryCard": {
+          "storyId": "46af788e3f5444342b68c5f404620bd7"
+         }
+        }
+       },
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+       "bottomLeadingUiElements": [
+        1
+       ],
+       "playCount": "80K",
+       "creatorName": "",
+       "creatorNameMaxNumLines": 0,
+       "creatorNameDecorators": [],
+       "creatorNameLogoUrl": "",
+       "teaserText": "",
+       "teaserTextMaxNumLines": 0,
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.27.IRZXSOY?mo=Gl8aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjzvowBIAEwnAQ4wAdAAUoPCgqeAT8zNzA5Mzs0EPQDUOh6aAIiCxIAKgdJUlpYU09ZkAPoeg%3D%3D&uc=46",
+       "ageText": "",
+       "creatorDisplayName": "",
+       "creatorUsername": ""
+      }
+     },
+     "compId": {
+      "corpus": 32,
+      "id": "46af788e3f5444342b68c5f404620bd7",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": false,
+   "sectionPageToken": {},
+   "columnCount": 2
+  }
+ ],
+ "spotlightCardMap": {
+  "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+     "snapClientId": "A61AA829-D6C9-4150-988E-951D8DB0C7AE",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/7/j03pZV75i6htNbjR87SjH?bo=EgkyAVpIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+      "mediaIv": "TrJBJ1MV8TftpVWYkK/+4w==",
+      "mediaKey": "nwnTj0AoHzIg8cLwEv7UiRq4nhGYN4V5CeT1KjBYXmo=",
+      "isZipped": false,
+      "duration": 6.04,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.27.IRZXSOY?mo=GmcaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQi8jz0gATDgAziABUABSg4KCXFIUU5LS01XVxD0A1CYL2gCdSz0SkB9AACAPyILEgAqB0lSWlhTT1mQA5gv&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMI3pQzIAEw4AM4gAVAAUoOCglcO0Q-PUFDR0sQ9ANQmC9oAiILEgAqB0lSWlhTT1mQA5gv&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 480,
+       "height": 640
+      }
+     },
+     "creationTimestampMs": "1762457728067",
+     "sourceCreationTimestamp": "1762373850000",
+     "expirationTimestampMs": "4916057728067",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "d961e6db-66cb-4ce7-b59e-a1ffee229b72",
+      "userName": "shakastrong",
+      "displayName": "Shaka",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "😂😂💪🏿💪🏿 #therock "
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdG9tYmZucGJ2AZpaqrsYAZpaqrRDAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "5a769c31549a0f8d6d28a67fc0308ca5",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/j03pZV75i6htNbjR87SjH.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "nwnTj0AoHzIg8cLwEv7UiRq4nhGYN4V5CeT1KjBYXmo=",
+      "mediaIv": "TrJBJ1MV8TftpVWYkK/+4w=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Shaka",
+    "businessProfileId": "a21b4fd8-1002-4fd2-a774-00323baebadf",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "",
+        "keywords": []
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "In a lively indoor setting, Shaka shares a joyful moment with actor and former wrestler Dwayne 'The Rock' Johnson. Both men are smiling broadly and clapping enthusiastically, surrounded by a cheering crowd who are capturing the event on their phones. The atmosphere is celebratory and energetic.",
+    "llmTitle": "Shaka Celebrates with Dwayne Johnson in Viral Moment",
+    "textMetadataKeywords": [],
+    "llmKeywords": [
+     "how to get noticed by celebrities",
+     "How to become internet famous"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "107",
+    "shareCount": "2",
+    "viewCount": "19938",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "32",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "32",
+    "newPendingCommentCount": "0",
+    "recommendCount": "8",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+     "snapClientId": "ce96ed70-71fb-4421-be9c-42ea8db1ee0c",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/3Zz98jo3lsJtF3V00ZuzY?bo=EhAyAX1IAlAuWgUIgLSSD2AB&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+      "mediaIv": "38QFkTDPgMony2NKebL7IA==",
+      "mediaKey": "CeEWtOpPDK6kA68qO/aukuxAcvU0xiS0Mu0zav4eWEE=",
+      "isZipped": false,
+      "duration": 15.72,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.27.IRZXSOY?mo=Gl8aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjzvowBIAEwnAQ4wAdAAUoPCgqeAT8zNzA5Mzs0EPQDUOh6aAIiCxIAKgdJUlpYU09ZkAPoeg%3D%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMI16ZzIAEw4AM41AZAAUoOCgl3LycpJiwpLSkQ9ANQ6HpoAiILEgAqB0lSWlhTT1mQA-h6&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1777993277600",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4931593277600",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#MetGala",
+          "isServerSuggested": false,
+          "source": 0
+         },
+         {
+          "title": "#TheRock",
+          "isServerSuggested": false,
+          "source": 0
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "c3195789-edad-4e7c-9c27-62c8e2bd64bc",
+      "userName": "dailymaillive",
+      "displayName": "Daily Mail Xtra",
+      "followerCount": "0",
+      "snapproTier": 3,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 8
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "#MetGala #TheRock #DwayneJohnson #MetGala2026 #RedCarpetStyle"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": null,\n  \"Version\": \"1.1\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcmN0aWd1a3F0AZ34qGDTAZ34qGCgAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "46af788e3f5444342b68c5f404620bd7",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "CeEWtOpPDK6kA68qO/aukuxAcvU0xiS0Mu0zav4eWEE=",
+      "mediaIv": "38QFkTDPgMony2NKebL7IA=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/3Zz98jo3lsJtF3V00ZuzY.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "CeEWtOpPDK6kA68qO/aukuxAcvU0xiS0Mu0zav4eWEE=",
+      "mediaIv": "38QFkTDPgMony2NKebL7IA=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Daily Mail Xtra",
+    "businessProfileId": "e234374b-7951-47e9-8608-9b6d666a6abd",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTVU3d3ZFNGV3dXRqelVpVVFrOHJ6P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "The Rock arrives at the Met Gala.",
+        "keywords": [
+         "Met Gala",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Met Gala"
+        ],
+        "scoredTags": [
+         {
+          "name": "Met Gala",
+          "score": 0.9999995827674866
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "Dwayne Johnson, known as 'The Rock', makes a grand entrance at the prestigious Met Gala. He is seen arriving hand-in-hand with his wife, Lauren Hashian, both dressed in elegant formal attire. Dwayne wears a unique black tailcoat over a pleated kilt, while Lauren is in a stunning white gown with a cape. They pose together for photographers against a backdrop of lush greenery and hanging flowers before walking away.",
+    "llmTitle": "The Rock Arrives at the Met Gala in Style",
+    "textMetadataKeywords": [
+     "Met Gala",
+     "The Rock"
+    ],
+    "llmKeywords": [
+     "how to dress for a gala",
+     "men's formal wear ideas"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "1915",
+    "shareCount": "5",
+    "viewCount": "81377",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "142",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "142",
+    "newPendingCommentCount": "0",
+    "recommendCount": "132",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ",
+     "snapClientId": "9038af0d-8cc3-458f-bddd-af44ac2c4687",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/ExcFrv2iyzqRaWSGAu7a7?bo=EhAyAX1IAlAuWgUIwPn-BmAB&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ",
+      "mediaIv": "yXsPwhbniT34nkIbDzuwog==",
+      "mediaKey": "WMVypJujevHeJjbwosnSn4HWOEpckDfEiss8wYLuKzo=",
+      "isZipped": false,
+      "duration": 31,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiI884BIAEwnAQ4wAdAAUoPCgqFAS1IPTk0MU4rEPQDUJjyAWgCIgsSACoHSVJaWFNPWZADmPIB&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.1034.IRZXSOY?mo=Gk8aCTIBBEgCUC5gAVCxAaIBOQiKCBInCiUItcauASABMOADONQGQAFKDgoJbyQ8MjEtK0MhEPQDUJjyAWgCIgsSACoHSVJaWFNPWZADmPIB&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1787436203782",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4941036203782",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#therock",
+          "isServerSuggested": false,
+          "source": 0
+         },
+         {
+          "title": "#laser",
+          "isServerSuggested": false,
+          "source": 0
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "382e1572-9133-486e-ab45-47012f10fe9e",
+      "userName": "tried-andtested",
+      "displayName": "Tried and Tested",
+      "followerCount": "0",
+      "snapproTier": 3,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 8
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Because what else could you possibly want to engrave into a rock?! 😂 #therock #laser Credit: engravingcol"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The Rock is getting a rock portrait.\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdG1rbXBseG1jAaArf_-4AaArf_8GAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "a801e580c6fefbb68434089a8725838f",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "WMVypJujevHeJjbwosnSn4HWOEpckDfEiss8wYLuKzo=",
+      "mediaIv": "yXsPwhbniT34nkIbDzuwog=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/ExcFrv2iyzqRaWSGAu7a7.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "WMVypJujevHeJjbwosnSn4HWOEpckDfEiss8wYLuKzo=",
+      "mediaIv": "yXsPwhbniT34nkIbDzuwog=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Tried and Tested",
+    "businessProfileId": "da94988e-c84e-492f-b139-f78784b67fd1",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveXhjNEJVYVlNNHdDNm40M2tyY2lLP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Laser engraving techniques on rock material.",
+        "keywords": [
+         "laser engraving",
+         "rock art"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Craftsmanship"
+        ],
+        "scoredTags": [
+         {
+          "name": "Craftsmanship",
+          "score": 1
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "textMetadataKeywords": [
+     "laser engraving",
+     "rock art"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "253",
+    "shareCount": "10",
+    "viewCount": "27161",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "3",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "3",
+    "newPendingCommentCount": "0",
+    "recommendCount": "29",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ",
+     "snapClientId": "e8761fcf-a720-4df9-b277-87bd5ee79762",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/jgxtsXz1IeisJ3nuLTLfA?bo=EhAyAX1IAlAuWgUIgNDEA2AB&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ",
+      "mediaIv": "AFAc99XoqBWHM0vkxQ3QHg==",
+      "mediaKey": "kGTQSsDRHe8tYNp8oakVVwgBRUFcDwRcVTGPmXAmniI=",
+      "isZipped": false,
+      "duration": 26.24,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.27.IRZXSOY?mo=Gl8aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAiNk20gATCcBDjAB0ABSg4KCU8mJB8mJCMeHxD0A1CAzQFoAiILEgAqB0lSWlhTT1mQA4DNAQ%3D%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.1034.IRZXSOY?mo=Gk4aCTIBBEgCUC5gAVCxAaIBOAiKCBImCiQIjIVVIAEw4AM41AZAAUoOCglAHRwYHRsdFhkQ9ANQgM0BaAIiCxIAKgdJUlpYU09ZkAOAzQE%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1789218748673",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4942818748673",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#baywatch",
+          "isServerSuggested": false,
+          "source": 0
+         },
+         {
+          "title": "#therock",
+          "isServerSuggested": false,
+          "source": 0
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "c0c22ca9-7b02-47f7-8dbc-39af9d50d29e",
+      "userName": "funnyclipz4life",
+      "displayName": "FUNNY CLIPZ",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 8
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Who Watched #baywatch #therock #zachefron #funny #comedy"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"Dwayne Johnson and Zac Efron's weirdest Baywatch moment 😂\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYY3Fnc2V0aGlzAaCVv3kxAaCVv3kBAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "c170748d182a099aaa3d1b8a958d4716",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYc2ZqemhrbmVuAaCVwBSUAaCVwBSUAAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "kGTQSsDRHe8tYNp8oakVVwgBRUFcDwRcVTGPmXAmniI=",
+      "mediaIv": "AFAc99XoqBWHM0vkxQ3QHg=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhxdnVjdGdtAaCVwf5MAaCVwf5MAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/jgxtsXz1IeisJ3nuLTLfA.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "kGTQSsDRHe8tYNp8oakVVwgBRUFcDwRcVTGPmXAmniI=",
+      "mediaIv": "AFAc99XoqBWHM0vkxQ3QHg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "FUNNY CLIPZ",
+    "businessProfileId": "462f304d-47d9-4ccb-939b-24b6fb37c745",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUW83bTI3djl0RHhiZHV1bWxBemQwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson meme compilation with background audio.",
+        "keywords": [
+         "Dwayne Johnson",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "The Rock"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "7",
+    "shareCount": "0",
+    "viewCount": "-1",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "0",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ",
+     "snapClientId": "5EEF2A75-9590-4605-934E-2780595EC592",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/4/lCfgqEZdpyPkzj2kAOhkE?bo=EgkyAX5IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ",
+      "mediaIv": "SCJ4lCTOBQViHh9BPOz4jQ==",
+      "mediaKey": "L1lGxncX3vr5sKFDKi5lF+1GwDYYMfiK6WrlwjzTHxU=",
+      "isZipped": false,
+      "duration": 59.8,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/lCfgqEZdpyPkzj2kAOhkE.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjz2-kBIAEwnAQ4wAdAAUoPCgqEARwbGSY4Ih4XEPQDUJjTA2gCIgsSACoHSVJaWFNPWZADmNMD&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/lCfgqEZdpyPkzj2kAOhkE.1034.IRZXSOY?mo=Gk8aCTIBBEgCUC5gAVCxAaIBOQiKCBInCiUI8qyyASABMOADONQGQAFKDgoJcBQUEhwrGRYQEPQDUJjTA2gCIgsSACoHSVJaWFNPWZADmNMD&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1768051264876",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4921651264876",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#therock",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#truestory",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "2a718ecb-1e31-495d-bb58-59f86739c9b8",
+      "userName": "truestory_718",
+      "displayName": "True_story718",
+      "followerCount": "0",
+      "snapproTier": 0,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "TRUE STORY 😳 #therock #truestory #weird "
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/lCfgqEZdpyPkzj2kAOhkE.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYY3dzanZiaHV4AZuoEoE7AZuoEU1sAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "e6ed2c3a46c0d626575a84c6fef73b19",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/lCfgqEZdpyPkzj2kAOhkE.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/lCfgqEZdpyPkzj2kAOhkE.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "L1lGxncX3vr5sKFDKi5lF+1GwDYYMfiK6WrlwjzTHxU=",
+      "mediaIv": "SCJ4lCTOBQViHh9BPOz4jQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "True_story718",
+    "businessProfileId": "ce2b48ec-5994-4973-892c-4ed156d0eb78",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN0NiWFFkTzAwN0FlQU5zRTFXdEdlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson meme compilation.",
+        "keywords": [
+         "Dwayne Johnson",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "This viral reaction video breaks down the famous moment from 'Jumanji: Welcome to Jungle' where Dwayne Johnson's character delivers the iconic line, 'Stop playing with me, son.' Featuring side-by-side clips of Johnson's intense performance and a shocked audience member's real-time reaction, it's a perfect example of why this movie quote became a global sensation.",
+    "llmTitle": "The Rock's Shocking 'Stop Playing With Me Son' Moment Explained!",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "The Rock"
+    ],
+    "llmKeywords": [
+     "how to react to movies",
+     "Dwayne Johnson Jumanji"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "29",
+    "shareCount": "1",
+    "viewCount": "1355",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "2",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "2",
+    "newPendingCommentCount": "0",
+    "recommendCount": "6",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ",
+     "snapClientId": "C771231A-1DCC-43D9-8898-EA3A66C4A7F1",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/7/iiXer1VzdOO1LueXvEVZV?bo=EgkyAVpIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ",
+      "mediaIv": "qtotlLmbwcJoA6H+riwF8Q==",
+      "mediaKey": "5UX2EQern7c3uRGHmJu24imrBqzph98eKam3z8srZO4=",
+      "isZipped": false,
+      "duration": 14.9,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/iiXer1VzdOO1LueXvEVZV.27.IRZXSOY?mo=GmcaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQjWrVYgATCcBDjAB0ABSg4KCWM6MDAxMSo0QRD0A1C0dGgCdf-ZJUB9AACAPyILEgAqB0lSWlhTT1mQA7R0&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/iiXer1VzdOO1LueXvEVZV.1034.IRZXSOY?mo=GlEaCTIBBEgCUC5gAVCxAaIBPAiKCBIqCigI7f5AIAEw4AM41AZAAUoOCglRKiUkJSQgJyYQ9ANQtHRoAnVSjiRAIgsSACoHSVJaWFNPWZADtHQ%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 0,
+       "height": 0
+      }
+     },
+     "creationTimestampMs": "1761113896569",
+     "sourceCreationTimestamp": "1761112539000",
+     "expirationTimestampMs": "4914713896569",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#yesquad",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#funny",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "14080d83-3e69-45b8-b3a5-13d75aae9e7b",
+      "userName": "theyesquad",
+      "displayName": "yeSquad",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Is the Rock Goated? 😭😭😭 #yesquad #funny #irl #therock #67"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/iiXer1VzdOO1LueXvEVZV.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZmJwYXh2ZmNoAZoKkaqQAZoKkXZ5AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "1681e0eb7fb0375b99cc6aee6f32c087",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/iiXer1VzdOO1LueXvEVZV.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/iiXer1VzdOO1LueXvEVZV.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "5UX2EQern7c3uRGHmJu24imrBqzph98eKam3z8srZO4=",
+      "mediaIv": "qtotlLmbwcJoA6H+riwF8Q=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "yeSquad",
+    "businessProfileId": "16a0e160-0cc1-414f-8098-d63c3f7ea943",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Animated meme featuring cringe-worthy character moments.",
+        "keywords": [
+         "animation",
+         "cringe"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.9957513809204102
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this split-screen reaction video, streamer yeSquad watches a dramatic and intense clip featuring actor Dwayne 'The Rock' Johnson. The top panel shows yeSquad's real-time reactions as he views the movie footage below, which includes powerful close-ups and text overlays like 'WE STAY HUNGRY.' This format captures the excitement and intensity of the moment.",
+    "llmTitle": "yeSquad Reacts to Dwayne Johnson's Intense Movie Clip",
+    "textMetadataKeywords": [
+     "animation",
+     "cringe"
+    ],
+    "llmKeywords": [
+     "what is happening here",
+     "how to react to videos"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "523",
+    "shareCount": "23",
+    "viewCount": "17765",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "18",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "18",
+    "newPendingCommentCount": "0",
+    "recommendCount": "62",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ",
+     "snapClientId": "3E3C3D89-8960-4860-AC8B-4C2BA468EF6A",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/4/2OxsxxdjPwt84aqQ3IhoK?bo=EgkyAX5IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ",
+      "mediaIv": "jdBhm2YzWnfcR3pO7CXxqw==",
+      "mediaKey": "n3E1tjwSTUWc+xlMbWxwgfDEgebIN+SVgyPk4/W1uJA=",
+      "isZipped": false,
+      "duration": 57.4,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/2OxsxxdjPwt84aqQ3IhoK.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiD6vMBIAEwnAQ4wAdAAUoPCgqRASsmKiYiGh8hEPQDULjAA2gCIgsSACoHSVJaWFNPWZADuMAD&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/2OxsxxdjPwt84aqQ3IhoK.1034.IRZXSOY?mo=Gk8aCTIBBEgCUC5gAVCxAaIBOQiKCBInCiUIw9G7ASABMOADONQGQAFKDgoJfCAcIRwZExYXEPQDULjAA2gCIgsSACoHSVJaWFNPWZADuMAD&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1767472557810",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4921072557810",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#therock",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#truestory",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "2a718ecb-1e31-495d-bb58-59f86739c9b8",
+      "userName": "truestory_718",
+      "displayName": "True_story718",
+      "followerCount": "0",
+      "snapproTier": 0,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "TRUE STORY 😬 #therock #truestory #hollywood"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/2OxsxxdjPwt84aqQ3IhoK.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZnRjeGdnbXNyAZuFlHaJAZuFku7yAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "ad5773e1bf67619c6ea72df011d0600c",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/2OxsxxdjPwt84aqQ3IhoK.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/2OxsxxdjPwt84aqQ3IhoK.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "n3E1tjwSTUWc+xlMbWxwgfDEgebIN+SVgyPk4/W1uJA=",
+      "mediaIv": "jdBhm2YzWnfcR3pO7CXxqw=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "True_story718",
+    "businessProfileId": "ce2b48ec-5994-4973-892c-4ed156d0eb78",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvN0NiWFFkTzAwN0FlQU5zRTFXdEdlP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson memes compilation.",
+        "keywords": [
+         "Dwayne Johnson",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "The Rock"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "346",
+    "shareCount": "95",
+    "viewCount": "11143",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "68",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "68",
+    "newPendingCommentCount": "0",
+    "recommendCount": "70",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ",
+     "snapClientId": "144fc7d0-999f-9594-c28e-19d4b9b4e630",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/4/32ZPNuAr28H23SitZOE9h?bo=EgkyAX5IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ",
+      "mediaIv": "oNdAi2gyIbquy3sLkGSu4A==",
+      "mediaKey": "0AM+fPO7NZfJq27MqN9GyEbG2BZt+tAKFFZkmT7hYRI=",
+      "isZipped": false,
+      "duration": 11.7,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/32ZPNuAr28H23SitZOE9h.27.IRZXSOY?mo=GmQaCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQjB6hkgATCcBDi-B0ABSg4KCS8QEA8SDhEQEBD0A1C0W2gCdY_QPUB9AACAPyILEgAqB0lSWlhTT1mQA7Rb&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/32ZPNuAr28H23SitZOE9h.1034.IRZXSOY?mo=Gk4aCTIBBEgCUC5gAaIBPAiKCBIqCigI65QQIAEw4AM41AZAAUoOCgkkCQkICwkKCQkQ9ANQtFtoAnVifjhAIgsSACoHSVJaWFNPWZADtFs%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 958
+      }
+     },
+     "creationTimestampMs": "1760405683063",
+     "sourceCreationTimestamp": "1748278949000",
+     "expirationTimestampMs": "4914005683063",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#advice",
+          "isServerSuggested": true,
+          "source": 2
+         },
+         {
+          "title": "#laugh",
+          "isServerSuggested": true,
+          "source": 2
+         }
+        ],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "8a887045-2424-4625-ae15-8c0314f29126",
+      "userName": "phillie-of",
+      "displayName": "A R",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "You had me at fantastic erections #jokes #therock #tips #laugh #advice"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/32ZPNuAr28H23SitZOE9h.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZGpwamd3YXFlAZngWvuPAZngWvt3AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "197c2fa1c973d03854c18f70e08fd0f8",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/32ZPNuAr28H23SitZOE9h.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/32ZPNuAr28H23SitZOE9h.256?mo=GjEaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "0AM+fPO7NZfJq27MqN9GyEbG2BZt+tAKFFZkmT7hYRI=",
+      "mediaIv": "oNdAi2gyIbquy3sLkGSu4A=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "A R",
+    "businessProfileId": "67c76c03-9b16-47cf-8e3f-c26208041fa9",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson shares gym motivation and humor.",
+        "keywords": [
+         "Dwayne Johnson",
+         "gym motivation"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.9858027696609497
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "gym motivation"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "5867",
+    "shareCount": "508",
+    "viewCount": "39380",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "11",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "11",
+    "newPendingCommentCount": "0",
+    "recommendCount": "423",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ",
+     "snapClientId": "0b04cfbe-3de9-5265-51d5-d935a7b9ff99",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs?bo=EgkyAQFIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ",
+      "mediaIv": "dYt19TY5nLUALCiJVqgAtQ==",
+      "mediaKey": "aqGFoCaTivT0lCeaNZw1Wi+pJ8WNsPrlwgKckcwi+To=",
+      "isZipped": false,
+      "duration": 23.34,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.27.IRZXSOY?mo=Gl8aCTIBAUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAiD_HEgATCcBDjAB0ABSg4KCX8hNi0oJiJKJBD0A1CstgFoAiILEgAqB0lSWlhTT1mQA6y2AQ%3D%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.1034.IRZXSOY?mo=Gk4aCTIBAUgCUC5gAVCxAaIBOAiKCBImCiQIzZ1hIAEw4AM41AZAAUoOCglrHS0lIR8eRxwQ9ANQrLYBaAIiCxIAKgdJUlpYU09ZkAOstgE%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1784397342803",
+     "sourceCreationTimestamp": "1784286570000",
+     "expirationTimestampMs": "4937997342803",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#therock",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#wwe",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "709d6306-bf19-4d52-b2a9-02a187e3e8c5",
+      "userName": "diagofitvision",
+      "displayName": "Alex Diago",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "The Rock's Insane Transformation!#therock #wwe #tranformation #gym"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 6,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The Rock's wild body transformation explained\",\n  \"Version\": \"1.2\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.256.IRZXSOY?mo=GkYaCTIBAUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZnR1bWVkem9wAZ92XqhyAZ92XqhTAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "84f656b5fafe7c54cea414e2f7dabcc8",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYYWFwaWZocHp6AZ92XzQjAZ92XzQjAAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.256.IRZXSOY?mo=GkYaCTIBAUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.256?mo=GjQaCTIBAUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "aqGFoCaTivT0lCeaNZw1Wi+pJ8WNsPrlwgKckcwi+To=",
+      "mediaIv": "dYt19TY5nLUALCiJVqgAtQ=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYY2draW9lZmdyAZ92YQyVAZ92YQyVAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.1400.IRZXSOY?mo=GkYaCTIBAUgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/a/mPBcMKEZ8O0iTBayQEzIs.1400?mo=GjQaCTIBAUgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "aqGFoCaTivT0lCeaNZw1Wi+pJ8WNsPrlwgKckcwi+To=",
+      "mediaIv": "dYt19TY5nLUALCiJVqgAtQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Alex Diago",
+    "businessProfileId": "28093e90-5428-4be0-91a8-95e9a33bcf87",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcmRCdnloaWxReGlZMEp0eFNUVnRiP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "The Rock's incredible fitness transformation.",
+        "keywords": [
+         "The Rock",
+         "transformation"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.9964559674263
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "This video presents a side-by-side comparison of Dwayne 'The Rock' Johnson's physique, illustrating his dramatic downsizing. It features a narrator discussing a health scare involving plaque buildup in his circumflex artery, which allegedly led to him taking a break from his intense fitness regimen. The visuals juxtapose his current leaner look with his famously muscular past, raising questions about his health and future fitness plans.",
+    "llmTitle": "The Rock's Shocking Health Transformation: What You Need to Know",
+    "textMetadataKeywords": [
+     "The Rock",
+     "transformation"
+    ],
+    "llmKeywords": [
+     "Dwayne Johnson transformation",
+     "The Rock interview"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "76",
+    "shareCount": "0",
+    "viewCount": "2800",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "7",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ",
+     "snapClientId": "C62EB120-BE7C-44ED-9909-61D6D0FF7411",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/7/pWheye9JMj6XazD9gywHz?bo=EgkyAVpIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ",
+      "mediaIv": "1C4zKxuJGTU+bclHNneOew==",
+      "mediaKey": "Ti/dDQHXZVN7zAvTl6Bw298PB166GI8uRFoTLVThmXw=",
+      "isZipped": true,
+      "duration": 83.17,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/pWheye9JMj6XazD9gywHz.27.IRZXSOY?mo=GmsaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQwgbEjIKMAiCx_gCIAEwnAQ4wAdAAUoPCgq5ARgZGRcZGh4xEPQDUOKJBWgCdSXLTUB9AACAPyILEgAqB0lSWlhTT1mQA-KJBQ%3D%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/pWheye9JMj6XazD9gywHz.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYIh5aiAiABMOADONQGQAFKDwoKrQEUExQSFBUXFhD0A1DiiQVoAiILEgAqB0lSWlhTT1mQA-KJBQ%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1762454812970",
+     "sourceCreationTimestamp": "1762320513000",
+     "expirationTimestampMs": "4916054812970",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "cd52a960-9993-11e8-8586-0b9413019b3f",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "d961e6db-66cb-4ce7-b59e-a1ffee229b72",
+      "userName": "shakastrong",
+      "displayName": "Shaka",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "@therock on how he was able to give such a raw compelling performance ",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "The Rock on his performance in The Smashing Machine #therock "
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/pWheye9JMj6XazD9gywHz.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcnJrenJlYWtoAZpaoLFPAZpafjkqAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "94cc158f8fa80c06522c5f26bc0a50f7",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/pWheye9JMj6XazD9gywHz.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/pWheye9JMj6XazD9gywHz.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "Ti/dDQHXZVN7zAvTl6Bw298PB166GI8uRFoTLVThmXw=",
+      "mediaIv": "1C4zKxuJGTU+bclHNneOew=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Shaka",
+    "businessProfileId": "a21b4fd8-1002-4fd2-a774-00323baebadf",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson discusses his raw acting performance.",
+        "keywords": [
+         "Dwayne Johnson",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this candid interview segment, Dwayne Johnson, known as 'The Rock,' sits on stage during what appears to be a Q&A session. He speaks thoughtfully into a microphone while gesturing with his hands, sharing insights in a relaxed yet passionate manner.",
+    "llmTitle": "The Rock Shares Life Lessons in Candid Interview",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "The Rock"
+    ],
+    "llmKeywords": [
+     "The Rock interview",
+     "how to give a good speech"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "16",
+    "shareCount": "0",
+    "viewCount": "1019",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "1",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ",
+     "snapClientId": "61D8A4BF-6DF1-4B26-A36A-80664D4FF1D4",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s?bo=EgkyAXhIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ",
+      "mediaIv": "w3HF9OlOxoSZflhTotrEQA==",
+      "mediaKey": "944usHUHUDqedvIabz/bES3bmfALznJO7JbxHrHaeig=",
+      "isZipped": false,
+      "duration": 64.629,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.27.IRZXSOY?mo=GmcaCTIBeEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBPwgbEi4KLAic4qsJIAEwnAQ4wAdAAUoVChCzAm1-nwGcAYQBlgGaAYsBEPQDUPX4A2gCIgsSACoHSVJaWFNPWZAD9fgD&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.1034.IRZXSOY?mo=GlAaCTIBeEgCUC5gAVCxAaIBOgiKCBIoCiYIxaC4AyABMOADONQGQAFKDwoK5wE8P0Y_Mzo1LxD0A1D1-ANoAiILEgAqB0lSWlhTT1mQA_X4Aw%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1782934903999",
+     "sourceCreationTimestamp": "1782934903999",
+     "expirationTimestampMs": "4936534903999",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#disneystudios",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#moana",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "f676e7cb-b113-4e91-b5da-cd1861149304",
+      "userName": "yinrun_hello",
+      "displayName": "Yinrun",
+      "followerCount": "0",
+      "snapproTier": 3,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": true,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Maui sings to us LIVE! in London! 🏝️ 🎤 🎵 #disneystudios #moana #therock #yinrun #disneyuk"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The Rock singing Moana in front of the Tower of London? Iconic.\",\n  \"Version\": \"1.2\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYamNxZ2ttaHZoAZ8fQi02AZ8fM5y_AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "be2952fab59585ccec4a6951e9fa2dfb",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYa2hjcnl0anR5AZ8fQ_utAZ8fQ_utAAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.256?mo=GjQaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "944usHUHUDqedvIabz/bES3bmfALznJO7JbxHrHaeig=",
+      "mediaIv": "w3HF9OlOxoSZflhTotrEQA=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdyd2lwd3FpAZ8fRtQOAZ8fRtQOAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.1400.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/AEGPxxio1G1hZTenIGF8s.1400?mo=GjQaCTIBeEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "944usHUHUDqedvIabz/bES3bmfALznJO7JbxHrHaeig=",
+      "mediaIv": "w3HF9OlOxoSZflhTotrEQA=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Yinrun",
+    "businessProfileId": "3073b1b1-c9a0-42b4-a6d6-b60e1e593990",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWjR5d214bUJzYlhvMTF0SEhDODVIP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Impersonation of Dwayne Johnson in comedy sketch.",
+        "keywords": [
+         "standup comedy",
+         "Dwayne Johnson"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "Dwayne Johnson, known as The Rock, surprises fans in London with a live performance of his hit song 'You're Welcome' from Disney's Moana. Dressed in a white outfit and adorned with a traditional Hawaiian lei, he sings and dances energetically with a group of performers in front of a crowd near Tower Bridge. The event, clearly part of a promotional campaign for the movie Moana, features a large, stylized fish hook prop and a banner with the film's logo, creating a festive and tropical atmosphere in the heart of the city.",
+    "llmTitle": "The Rock Performs 'You're Welcome' in London: A Moana Surprise!",
+    "textMetadataKeywords": [
+     "standup comedy",
+     "Dwayne Johnson"
+    ],
+    "llmKeywords": [
+     "The Rock charisma"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "4022",
+    "shareCount": "360",
+    "viewCount": "63909",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "224",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "224",
+    "newPendingCommentCount": "0",
+    "recommendCount": "477",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "timedAdPlacements": {
+    "adPlacementStrategy": [
+     {
+      "strategy": "default",
+      "timeBasedAds": [
+       {
+        "adPlacementTimeSec": 15
+       },
+       {
+        "adPlacementTimeSec": 30.5
+       }
+      ]
+     }
+    ],
+    "requestId": ""
+   },
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": true
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ",
+     "snapClientId": "bfac875f-d400-4f7f-9a69-d04356543114",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.mp4?bo=EgkyAQRIA1AuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ",
+      "mediaIv": "gIsykcgKVmDXkwTlPKfGCA==",
+      "mediaKey": "EANjt3/SzoiZBNmg967a0siV8cTeZDpgF+lhTtkNEzE=",
+      "isZipped": false,
+      "duration": 27.83,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYImOSMASABMOADONQGQAFKDwoKgQE9PTJjIiUaFhD0A1C22QFoAiILEgAqB0lSWlhTT1mQA7bZAQ%3D%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYImOSMASABMOADONQGQAFKDwoKgQE9PTJjIiUaFhD0A1C22QFoAiILEgAqB0lSWlhTT1mQA7bZAQ%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 0,
+       "height": 0
+      }
+     },
+     "creationTimestampMs": "1786377601486",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4939977601486",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "fc6c2987-f229-482d-995d-335051731574",
+      "userName": "curiouslymedia",
+      "displayName": "Curiously",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 7
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "supergirl | dc | disney | therock",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Biggest box office ‘flops’ of 2026 🍿 👀\n#moana #supergirl #dc #disney #therock "
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 3,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"These 2026 movie 'flops' are wild 🍿\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZndwb2F4cHJzAZ_sZwHjAZ_sZwHOAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "0ba81eefcb42e3d2ac2fef06510232ef",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "EANjt3/SzoiZBNmg967a0siV8cTeZDpgF+lhTtkNEzE=",
+      "mediaIv": "gIsykcgKVmDXkwTlPKfGCA=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/G1MfDZtTjg1sQlB4pVQVn.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "EANjt3/SzoiZBNmg967a0siV8cTeZDpgF+lhTtkNEzE=",
+      "mediaIv": "gIsykcgKVmDXkwTlPKfGCA=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Curiously",
+    "businessProfileId": "dd2008fb-b075-47d2-8c93-518c7f8b8c4a",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 9,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Supergirl movie trailer featuring The Rock.",
+        "keywords": [
+         "Supergirl",
+         "DC Comics"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Disney",
+         "Box Office"
+        ],
+        "scoredTags": [
+         {
+          "name": "Disney",
+          "score": 1.000000238418579
+         },
+         {
+          "name": "Box Office",
+          "score": 1
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "This video presents a rapid-fire montage of major Hollywood films that have been labeled as 'box office flops' for 2026. It uses split-screen visuals to juxtapose dramatic movie scenes with real-world billboards advertising the same films, while on-screen text clearly states their production budgets versus their actual box office earnings. The compilation includes movies like 'Supergirl,' 'Desert Warrior,' 'Masters of the Universe,' 'The Bride,' and 'Moana,' highlighting the significant financial gap between investment and return.",
+    "llmTitle": "Biggest Box Office Flops of 2026 So Far: A Look at the Year's Biggest Financial Disappointments",
+    "textMetadataKeywords": [
+     "Supergirl",
+     "DC Comics"
+    ],
+    "llmKeywords": [
+     "dwayne johnson movies"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "338",
+    "shareCount": "10",
+    "viewCount": "38711",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "25",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "25",
+    "newPendingCommentCount": "0",
+    "recommendCount": "7",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ",
+     "snapClientId": "BF8038A7-F65E-453C-A7AA-FD48ABB3CD01",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/5/DcrzmeMVBOI24sAftFihy?bo=EgkyAX9IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ",
+      "mediaIv": "KT4Sa/IomokdPHwCgQ6w4w==",
+      "mediaKey": "m2eg05OTMdYDn+mp3WIaypzaeUEzvOhTagX2s2KLuqk=",
+      "isZipped": true,
+      "duration": 44.64,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/DcrzmeMVBOI24sAftFihy.27.IRZXSOY?mo=GmkaCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBRAgbEjMKMQiCkrMEIAEwnAQ4wAdAAUoQCgvvAWxlZ2uBAWNtcxD0A1Dg3AJoAnX11mpAfQAAgD8iCxIAKgdJUlpYU09ZkAPg3AI%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/DcrzmeMVBOI24sAftFihy.1034.IRZXSOY?mo=GlIaCTIBBEgCUC5gAaIBPwiKCBItCisIka-9AiABMOADONQGQAFKDwoKvAFIQD4_TDU1PBD0A1Dg3AJoAnXqjFZAIgsSACoHSVJaWFNPWZAD4NwC&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1759050582790",
+     "sourceCreationTimestamp": "1759047060000",
+     "expirationTimestampMs": "4912650582790",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "46a2168d-28c3-4a04-8779-a2906db158c1",
+      "userName": "memegodz12",
+      "displayName": "MemeGodz12",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "What just happened???",
+     "animatedSnapType": 3,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "smoldering what??? #therock #therockmemes"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/DcrzmeMVBOI24sAftFihy.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYenpwbXpja21kAZmPlinhAZmPlcsGAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "92d1967d577eb89b1e9d2eac8cbb850e",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/DcrzmeMVBOI24sAftFihy.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/DcrzmeMVBOI24sAftFihy.256?mo=GjEaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "m2eg05OTMdYDn+mp3WIaypzaeUEzvOhTagX2s2KLuqk=",
+      "mediaIv": "KT4Sa/IomokdPHwCgQ6w4w=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "MemeGodz12",
+    "businessProfileId": "25ba597c-57bd-4d23-b502-37f0b3762665",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Intense moment featuring Dwayne Johnson unexpectedly reacting.",
+        "keywords": [
+         "Dwayne Johnson",
+         "reaction"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this hilarious meme compilation, Dwayne Johnson stars as 'The Rock' in a series of comedic scenes reacting to a fictional game where his character has absurdly weak stats like 'Zoology,' 'Cake,' and 'Weapons Valet.' Watch him go from shock to disbelief as he discovers his character's unexpected weaknesses.",
+    "llmTitle": "The Rock Reacts to a Viral Game Glitch!",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "reaction"
+    ],
+    "llmKeywords": [
+     "Dwayne Johnson funny moments",
+     "how to make meme videos"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "362",
+    "shareCount": "4",
+    "viewCount": "8637",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "7",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "7",
+    "newPendingCommentCount": "0",
+    "recommendCount": "31",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ",
+     "snapClientId": "0A2DFA13-A486-4038-BB14-2EA33A53A8AB",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/bc5sQB7auEmawhfv9SRhP?bo=EgkyAX1IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ",
+      "mediaIv": "2ksdeRM5wzofbTIyvwDHew==",
+      "mediaKey": "JdmwK3H3Ndr6lRIS+pB0YtSCU2qkeINVC9vgSfLNjLI=",
+      "isZipped": false,
+      "duration": 9,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwih-1IgATCcBDjAB0ABSg4KCXdGTkM_WEFxRxD0A1CoRmgCIgsSACoHSVJaWFNPWZADqEY%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMIn8U-IAEw4AM41AZAAUoOCgleNzozLyxMTzoQ9ANQqEZoAiILEgAqB0lSWlhTT1mQA6hG&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1783965928501",
+     "sourceCreationTimestamp": "1783965928501",
+     "expirationTimestampMs": "4937565928501",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#Moana",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#dwaynejohnson",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "8f26d6a9-fcf1-46b7-84a9-08f4f509a5ba",
+      "userName": "vallitfit",
+      "displayName": "Valeriia Litvinova",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "A true Maui fan girl moment 🌺 #Moana #dwaynejohnson #TheRock #Disney"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "1783965602",
+         "mediaSource": 4,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"When your crush is on the gift packaging...\",\n  \"Version\": \"1.2\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYYnNseWx6cGdpAZ9cp9vWAZ9cp8w1AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "bfb96146d33e809d82f39e3b6ac07d87",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYZnVudmVieWN6AZ9cqGPjAZ9cqGPjAAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "JdmwK3H3Ndr6lRIS+pB0YtSCU2qkeINVC9vgSfLNjLI=",
+      "mediaIv": "2ksdeRM5wzofbTIyvwDHew=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYbG5wdHlsbW10AZ9cqYOYAZ9cqYOYAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/bc5sQB7auEmawhfv9SRhP.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "JdmwK3H3Ndr6lRIS+pB0YtSCU2qkeINVC9vgSfLNjLI=",
+      "mediaIv": "2ksdeRM5wzofbTIyvwDHew=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Valeriia Litvinova",
+    "businessProfileId": "ced36183-f1a2-47d7-8921-dea3c3614448",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRjY3bWU5SFBCZW9xdndlcVNDMU9aP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 10,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Humorous reactions to unexpected gifts.",
+        "keywords": [
+         "gift reactions",
+         "comedy"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Humor"
+        ],
+        "scoredTags": [
+         {
+          "name": "Humor",
+          "score": 1.0000001192092896
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this short clip, Valeriia Litvinova is seen excitedly unwrapping a gift. As she cuts through the paper, text on screen humorously reads 'When you get a gift but your crush is on the packaging...', revealing her crush's name was part of the present's design.",
+    "llmTitle": "Valeriia Litvinova Unwraps Gift with Crush on Packaging",
+    "textMetadataKeywords": [
+     "gift reactions",
+     "comedy"
+    ],
+    "llmKeywords": [
+     "gift wrapping ideas",
+     "how to wrap a gift"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "3512",
+    "shareCount": "15",
+    "viewCount": "40006",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "56",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "56",
+    "newPendingCommentCount": "0",
+    "recommendCount": "121",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ",
+     "snapClientId": "7da2c823-675a-4846-b640-fe52a054ed5b",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/A0gF854Yi0OwZdv2nnN15?bo=EhAyAX1IAlAuWgUIsLCXA2AB&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ",
+      "mediaIv": "pzE5fXvSQ/6G4wV6XoVX+g==",
+      "mediaKey": "JNgtbmSb2AflLZYQdmMiW6i/Eu72sgDsi/QUPgj1Bvg=",
+      "isZipped": false,
+      "duration": 32.63,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiRhagCIAEwnAQ4wAdAAUoPCgrFAUNER0Y8S01CEPQDUPb-AWgCIgsSACoHSVJaWFNPWZAD9v4B&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYIw9veASABMOADONQGQAFKDwoKlAEyMzUyLDg2LxD0A1D2_gFoAiILEgAqB0lSWlhTT1mQA_b-AQ%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1786920363567",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4940520363567",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#D23",
+          "isServerSuggested": false,
+          "source": 0
+         },
+         {
+          "title": "#Disney",
+          "isServerSuggested": false,
+          "source": 0
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "ca0b3250-33c8-4463-b5dc-b4fc391e845c",
+      "userName": "karimesalmen",
+      "displayName": "Karim Salmen",
+      "followerCount": "0",
+      "snapproTier": 3,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": true,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 8
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Your new Disney Legend therock !!\n.\n.\n.\n#D23 #Disney #D23Creators #therock #disneylegend"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The Rock is officially a Disney Legend!\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYa293bGR4Z2psAaAMwOZrAaAMwOYvAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "7685141625fbc7e6b5e5b8432c52dad4",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "JNgtbmSb2AflLZYQdmMiW6i/Eu72sgDsi/QUPgj1Bvg=",
+      "mediaIv": "pzE5fXvSQ/6G4wV6XoVX+g=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/A0gF854Yi0OwZdv2nnN15.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "JNgtbmSb2AflLZYQdmMiW6i/Eu72sgDsi/QUPgj1Bvg=",
+      "mediaIv": "pzE5fXvSQ/6G4wV6XoVX+g=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Karim Salmen",
+    "businessProfileId": "0d006440-3423-4c09-800b-419b26931688",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvd0JIVXJoYkQwc3JMVHoxY285NGNTP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "The Rock celebrates at Disney event.",
+        "keywords": [
+         "Dwayne Johnson",
+         "Disney"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Disney"
+        ],
+        "scoredTags": [
+         {
+          "name": "Disney",
+          "score": 1.000000238418579
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "Sabrina Carpenter presents Dwayne 'The Rock' Johnson with the Disney Legend award during a grand ceremony. On stage, Johnson stands with his family and friends as Carpenter speaks about his legacy and impact on Disney.",
+    "llmTitle": "Sabrina Carpenter Honors Dwayne Johnson as New Disney Legend",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "Disney"
+    ],
+    "llmKeywords": [
+     "Sabrina Carpenter speech",
+     "Sabrina Carpenter fashion"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "51",
+    "shareCount": "3",
+    "viewCount": "3274",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "3",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ",
+     "snapClientId": "5C44FA36-762A-4945-880A-1A935AECD1ED",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/I8FTiRx8auqs0xePTzYo7?bo=EgkyAX1IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ",
+      "mediaIv": "FJSQQhdCd/m/SwOdWPoiAw==",
+      "mediaKey": "Tjfu14ioSTC6cwCQOKfzdpLR3ykiS2qSw4vwylMCp4E=",
+      "isZipped": false,
+      "duration": 48.97,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.27.IRZXSOY?mo=GmAaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjupaoBIAEwnAQ4wAdAAUoOCgl-MTM5NyYnKicQ9ANQyv4CaAIiCxIAKgdJUlpYU09ZkAPK_gI%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.1034.IRZXSOY?mo=Gk8aCTIBBEgCUC5gAVCxAaIBOQiKCBInCiUI9ayMASABMOADONQGQAFKDgoJaSclKykhIyIcEPQDUMr-AmgCIgsSACoHSVJaWFNPWZADyv4C&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1776010148665",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4929610148665",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#top5",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#therock",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "7379c40a-ce40-4f75-8829-34ad758d0171",
+      "userName": "top5dailyyy",
+      "displayName": "Top5daily",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "The 5 most expensive things Dwayne the rock Johnson owns . #top5 #therock #dwaynejohnson #expensive"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": null,\n  \"Version\": \"1.1\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdGtqa3F1ZmxrAZ2CdSnHAZ2CdDs5AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "af8479536c60db850610c1211e60faec",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "Tjfu14ioSTC6cwCQOKfzdpLR3ykiS2qSw4vwylMCp4E=",
+      "mediaIv": "FJSQQhdCd/m/SwOdWPoiAw=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/I8FTiRx8auqs0xePTzYo7.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "Tjfu14ioSTC6cwCQOKfzdpLR3ykiS2qSw4vwylMCp4E=",
+      "mediaIv": "FJSQQhdCd/m/SwOdWPoiAw=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Top5daily",
+    "businessProfileId": "a86279e3-e8d1-4314-9fd4-0dbb0c50c2ff",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvS3ozYUZ0NGFBZWRkbmZkQVNDWmh1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Showcasing impressive fleet of watches.",
+        "keywords": [
+         "watches",
+         "fleet"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.999170184135437
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "A rapid-fire visual tour of Dwayne Johnson's extravagant lifestyle, showcasing his collection of Rolex watches valued at over $200,000, a fleet of supercars including a Pagani and McLaren worth $4 million, stunning multi-million dollar properties, and his private jet. This fast-paced montage highlights the wealth and luxury associated with one of Hollywood's biggest stars.",
+    "llmTitle": "The Rock's $100M Empire: Luxury Watches, Supercars & Private Jets Revealed",
+    "textMetadataKeywords": [
+     "watches",
+     "fleet"
+    ],
+    "llmKeywords": [
+     "Dwayne Johnson net worth",
+     "The Rock fitness"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "19",
+    "shareCount": "0",
+    "viewCount": "9141",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "3",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "3",
+    "newPendingCommentCount": "0",
+    "recommendCount": "6",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ",
+     "snapClientId": "DD64C400-1208-48A8-852A-B242D90DDD77",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/z/x5tcq72uEHNhNSsWJap4p?bo=EgkyAXlIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ",
+      "mediaIv": "NCcGCkZAb38xnTycfZDrfg==",
+      "mediaKey": "zmkFLUsX/WT6iE5GcDDkZoaQ+oQA5OZejXbpICAljvQ=",
+      "isZipped": false,
+      "duration": 12.13,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/z/x5tcq72uEHNhNSsWJap4p.27.IRZXSOY?mo=Gl0aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwib8TQgATCcBDjAB0ABSg4KCVslERoxFRwdIRD0A1DiXmgCIgsSACoHSVJaWFNPWZAD4l4%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/z/x5tcq72uEHNhNSsWJap4p.1034.IRZXSOY?mo=GkwaCTIBeUgCUC5gAVCxAaIBNwiKCBIlCiMIuP8oIAEw4AM41AZAAUoOCglDGwwSIg8SFRoQ9ANQ4l5oAiILEgAqB0lSWlhTT1mQA-Je&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1766947213308",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4920547213308",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#fortnite",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#gaming",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "058dc6ed-7715-4841-9775-d003029c8ed8",
+      "userName": "heroic",
+      "displayName": "HEROIC",
+      "followerCount": "0",
+      "snapproTier": 0,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "you aint got no choice in this bro #fortnite #gaming #kevinhart #steam #therock"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/z/x5tcq72uEHNhNSsWJap4p.256.IRZXSOY?mo=GkYaCTIBeUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGVtc3psdXVnAZtmQvSfAZtmQs_8AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "587d21fa03f2adb6dc682923bae0c3f4",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/z/x5tcq72uEHNhNSsWJap4p.256.IRZXSOY?mo=GkYaCTIBeUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/z/x5tcq72uEHNhNSsWJap4p.256?mo=GjQaCTIBeUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "zmkFLUsX/WT6iE5GcDDkZoaQ+oQA5OZejXbpICAljvQ=",
+      "mediaIv": "NCcGCkZAb38xnTycfZDrfg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "HEROIC",
+    "businessProfileId": "b6e670d1-878b-45b7-aed0-8f8b076a7409",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/3d/render/10226022-99097258891_25-s5-v1.webp?scale=0&trim=circle&ua=2",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Discussion about buying a game for $25.",
+        "keywords": [
+         "video game",
+         "purchase"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Humor",
+         "Purchase"
+        ],
+        "scoredTags": [
+         {
+          "name": "Humor",
+          "score": 1.0000001192092896
+         },
+         {
+          "name": "Purchase",
+          "score": 0.9999999403953552
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "textMetadataKeywords": [
+     "video game",
+     "purchase"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "38",
+    "shareCount": "15",
+    "viewCount": "1626",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "6",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ",
+     "snapClientId": "6277AC1F-09A7-4DBC-91D3-FEADBC9DBE00",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/7/xXWrB4Ym3yJnb1uvZYoyM?bo=EgkyAVpIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ",
+      "mediaIv": "ra78eOM3CH0PAdbWUb64Cw==",
+      "mediaKey": "yRtdy287WWMtTylw9F4Jx/5ocU7SV7ilp+DN9OOVBeU=",
+      "isZipped": true,
+      "duration": 14.63,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/xXWrB4Ym3yJnb1uvZYoyM.27.IRZXSOY?mo=GmcaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQiV718gATDgAzjWBkABSg4KCV02OTo7IywxLRD0A1CmcmgCdQT7IEB9AACAPyILEgAqB0lSWlhTT1mQA6Zy&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/xXWrB4Ym3yJnb1uvZYoyM.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMIrOVXIAEw4AM41gZAAUoOCglWMTQ1NyAoLSsQ9ANQpnJoAiILEgAqB0lSWlhTT1mQA6Zy&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 480,
+       "height": 854
+      }
+     },
+     "creationTimestampMs": "1762455377454",
+     "sourceCreationTimestamp": "1762384257000",
+     "expirationTimestampMs": "4916055377454",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "156d3f50-c818-11e8-8284-839bbdf43077",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "d961e6db-66cb-4ce7-b59e-a1ffee229b72",
+      "userName": "shakastrong",
+      "displayName": "Shaka",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "POV: You meet The Rock and he notices your gains 🥹💪🏿",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "And you know I had to throw up the flex 😝💪🏿 #therock #a24 #thesmashingmachine"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 6,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/xXWrB4Ym3yJnb1uvZYoyM.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbmpnbGZwdW1nAZpaoL0GAZpahtYuAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "23228c132479d0c12197d52aece8a327",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/xXWrB4Ym3yJnb1uvZYoyM.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/xXWrB4Ym3yJnb1uvZYoyM.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "yRtdy287WWMtTylw9F4Jx/5ocU7SV7ilp+DN9OOVBeU=",
+      "mediaIv": "ra78eOM3CH0PAdbWUb64Cw=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Shaka",
+    "businessProfileId": "a21b4fd8-1002-4fd2-a774-00323baebadf",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Meeting The Rock and impressing him with gains.",
+        "keywords": [
+         "Dwayne Johnson",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.9296150207519531
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In a candid behind-the-scenes moment, Shaka is seen interacting warmly with fans and staff in a crowded indoor setting. He smiles and gestures while surrounded by people, including security personnel in suits, creating an atmosphere of excitement and connection.",
+    "llmTitle": "Shaka Shares Behind-the-Scenes Moment with Fans",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "The Rock"
+    ],
+    "llmKeywords": [
+     "crowd engagement tips",
+     "what celebrities do offstage"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "28",
+    "shareCount": "0",
+    "viewCount": "16268",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "5",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw",
+     "snapClientId": "1b9b2cb9-a49d-70c7-5c52-953b951b8dbf",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bn/3BmL0rvfuLV2bnLaV7IYO?bo=EgkyAVJIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw",
+      "mediaIv": "k3+BQecN23l3Yh0Ttje3Jg==",
+      "mediaKey": "IlSQw9Mr2EHCx3ChXMtNkySVeFciic0Ea2kFURpBHZs=",
+      "isZipped": false,
+      "duration": 50.5,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgio25EDIAEwnAQ4wAdAAUoPCgqdATxJT0FJP01BEPQDUMSKA2gCIgsSACoHSVJaWFNPWZADxIoD&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYI_8nFAiABMOADONQGQAFKDwoKhgEuQjo0PjU6OBD0A1DEigNoAiILEgAqB0lSWlhTT1mQA8SKAw%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1787948924559",
+     "sourceCreationTimestamp": "1787941606000",
+     "expirationTimestampMs": "4941548924559",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#TheRock",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#RonnieColeman",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "6a948999-ad37-4fae-b2f7-05d3bb6e05db",
+      "userName": "wm_media85",
+      "displayName": "Wrestling Montage Media",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 0,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "The Rock Goes Ronnie 😂#TheRock #RonnieColeman #WWE #wrestlingtiktok"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 4,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The Rock is ready to be the FINAL BOSS\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcm5yZWhobG1vAaBKD36nAaBKD36PAAAAAw",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "e789621472c72c7cc2fac5e5120880f4",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYbGV2eGdsc2hnAaBKEL95AaBKEL95AAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "IlSQw9Mr2EHCx3ChXMtNkySVeFciic0Ea2kFURpBHZs=",
+      "mediaIv": "k3+BQecN23l3Yh0Ttje3Jg=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYaGZwZXV6Z2l6AaBKEk3JAaBKEk3JAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/3BmL0rvfuLV2bnLaV7IYO.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "IlSQw9Mr2EHCx3ChXMtNkySVeFciic0Ea2kFURpBHZs=",
+      "mediaIv": "k3+BQecN23l3Yh0Ttje3Jg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Wrestling Montage Media",
+    "businessProfileId": "d2598e71-1883-4f6f-90c5-2f4b8f4c70a3",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU2FGNHE5d1hpbllUMWhGRWtxSnZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson showcasing strength training techniques.",
+        "keywords": [
+         "Dwayne Johnson",
+         "strongman"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.9633013010025024
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "Watch Dwayne 'The Rock' Johnson power through a grueling leg workout in his iconic 'Final Boss' tank top. This raw, behind-the-scenes look captures his legendary work ethic and dedication to fitness in a professional gym setting.",
+    "llmTitle": "Dwayne Johnson's Intense Gym Workout Routine | Final Boss Training",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "strongman"
+    ],
+    "llmKeywords": [
+     "Dwayne Johnson workout",
+     "how to build leg muscles"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "40",
+    "shareCount": "0",
+    "viewCount": "1635",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "1",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "1",
+    "newPendingCommentCount": "0",
+    "recommendCount": "1",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ",
+     "snapClientId": "c97460c2-983d-b542-15dd-b5c6d4f363ab",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bn/gOnvrROfvvk3SOwPbA7SX?bo=EgkyAVJIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ",
+      "mediaIv": "fFeVgCmzrwYhczpByE5Cvw==",
+      "mediaKey": "xphAHzEK7L6Q0Qrw0lu+vaY391LGSMtwqlOsqXEBDAU=",
+      "isZipped": false,
+      "duration": 100.06,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/gOnvrROfvvk3SOwPbA7SX.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjO1pYEIAEwnAQ4wAdAAUoPCgrwASojIC0jJio4EPQDUNyNBmgCIgsSACoHSVJaWFNPWZAD3I0G&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/gOnvrROfvvk3SOwPbA7SX.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYInd-tAyABMOADONQGQAFKDwoK6QEjGxolHhwmIhD0A1DcjQZoAiILEgAqB0lSWlhTT1mQA9yNBg%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1787266258848",
+     "sourceCreationTimestamp": "1787264586000",
+     "expirationTimestampMs": "4940866258848",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#TheRock",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#WWE",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "6a948999-ad37-4fae-b2f7-05d3bb6e05db",
+      "userName": "wm_media85",
+      "displayName": "Wrestling Montage Media",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "THE ROCK IS OFFICIALLY A DISNEY LEGEND! 🏆🔥\n#TheRock #WWE #DisneyLegends #wrestlingtiktok"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 4,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": ""
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/gOnvrROfvvk3SOwPbA7SX.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZGhkd2t4cm9jAaAhXte5AaAhXtegAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "28ed4d9b733fed0bfce555c94a8d52cc",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/gOnvrROfvvk3SOwPbA7SX.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/gOnvrROfvvk3SOwPbA7SX.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "xphAHzEK7L6Q0Qrw0lu+vaY391LGSMtwqlOsqXEBDAU=",
+      "mediaIv": "fFeVgCmzrwYhczpByE5Cvw=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Wrestling Montage Media",
+    "businessProfileId": "d2598e71-1883-4f6f-90c5-2f4b8f4c70a3",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU2FGNHE5d1hpbllUMWhGRWtxSnZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Dwayne Johnson speaks at the Oscars event.",
+        "keywords": [
+         "Dwayne Johnson",
+         "The Rock"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "Dwayne Johnson, known as 'The Rock,' accepts the Disney Legend award in a heartfelt speech. He shares his gratitude, jokes about his grandmother, and delivers a powerful message about treating people with kindness and respect, emphasizing that everyone is going through something.",
+    "llmTitle": "The Rock Accepts Disney Legend Award | Emotional Speech on Kindness",
+    "textMetadataKeywords": [
+     "Dwayne Johnson",
+     "The Rock"
+    ],
+    "llmKeywords": [
+     "how to be kind to others",
+     "The Rock motivational speech"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "70",
+    "shareCount": "6",
+    "viewCount": "5411",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "0",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "0",
+    "newPendingCommentCount": "0",
+    "recommendCount": "10",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  }
+ },
+ "isGDPRCountry": false,
+ "shouldNotIndex": false,
+ "deepLinkPath": null
+}

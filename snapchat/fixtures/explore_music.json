@@ -1,0 +1,5133 @@
+{
+ "locale": "en-US",
+ "country": "IN",
+ "query": "music",
+ "sections": [
+  {
+   "title": "Spotlight",
+   "sectionType": 47,
+   "results": [
+    {
+     "resultType": 26,
+     "result": {
+      "$case": "storyCard",
+      "storyCard": {
+       "storyId": "9f982c3b72d297e9646aefbf77cadefe",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.1025?mo=Gh8aCTIBBEgCUC5gAVoIRGZGRnJhbWWiAQcIgQgiAhIA&uc=46",
+       "thumbnailIv": "r8kbPbHHNh81WaZOIKRHHQ==",
+       "mediaKey": "aZqyye7mDcodOOnFmst7A78AwsdqmtPPXfojXsh/k2w=",
+       "onTap": {
+        "action": {
+         "$case": "playStoryCard",
+         "playStoryCard": {
+          "storyId": "9f982c3b72d297e9646aefbf77cadefe"
+         }
+        }
+       },
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+       "bottomLeadingUiElements": [
+        1
+       ],
+       "playCount": "1.5M",
+       "creatorName": "",
+       "creatorNameMaxNumLines": 0,
+       "creatorNameDecorators": [],
+       "creatorNameLogoUrl": "",
+       "teaserText": "",
+       "teaserTextMaxNumLines": 0,
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.27.IRZXSOY?mo=GmQaCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQiXjCEgATCcBDjAB0ABSg4KCVcpMSMgJCUmIhD0A1C2NGgCdcD3MUB9AACAPyILEgAqB0lSWlhTT1mQA7Y0&uc=46",
+       "ageText": "",
+       "creatorDisplayName": "",
+       "creatorUsername": ""
+      }
+     },
+     "compId": {
+      "corpus": 32,
+      "id": "9f982c3b72d297e9646aefbf77cadefe",
+      "version": "0"
+     }
+    },
+    {
+     "resultType": 26,
+     "result": {
+      "$case": "storyCard",
+      "storyCard": {
+       "storyId": "2370795b4048f792baee7d477bca654c",
+       "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.1025?mo=GiIaCTIBV0gCUC5gAVCdAVoIRGZGRnJhbWWiAQcIgQgiAhIA&uc=46",
+       "thumbnailIv": "oriNHXtrEjp4+oQ9jn5BRg==",
+       "mediaKey": "fUQypTIz4EVQ22ZyWHDsLWlNrxwkaO/iMCVmX9VkiJk=",
+       "onTap": {
+        "action": {
+         "$case": "playStoryCard",
+         "playStoryCard": {
+          "storyId": "2370795b4048f792baee7d477bca654c"
+         }
+        }
+       },
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+       "bottomLeadingUiElements": [],
+       "playCount": "",
+       "creatorName": "",
+       "creatorNameMaxNumLines": 0,
+       "creatorNameDecorators": [],
+       "creatorNameLogoUrl": "",
+       "teaserText": "",
+       "teaserTextMaxNumLines": 0,
+       "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.27.IRZXSOY?mo=Gl0aCTIBV0gCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwie0xUgATCcBDjAB0ABSg4KCS8VEhQSExITIRD0A1DOQGgCIgsSACoHSVJaWFNPWZADzkA%3D&uc=46",
+       "ageText": "",
+       "creatorDisplayName": "",
+       "creatorUsername": ""
+      }
+     },
+     "compId": {
+      "corpus": 32,
+      "id": "2370795b4048f792baee7d477bca654c",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": false,
+   "sectionPageToken": {},
+   "columnCount": 2
+  },
+  {
+   "title": "Lenses",
+   "sectionType": 6,
+   "results": [
+    {
+     "resultType": 6,
+     "result": {
+      "$case": "lens",
+      "lens": {
+       "lensId": "63743050879",
+       "name": "music wallpaper",
+       "iconUrl": "https://lens-storage.storage.googleapis.com/png/1e0576539ce34c8e9599b6269f11bb05",
+       "deeplinkUrl": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d9a508d092f6410eb6188aa17de8afaf&metadata=01",
+       "creatorName": "Chandni Pal",
+       "creatorUserId": "7dc1a15d-b69e-431f-b340-b1aee12dd4a3",
+       "creatorProfileId": "",
+       "creatorIsOffical": false,
+       "thumbnailUrl": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_poster/cfc958ca-1255-4c2a-b94c-61991f88d680.jpg",
+       "thumbnailSequence": {
+        "urlPattern": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_seq/cfc958ca-1255-4c2a-b94c-61991f88d680/image_%d.jpg",
+        "numThumbnails": 4,
+        "animationIntervalMs": 300
+       },
+       "scpExclusive": false
+      }
+     },
+     "compId": {
+      "corpus": 3,
+      "id": "63743050879",
+      "version": "1711902621"
+     }
+    },
+    {
+     "resultType": 6,
+     "result": {
+      "$case": "lens",
+      "lens": {
+       "lensId": "63246480975",
+       "name": "music",
+       "iconUrl": "https://lens-storage.storage.googleapis.com/png/6cdf9fff995c4081a98d447a949b04c3",
+       "deeplinkUrl": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=fbc1e21b149049919a67f5b5a0ee05dd&metadata=01",
+       "creatorName": "محمد | 🎥🎞️",
+       "creatorUserId": "2e8fbe00-910d-45f1-a527-109a76adc3d4",
+       "creatorProfileId": "",
+       "creatorIsOffical": false,
+       "thumbnailUrl": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_poster/66e4b0cf-ba69-4890-9add-7f068cb9ab20.jpg",
+       "thumbnailSequence": {
+        "urlPattern": "https://community-lens.storage.googleapis.com/preview-media/thumbnail_seq/66e4b0cf-ba69-4890-9add-7f068cb9ab20/image_%d.jpg",
+        "numThumbnails": 10,
+        "animationIntervalMs": 300
+       },
+       "scpExclusive": false
+      }
+     },
+     "compId": {
+      "corpus": 3,
+      "id": "63246480975",
+      "version": "1699721054"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": false,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Topics",
+   "sectionType": 23,
+   "results": [
+    {
+     "resultType": 14,
+     "result": {
+      "$case": "topic",
+      "topic": {
+       "text": "música",
+       "numSnaps": "189",
+       "type": 1,
+       "thumbnail": "https://bolt-gcdn.sc-cdn.net/1/1D9oGWB72vsN1BXobzIcy.256.IRZXSOY?mo=GkMaCTIBe0gCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+       "creator": "",
+       "iconUrl": "https://cf-st.sc-cdn.net/d/aVMYTAhEG5gHhcjWofT3q?bo=EhMaABoAMgIEfUgCUAhaAwjcLmAB&uc=8",
+       "onTap": {
+        "action": {
+         "$case": "openHashtagTopic",
+         "openHashtagTopic": {
+          "topicText": "música"
+         }
+        }
+       },
+       "conversationId": {}
+      }
+     },
+     "compId": {
+      "corpus": 14,
+      "id": "música",
+      "version": "0"
+     }
+    },
+    {
+     "resultType": 14,
+     "result": {
+      "$case": "topic",
+      "topic": {
+       "text": "musical",
+       "numSnaps": "2558",
+       "type": 1,
+       "thumbnail": "https://cf-st.sc-cdn.net/d/koe5LHFBx5T5q4O4ZzPuc.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+       "creator": "",
+       "iconUrl": "https://cf-st.sc-cdn.net/d/aVMYTAhEG5gHhcjWofT3q?bo=EhMaABoAMgIEfUgCUAhaAwjcLmAB&uc=8",
+       "onTap": {
+        "action": {
+         "$case": "openHashtagTopic",
+         "openHashtagTopic": {
+          "topicText": "musical"
+         }
+        }
+       },
+       "conversationId": {}
+      }
+     },
+     "compId": {
+      "corpus": 14,
+      "id": "musical",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Subscribe",
+   "sectionType": 3,
+   "results": [
+    {
+     "resultType": 2,
+     "result": {
+      "$case": "snapProEntity",
+      "snapProEntity": {
+       "profile": {
+        "businessProfile": {
+         "id": "6014c312-784c-44ca-8104-4732de4c7c5f",
+         "title": "MusicLoudz",
+         "description": "🎵 Global Music & Lyrics Platform 🎧\nDiscover • Share • Feel the Music 🌍 \nIndependent & Trending Artists 📩",
+         "logoUrl": "",
+         "phoneNumber": "",
+         "address": "",
+         "emailAddress": "",
+         "whatsappNumber": "",
+         "profileDeeplinkUrl": "",
+         "websiteUrl": "",
+         "hostAccountUsername": "musicloudz",
+         "hostAccountMutableUsername": "musicloudz",
+         "lastUpdateSequence": "65",
+         "category": "",
+         "categoryEnum": 0,
+         "subcategory": "",
+         "subcategoryEnum": 0,
+         "internalCategory": 2,
+         "tier": 2,
+         "moderationStatus": 0,
+         "displayAddress": "",
+         "createdTimestamp": "0",
+         "businessLogo": {
+          "discoverFeedLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFROR3dwVG03Q2sxUVIwMjBUU0QzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+          "megaProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFROR3dwVG03Q2sxUVIwMjBUU0QzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "manageProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTFROR3dwVG03Q2sxUVIwMjBUU0QzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "originalLogoUrl": "https://cf-st.sc-cdn.net/d/LTNGwpTm7Ck1QR020TSD3?bo=EgkyAQRIAlAZYAE%3D&uc=25",
+          "isDefault": false
+         },
+         "heroImageUrl": "",
+         "originalHeroImageUrl": "",
+         "hostAccountVerifiedEmoji": "",
+         "hostAccountVerifiedEmojiSafe": "",
+         "isOfficialAccount": false,
+         "hostAccountVerifiedEmojiWithoutModifiers": "",
+         "bitmojiAvatarId": "104699551063_8-s5",
+         "bitmojiSelfieId": "37766712",
+         "subtitle": "musicloudz",
+         "mutableSubtitle": "musicloudz",
+         "hostAccountUserId": "7491136a-5d0c-4c56-9d0d-d34ce75aa395",
+         "contents": [],
+         "contentIdentifiers": [],
+         "initiallyDisplayedContentIndex": "0",
+         "subscriberCount": "76546",
+         "hasLenses": false,
+         "isLensCreator": false,
+         "hasHighlights": false,
+         "privateEmail": "",
+         "isTestProfile": false,
+         "isBrandProfile": false,
+         "organizationId": "",
+         "accountId": "",
+         "organizationType": 0,
+         "privatePhoneNumber": "",
+         "heroImageHeight": 0,
+         "heroImageWidth": 0,
+         "heroImageVerticalPosition": 0,
+         "isSnapchatPlusSubscriber": false,
+         "placeCollectionId": "",
+         "deactivateReason": 0,
+         "isPlaceholderProfile": false,
+         "canDisplayWebsite": false,
+         "profileIconPrimaryColorHex": "",
+         "l90Country": 0,
+         "isPartnerProfile": false,
+         "thirdPartyProfiles": [],
+         "orderedTabContent": [],
+         "isCreatorHubCollaborator": false,
+         "containsContent": [],
+         "contentVisibility": 0
+        },
+        "businessProfileSettings": {
+         "showStoryReplies": false,
+         "showSubscriberCount": false,
+         "showGifting": false,
+         "audienceGateSettings": {},
+         "hasUnreadNotification": false,
+         "autoSavePublicStory": false,
+         "autoSaveFanPassStory": false
+        },
+        "story": {
+         "businessId": "6014c312-784c-44ca-8104-4732de4c7c5f",
+         "storyId": "",
+         "numSnaps": 0,
+         "thumbnailUrl": "",
+         "lastSnapId": ""
+        },
+        "promotableContents": [],
+        "isSubscribed": false,
+        "allowedActions": [],
+        "pendingRoleInvites": []
+       }
+      }
+     },
+     "compId": {
+      "corpus": 2,
+      "id": "6014c312-784c-44ca-8104-4732de4c7c5f",
+      "version": "65"
+     }
+    },
+    {
+     "resultType": 2,
+     "result": {
+      "$case": "snapProEntity",
+      "snapProEntity": {
+       "profile": {
+        "businessProfile": {
+         "id": "4d497811-bd5d-495e-bac3-1c830ef0a25a",
+         "title": "Music NS ✴️",
+         "description": "●BUDDY - Aap Aa Gye😅, ●INSTAGRAM - @vocalist_naman_ , ●Meerutian😁, ●Gyan - Not everyone likes me, but not everyone matters.✌",
+         "logoUrl": "",
+         "phoneNumber": "",
+         "address": "",
+         "emailAddress": "",
+         "whatsappNumber": "",
+         "profileDeeplinkUrl": "",
+         "websiteUrl": "",
+         "hostAccountUsername": "music_ns1722",
+         "hostAccountMutableUsername": "music_ns1722",
+         "lastUpdateSequence": "217",
+         "category": "",
+         "categoryEnum": 0,
+         "subcategory": "",
+         "subcategoryEnum": 0,
+         "internalCategory": 1,
+         "tier": 2,
+         "moderationStatus": 0,
+         "displayAddress": "",
+         "createdTimestamp": "0",
+         "businessLogo": {
+          "discoverFeedLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNXJxNjMxQ0R6NUF6VEZtOWRuV0Q4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+          "megaProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNXJxNjMxQ0R6NUF6VEZtOWRuV0Q4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+          "manageProfileLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNXJxNjMxQ0R6NUF6VEZtOWRuV0Q4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+          "originalLogoUrl": "https://cf-st.sc-cdn.net/d/5rq631CDz5AzTFm9dnWD8?bo=EgkyAQRIAlAZYAE%3D&uc=25",
+          "isDefault": false
+         },
+         "heroImageUrl": "",
+         "originalHeroImageUrl": "",
+         "hostAccountVerifiedEmoji": "",
+         "hostAccountVerifiedEmojiSafe": "",
+         "isOfficialAccount": false,
+         "hostAccountVerifiedEmojiWithoutModifiers": "",
+         "bitmojiAvatarId": "99225368033_24-s5",
+         "bitmojiSelfieId": "39681179",
+         "subtitle": "music_ns1722",
+         "mutableSubtitle": "music_ns1722",
+         "hostAccountUserId": "2ba3ea12-42e6-476e-a635-b9f284a93303",
+         "contents": [],
+         "contentIdentifiers": [],
+         "initiallyDisplayedContentIndex": "0",
+         "subscriberCount": "1823",
+         "hasLenses": false,
+         "isLensCreator": false,
+         "hasHighlights": false,
+         "privateEmail": "",
+         "isTestProfile": false,
+         "isBrandProfile": false,
+         "organizationId": "",
+         "accountId": "",
+         "organizationType": 0,
+         "privatePhoneNumber": "",
+         "heroImageHeight": 0,
+         "heroImageWidth": 0,
+         "heroImageVerticalPosition": 0,
+         "isSnapchatPlusSubscriber": false,
+         "placeCollectionId": "",
+         "deactivateReason": 0,
+         "isPlaceholderProfile": false,
+         "canDisplayWebsite": false,
+         "profileIconPrimaryColorHex": "",
+         "l90Country": 0,
+         "isPartnerProfile": false,
+         "thirdPartyProfiles": [],
+         "orderedTabContent": [],
+         "isCreatorHubCollaborator": false,
+         "containsContent": [],
+         "contentVisibility": 0
+        },
+        "businessProfileSettings": {
+         "showStoryReplies": false,
+         "showSubscriberCount": false,
+         "showGifting": false,
+         "audienceGateSettings": {},
+         "hasUnreadNotification": false,
+         "autoSavePublicStory": false,
+         "autoSaveFanPassStory": false
+        },
+        "story": {
+         "businessId": "4d497811-bd5d-495e-bac3-1c830ef0a25a",
+         "storyId": "",
+         "numSnaps": 0,
+         "thumbnailUrl": "",
+         "lastSnapId": ""
+        },
+        "promotableContents": [],
+        "isSubscribed": false,
+        "allowedActions": [],
+        "pendingRoleInvites": []
+       }
+      }
+     },
+     "compId": {
+      "corpus": 2,
+      "id": "4d497811-bd5d-495e-bac3-1c830ef0a25a",
+      "version": "217"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Places",
+   "sectionType": 16,
+   "results": [
+    {
+     "resultType": 13,
+     "result": {
+      "$case": "place",
+      "place": {
+       "id": "cb884c40-11dd-11ed-9674-d7e9f1316f9f",
+       "displayName": "Chautauqua Audio Works in The Music Barn.... More Than A Music Store",
+       "locality": "3335 S Roberts Rd, Sheridan",
+       "mapOpenParams": {
+        "boundingBox": {
+         "p1": {
+          "lat": 42.45495506332172,
+          "lng": -79.27686076310447
+         },
+         "p2": {
+          "lat": 42.45505506332172,
+          "lng": -79.27676076310446
+         }
+        }
+       },
+       "categoryIconUrl": "https://cf-st.sc-cdn.net/snapzen-assets/v1/styles/friend-stories-3d-light/sprite/nightclub_glyph_dark@2x.png?api_key=viAIqRr9UOG",
+       "isFavorited": false,
+       "categoryName": "Music Store",
+       "profilePhoto": {
+        "provider": 1,
+        "uploadedAtMs": "0",
+        "imageUrl": "https://cf-st.sc-cdn.net/snapzen-assets/v1/styles/friend-stories-3d-light/sprite/nightclub_glyph_dark@2x.png?api_key=viAIqRr9UOG",
+        "imageType": 1,
+        "providerDisplayName": "",
+        "authorAttributions": []
+       },
+       "centroid": {
+        "lat": 42.45500506332172,
+        "lng": -79.27681076310446
+       },
+       "placePivots": []
+      }
+     },
+     "compId": {
+      "corpus": 12,
+      "id": "cb884c40-11dd-11ed-9674-d7e9f1316f9f",
+      "version": "0"
+     }
+    },
+    {
+     "resultType": 13,
+     "result": {
+      "$case": "place",
+      "place": {
+       "id": "108fcda6-266c-11e9-a664-ffaec12a43ea",
+       "displayName": "Milford School of Music and Music Center",
+       "locality": "441 Route 6 and 209, Westfall",
+       "mapOpenParams": {
+        "boundingBox": {
+         "p1": {
+          "lat": 41.338896000000005,
+          "lng": -74.770658
+         },
+         "p2": {
+          "lat": 41.33899600000001,
+          "lng": -74.770558
+         }
+        }
+       },
+       "categoryIconUrl": "https://cf-st.sc-cdn.net/snapzen-assets/v1/styles/friend-stories-3d-light/sprite/generic_glyph_dark@2x.png?api_key=viAIqRr9UOG",
+       "isFavorited": false,
+       "categoryName": "Music School",
+       "profilePhoto": {
+        "provider": 1,
+        "uploadedAtMs": "0",
+        "imageUrl": "https://cf-st.sc-cdn.net/snapzen-assets/v1/styles/friend-stories-3d-light/sprite/generic_glyph_dark@2x.png?api_key=viAIqRr9UOG",
+        "imageType": 1,
+        "providerDisplayName": "",
+        "authorAttributions": []
+       },
+       "centroid": {
+        "lat": 41.33894600000001,
+        "lng": -74.770608
+       },
+       "placeStats": {
+        "localizedFavoriteDisplayCount": "1",
+        "favoriteCount": "1"
+       },
+       "placePivots": []
+      }
+     },
+     "compId": {
+      "corpus": 12,
+      "id": "108fcda6-266c-11e9-a664-ffaec12a43ea",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Shows",
+   "sectionType": 21,
+   "results": [
+    {
+     "resultType": 5,
+     "result": {
+      "$case": "publisher",
+      "publisher": {
+       "id": "1658513846421315",
+       "businessProfileId": "6be86f23-5e4d-4a5a-82b8-0fd84422d362",
+       "displayName": "MuchMusic",
+       "description": "Peek-ins accepted! The VJs want to know what you're listening to walking down Queen St. West in Toronto.",
+       "iconUrl": "https://cf-st.sc-cdn.net/d/6IM8iEEfhtxKDdCyyXQXH.355?mo=GksaCxoAGgAyAQRQBWABWhVQdWJsaXNoZXJMb2dvVmFyaWFudHOiARYI4wIiEQoNOgF9QgYIyamGlwZIAhIAogELCAEiBwoFMgF9SAE%3D&uc=5",
+       "deeplinkUrl": "https://story.snapchat.com/p/6be86f23-5e4d-4a5a-82b8-0fd84422d362",
+       "primaryColor": "#ffde17",
+       "isShow": true,
+       "showId": "6dc8d341-ff0d-4481-8fc5-f50289ab19c3",
+       "adSetting": 1,
+       "latestEditionId": "0",
+       "approxSubscriptionCount": "0"
+      }
+     },
+     "compId": {
+      "corpus": 6,
+      "id": "6be86f23-5e4d-4a5a-82b8-0fd84422d362",
+      "version": "0"
+     }
+    },
+    {
+     "resultType": 5,
+     "result": {
+      "$case": "publisher",
+      "publisher": {
+       "id": "6277057052147728",
+       "businessProfileId": "eeb15ce5-3626-4e79-86a1-5599aa750ada",
+       "displayName": "Song Quizzes",
+       "description": "🎵 Ob am Red Carpet oder bei Drehs in unserem Studio: Wir spielen mit deinen Lieblings-Stars Challenges & Song-Quizzes und stellen ihnen deine Fragen 🥰",
+       "iconUrl": "https://cf-st.sc-cdn.net/d/wtBIX7JOp1X7bptxE0paQ.355?mo=GksaCxoAGgAyAQRQBWABWhVQdWJsaXNoZXJMb2dvVmFyaWFudHOiARYI4wIiEQoNOgF9QgYIrfjB-AVIAhIAogELCAEiBwoFMgF9SAE%3D&uc=5",
+       "deeplinkUrl": "https://story.snapchat.com/p/eeb15ce5-3626-4e79-86a1-5599aa750ada",
+       "primaryColor": "#50e3c2",
+       "isShow": true,
+       "showId": "6f69f2bb-5dd4-4bcf-b8b7-222683f2f14f",
+       "adSetting": 1,
+       "latestEditionId": "0",
+       "approxSubscriptionCount": "83037"
+      }
+     },
+     "compId": {
+      "corpus": 6,
+      "id": "eeb15ce5-3626-4e79-86a1-5599aa750ada",
+      "version": "0"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  },
+  {
+   "title": "Episodes",
+   "sectionType": 22,
+   "results": [
+    {
+     "resultType": 9,
+     "result": {
+      "$case": "publisherEdition",
+      "publisherEdition": {
+       "id": "3137398530361344",
+       "storyDocID": {
+        "namespace": 7,
+        "id": "3137398530361344"
+       },
+       "title": "The Music Trailed Off 😬",
+       "publishEpoch": "1786629676430",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/ijd1qVs4Mz8FIms8VcO54.310?uc=5",
+       "deeplinkUrl": "snapchat://discover/edition?publisher=d0e81de1-cd6a-4787-bac6-4cbd7c85894b&edition_id=3137398530361344&profileId=c8170832-9bd5-4087-a6d7-a6560c696bfc&publisherId=1673368074129907",
+       "publisher": {
+        "id": "1673368074129907",
+        "businessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+        "displayName": "askthereddit",
+        "description": "The craziest stories from the front page of the internet",
+        "iconUrl": "https://cf-st.sc-cdn.net/d/b4LCZANdWcXKhtKRizJjK.355?mo=GksaCxoAGgAyAQRQBWABWhVQdWJsaXNoZXJMb2dvVmFyaWFudHOiARYI4wIiEQoNOgF9QgYI2ZzSnwZIAhIAogELCAEiBwoFMgF9SAE%3D&uc=5",
+        "deeplinkUrl": "https://story.snapchat.com/p/c8170832-9bd5-4087-a6d7-a6560c696bfc",
+        "primaryColor": "#9B55A0",
+        "isShow": true,
+        "showId": "061a88ae-052c-48ea-9253-0f761b77eb8b",
+        "adSetting": 1,
+        "latestEditionId": "3137405595774976",
+        "approxSubscriptionCount": "0"
+       }
+      }
+     },
+     "compId": {
+      "corpus": 7,
+      "id": "3137398530361344",
+      "version": "1786629676430"
+     }
+    },
+    {
+     "resultType": 9,
+     "result": {
+      "$case": "publisherEdition",
+      "publisherEdition": {
+       "id": "3137394560229376",
+       "storyDocID": {
+        "namespace": 7,
+        "id": "3137394560229376"
+       },
+       "title": "\"Music Changed Everything for Me\"",
+       "publishEpoch": "1784674814000",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/YKI59r31vrIZPn3r7n9Qa.310?uc=5",
+       "deeplinkUrl": "snapchat://discover/edition?publisher=VICE&edition_id=3137394560229376&profileId=f9fb2dea-098a-45db-b661-0faf9d1ae688&publisherId=5700553057239040",
+       "publisher": {
+        "id": "5700553057239040",
+        "businessProfileId": "f9fb2dea-098a-45db-b661-0faf9d1ae688",
+        "displayName": "VICE",
+        "description": "Original reporting on everything that matters.",
+        "iconUrl": "https://cf-st.sc-cdn.net/d/uo3OrKlJtV45HMuQvjI2Z.355?mo=GksaCxoAGgAyAQRQBWABWhVQdWJsaXNoZXJMb2dvVmFyaWFudHOiARYI4wIiEQoNOgF9QgYIztCr-QVIAhIAogELCAEiBwoFMgF9SAE%3D&uc=5",
+        "deeplinkUrl": "https://story.snapchat.com/p/f9fb2dea-098a-45db-b661-0faf9d1ae688",
+        "primaryColor": "#000000",
+        "isShow": true,
+        "showId": "3a1ef9ae-a776-4984-9a85-7914b5e7bae6",
+        "adSetting": 1,
+        "latestEditionId": "63171200532480",
+        "approxSubscriptionCount": "0"
+       }
+      }
+     },
+     "compId": {
+      "corpus": 7,
+      "id": "3137394560229376",
+      "version": "1784674965253"
+     }
+    }
+   ],
+   "sectionLayout": 1,
+   "numToShow": 0,
+   "endOfResults": true,
+   "sectionPageToken": {},
+   "columnCount": 0
+  }
+ ],
+ "spotlightCardMap": {
+  "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+     "snapClientId": "DE706EDC-8501-4A5D-9E0E-DC3D29191B0C",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/F3M3wXOD7qfQheP0tNRhh?bo=EgkyAX1IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+      "mediaIv": "r8kbPbHHNh81WaZOIKRHHQ==",
+      "mediaKey": "aZqyye7mDcodOOnFmst7A78AwsdqmtPPXfojXsh/k2w=",
+      "isZipped": false,
+      "duration": 6.71,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.27.IRZXSOY?mo=GmQaCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQiXjCEgATCcBDjAB0ABSg4KCVcpMSMgJCUmIhD0A1C2NGgCdcD3MUB9AACAPyILEgAqB0lSWlhTT1mQA7Y0&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.1034.IRZXSOY?mo=GkkaCTIBBEgCUC5gAaIBNwiKCBIlCiMI9_EYIAEw4AM41AZAAUoOCgk-HyQaGBsbHRsQ9ANQtjRoAiILEgAqB0lSWlhTT1mQA7Y0&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1762278478610",
+     "sourceCreationTimestamp": "1744409466000",
+     "expirationTimestampMs": "4915878478610",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "55affc5c-868b-4376-952c-be9348496431",
+      "userName": "nardioooooo",
+      "displayName": "Ja’N@rd",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 4,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtqYWl4c2huAZpP-6ZeAZpP-5MSAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "9f982c3b72d297e9646aefbf77cadefe",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/F3M3wXOD7qfQheP0tNRhh.256?mo=GjEaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "aZqyye7mDcodOOnFmst7A78AwsdqmtPPXfojXsh/k2w=",
+      "mediaIv": "r8kbPbHHNh81WaZOIKRHHQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Ja’N@rd",
+    "businessProfileId": "629412c0-4e11-454e-9405-cce39729d22c",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 10,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Humorous memes about unexpected replies.",
+        "keywords": [
+         "memes",
+         "humor"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "ko",
+          "score": 0.44931507110595703
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In a room bathed in vibrant red light, Ja'Nard celebrates with an energetic dance after receiving a text message reply within the same minute. This joyful moment captures the excitement of instant communication.",
+    "llmTitle": "Ja'Nard's Epic Reaction to a Same-Minute Text Reply",
+    "textMetadataKeywords": [
+     "memes",
+     "humor"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "184952",
+    "shareCount": "40706",
+    "viewCount": "1268511",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "1791",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "1791",
+    "newPendingCommentCount": "0",
+    "recommendCount": "125618",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+     "snapClientId": "54d2042f-1d03-29f4-6e19-612ed08babc3",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH?bo=EgkyAVdIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+      "mediaIv": "oriNHXtrEjp4+oQ9jn5BRg==",
+      "mediaKey": "fUQypTIz4EVQ22ZyWHDsLWlNrxwkaO/iMCVmX9VkiJk=",
+      "isZipped": false,
+      "duration": 8.27,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.27.IRZXSOY?mo=Gl0aCTIBV0gCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwie0xUgATCcBDjAB0ABSg4KCS8VEhQSExITIRD0A1DOQGgCIgsSACoHSVJaWFNPWZADzkA%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.1034.IRZXSOY?mo=GkwaCTIBV0gCUC5gAVCxAaIBNwiKCBIlCiMI8pUQIAEw4AM41AZAAUoOCgkmEA0PDQ8NDxQQ9ANQzkBoAiILEgAqB0lSWlhTT1mQA85A&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1776746999021",
+     "sourceCreationTimestamp": "1776746655000",
+     "expirationTimestampMs": "4930346999021",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#imaan",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#motivationalquotes",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "f07d1d2f-b190-4474-894e-aad7b5b157ce",
+      "userName": "deen_v1be5",
+      "displayName": "Deen_v1be5",
+      "followerCount": "0",
+      "snapproTier": 2,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": true,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Imaan🍀 #imaan#motivationalquotes#motivateyourself#islamic_video#islamic#muslimah#muslim#urdu#urdupoetryspotlight#shorts_videos#spotglight#fypシ゚viral#trending"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": null,\n  \"Version\": \"1.1\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.256.IRZXSOY?mo=GkYaCTIBV0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbWVuaXBxZ3hjAZ2uX60KAZ2uX6ztAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "2370795b4048f792baee7d477bca654c",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.1400.IRZXSOY?mo=GkYaCTIBV0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.1400?mo=GjQaCTIBV0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "fUQypTIz4EVQ22ZyWHDsLWlNrxwkaO/iMCVmX9VkiJk=",
+      "mediaIv": "oriNHXtrEjp4+oQ9jn5BRg=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.256.IRZXSOY?mo=GkYaCTIBV0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/bk/65GUGT1USL1xr14W3OZUH.256?mo=GjQaCTIBV0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "fUQypTIz4EVQ22ZyWHDsLWlNrxwkaO/iMCVmX9VkiJk=",
+      "mediaIv": "oriNHXtrEjp4+oQ9jn5BRg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Deen_v1be5",
+    "businessProfileId": "9151a94a-2b72-4f17-be96-2a80496bf082",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvSnNRQWdmQTdPV29FYUE5WE5VWVZpP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Inspirational quotes with uplifting background music.",
+        "keywords": [
+         "quotes",
+         "motivational"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "This video presents a stark, contemplative message about the impact of music on one's faith. Set against a dark, atmospheric background, the text 'music is killing your Iman..' appears prominently, inviting viewers to reflect on their beliefs. Created by Deen_v1be5, it's a piece of thought-provoking Islamic content designed to spark discussion.",
+    "llmTitle": "Music Is Killing Your Iman? A Deep Dive into Faith & Sound",
+    "textMetadataKeywords": [
+     "quotes",
+     "motivational"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "13732",
+    "shareCount": "3096",
+    "viewCount": "261575",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "1",
+    "spotlightLiveReplyCount": "84",
+    "spotlightNewPendingReplyCount": "1",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "1",
+    "liveCommentCount": "84",
+    "newPendingCommentCount": "1",
+    "recommendCount": "1241",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ",
+     "snapClientId": "23e0dbcd-30b0-544d-8232-f1ec812dff8a",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://cf-st.sc-cdn.net/o/eNsnuSe0VKSDjTHEWeT3C?bo=EgkyAQ9IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ",
+      "mediaIv": "pTwlZ3CyEUzIldq4SP9KZQ==",
+      "mediaKey": "tqRI+idH2Br+tmIx8zL9rtcpvOXDfDz50T+KtXAflPQ=",
+      "isZipped": false,
+      "duration": 6.59,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/o/eNsnuSe0VKSDjTHEWeT3C.27.IRZXSOY?mo=Gl0aCTIBD0gCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjuiR0gATCcBDjAB0ABSg4KCUcfHCIuKCMeHRD0A1C-M2gCIgsSACoHSVJaWFNPWZADvjM%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/o/eNsnuSe0VKSDjTHEWeT3C.1034.IRZXSOY?mo=GkwaCTIBD0gCUC5gAVCxAaIBNwiKCBIlCiMIgsMWIAEw4AM41AZAAUoOCgk3GBYdISAZFxYQ9ANQvjNoAiILEgAqB0lSWlhTT1mQA74z&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1770707996845",
+     "sourceCreationTimestamp": "1770707895000",
+     "expirationTimestampMs": "4924307996845",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "b7661660-2ffb-45a8-a146-3b2f5a8a678c",
+      "userName": "vaanya_badola08",
+      "displayName": "Vaanya Badola",
+      "followerCount": "0",
+      "snapproTier": 0,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": ""
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/o/eNsnuSe0VKSDjTHEWeT3C.256.IRZXSOY?mo=GkYaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZG13aXptYmZzAZxGa9DdAZxGa9CtAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "adfcae9c623afa8fdc90448d1cda5a96",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/o/eNsnuSe0VKSDjTHEWeT3C.256.IRZXSOY?mo=GkYaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/o/eNsnuSe0VKSDjTHEWeT3C.256?mo=GjQaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "tqRI+idH2Br+tmIx8zL9rtcpvOXDfDz50T+KtXAflPQ=",
+      "mediaIv": "pTwlZ3CyEUzIldq4SP9KZQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Vaanya Badola",
+    "businessProfileId": "a7c17b86-df30-4f8b-b00d-3fb81c01568b",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvc05OaExOUzU3djUyaERZYkNMRDEwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "A girlfriend enjoying life with music.",
+        "keywords": [
+         "girlfriend",
+         "music"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.595459520816803
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "A captivating scene featuring Vaanya Badola on a rooftop at dusk. She stands against a beautiful city skyline as the text 'When life felt like this song' appears. Her direct gaze and the serene atmosphere create a powerful, relatable moment perfect for social media.",
+    "llmTitle": "Vaanya Badola's Sunset Rooftop Moment That Went Viral",
+    "textMetadataKeywords": [
+     "girlfriend",
+     "music"
+    ],
+    "llmKeywords": [
+     "rooftop photography ideas",
+     "how to film at dusk"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "6387",
+    "shareCount": "370",
+    "viewCount": "455094",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "31",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "31",
+    "newPendingCommentCount": "0",
+    "recommendCount": "370",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ",
+     "snapClientId": "d77af5b8-ecca-456c-ad64-329df800b03a",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/djn8iq0MYmJm4CGvt9Qx0?bo=EhAyAX1IAlAuWgUIkKHPAWAB&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ",
+      "mediaIv": "ZX9E8kWmybm9RIgjVS4isg==",
+      "mediaKey": "e5wGIESWCE7BEsqWz1t0XNOBNU+TyIRWs+HXoW4sBTs=",
+      "isZipped": false,
+      "duration": 9.93,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAiWr1kgATCcBDjAB0ABSg8KCoMBRVE_OzU8PjkQ9ANQyk1oAiILEgAqB0lSWlhTT1mQA8pN&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMI_91CIAEw4AM41AZAAUoOCglkMzw2JyctLSgQ9ANQyk1oAiILEgAqB0lSWlhTT1mQA8pN&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1780405230472",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4934005230472",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "b0402ebf-c24c-4978-96fb-bea4877ec88b",
+      "userName": "kirraleee",
+      "displayName": "kirra lee 💗",
+      "followerCount": "0",
+      "snapproTier": 3,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": true,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 8
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Yesss"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": null,\n  \"Version\": \"1.1\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYd21xdm1ubWV5AZ6Ia9u9AZ6Ia9uIAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "7026a5cb1d09f6ce68d5ee1720d58662",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "e5wGIESWCE7BEsqWz1t0XNOBNU+TyIRWs+HXoW4sBTs=",
+      "mediaIv": "ZX9E8kWmybm9RIgjVS4isg=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/djn8iq0MYmJm4CGvt9Qx0.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "e5wGIESWCE7BEsqWz1t0XNOBNU+TyIRWs+HXoW4sBTs=",
+      "mediaIv": "ZX9E8kWmybm9RIgjVS4isg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "kirra lee 💗",
+    "businessProfileId": "da501518-86c1-468a-aa1d-bada189fee7b",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvRmowcnYwWVQ2eVk2enpuWkw4U1VZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Nostalgic meme clip featuring OG gamers.",
+        "keywords": [
+         "memes",
+         "gaming"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.9671173095703125
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this short clip, creator Kirra Lee sits in her room under a starry light projector, pointing at the camera while text on screen reads 'Only OG's remember this banger.' She then delivers a rapid-fire, iconic rap verse: 'She's my best friend, you mess with her, you mess with me. You mess with me, you mess with her, you mess with us, you better pray. Pssh, and run.' The audio is a well-known meme soundbite, and her energetic delivery captures the essence of internet nostalgia.",
+    "llmTitle": "Kirra Lee's Viral 'Only OGs Remember This Banger' Moment",
+    "textMetadataKeywords": [
+     "memes",
+     "gaming"
+    ],
+    "llmKeywords": [
+     "how to do a meme"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "136670",
+    "shareCount": "22937",
+    "viewCount": "1552425",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "3772",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "3772",
+    "newPendingCommentCount": "0",
+    "recommendCount": "33406",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ",
+     "snapClientId": "2372E825-7047-4EBF-9B57-D67CE8F87FF9",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bn/L52xdKPo9nGAfwOhvdxOb?bo=EgkyAVJIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ",
+      "mediaIv": "jP40xYF3V//GQjgxW64G+w==",
+      "mediaKey": "3g32Bi/HKtSl9whhrvhUzoemXF14bJdoS6clLW18IFk=",
+      "isZipped": false,
+      "duration": 6.48,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/L52xdKPo9nGAfwOhvdxOb.27.IRZXSOY?mo=GmQaCTIBBEgDUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQi7oRsgATCcBDjIB0ABSg4KCTwhHSQjISMdLxD0A1DQMmgCdR64LEB9AACAPyILEgAqB0lSWlhTT1mQA9Ay&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/L52xdKPo9nGAfwOhvdxOb.1034.IRZXSOY?mo=GkkaCTIBBEgDUC5gAaIBNwiKCBIlCiMIufIVIAEw4AM43AZAAUoOCgkvGxgeGh4bGCIQ9ANQ0DJoAiILEgAqB0lSWlhTT1mQA9Ay&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 968
+      }
+     },
+     "creationTimestampMs": "1761518397847",
+     "sourceCreationTimestamp": "1761518302000",
+     "expirationTimestampMs": "4915118397847",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "2b8a059e-e27a-400e-847c-ba16d3113438",
+      "userName": "missyrn75",
+      "displayName": "Missy Miller",
+      "followerCount": "0",
+      "snapproTier": 0
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/L52xdKPo9nGAfwOhvdxOb.256.IRZXSOY?mo=GkkaBzIBBFAuYAFaEERmTGFyZ2VUaHVtYm5haWyiARQIgAIiDwoCSAMSACoHSVJaWFNPWaIBFAiaCiIPCgJIAhIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGd6cnVzZXVlAZoira3gAZoiramXAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "e9775fbdb6cb3e3cf7d946ce7a8c2a6f",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/L52xdKPo9nGAfwOhvdxOb.256.IRZXSOY?mo=GkkaBzIBBFAuYAFaEERmTGFyZ2VUaHVtYm5haWyiARQIgAIiDwoCSAMSACoHSVJaWFNPWaIBFAiaCiIPCgJIAhIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/L52xdKPo9nGAfwOhvdxOb.256?mo=GjcaBzIBBFAuYAFaEERmTGFyZ2VUaHVtYm5haWyiAQsIgAIiBgoCSAMSAKIBCwiaCiIGCgJIAhIA&uc=46",
+      "mediaKey": "3g32Bi/HKtSl9whhrvhUzoemXF14bJdoS6clLW18IFk=",
+      "mediaIv": "jP40xYF3V//GQjgxW64G+w=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Missy Miller",
+    "businessProfileId": "d5cd3554-c295-458c-93fb-471081115ab8",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Motivational quotes about love and inspiration.",
+        "keywords": [
+         "motivational quotes",
+         "inspirational quotes"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Self Improvement"
+        ],
+        "scoredTags": [
+         {
+          "name": "Self Improvement",
+          "score": 0.9956738948822021
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "A nighttime drive through a tunnel sets the stage for a powerful moment of vulnerability. Overlaid text reveals Missy Miller's admission: 'I lied, I'm actually a HANDFUL. I need a guy that will throw me over his shoulder and say \"Yep we are going home.\" I'm not made for a weak man.' This intimate confession is paired with intense, distorted music, creating a mood of defiance and self-awareness.",
+    "llmTitle": "Missy Miller's Raw Confession: 'I'm Not Made for a Weak Man'",
+    "textMetadataKeywords": [
+     "motivational quotes",
+     "inspirational quotes"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "30599",
+    "shareCount": "16549",
+    "viewCount": "374382",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "187",
+    "spotlightNewPendingReplyCount": "-1",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "187",
+    "newPendingCommentCount": "-1",
+    "recommendCount": "8230",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ",
+     "snapClientId": "CADF07C0-C133-448B-8D8D-EDE2A0B6B4AB",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw?bo=EgkyAXhIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ",
+      "mediaIv": "Eb8yQGHbMn64bY1MriED9g==",
+      "mediaKey": "eIZ8aYSXKZ70P5Zsg9H6XIKPsYZAa7gDH84tRkWcR74=",
+      "isZipped": false,
+      "duration": 25.8,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw.27.IRZXSOY?mo=GmEaCTIBeEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiAypgBIAEwnAQ4wAdAAUoPCgqEATQvKCssLis1EPQDUMjJAWgCIgsSACoHSVJaWFNPWZADyMkB&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw.1034.IRZXSOY?mo=Gk4aCTIBeEgCUC5gAVCxAaIBOAiKCBImCiQIp8BhIAEw4AM41AZAAUoOCglVIRsZGxsZGR0Q9ANQyMkBaAIiCxIAKgdJUlpYU09ZkAPIyQE%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1773763181808",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4927363181808",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#music",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#spootlightviral",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "4563f709-7cc2-4d9b-94ae-38e309cb1f50",
+      "userName": "experience1207",
+      "displayName": "Experince",
+      "followerCount": "0",
+      "snapproTier": 0,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "#music #spootlightviral #spootlight #emotionalmusic"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"I woke up in the middle of the night. And I noticed my girl wasn't by my side.\",\n  \"Version\": \"1.0\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZHpucXpkc3hyAZz8iA3SAZz8hjzwAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "998eba78f9d85c0d09db82beeea75ada",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw.1400?mo=GjQaCTIBeEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "eIZ8aYSXKZ70P5Zsg9H6XIKPsYZAa7gDH84tRkWcR74=",
+      "mediaIv": "Eb8yQGHbMn64bY1MriED9g=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/y/FTttTXe4PGcMuTs4A9mXw.256?mo=GjQaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "eIZ8aYSXKZ70P5Zsg9H6XIKPsYZAa7gDH84tRkWcR74=",
+      "mediaIv": "Eb8yQGHbMn64bY1MriED9g=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Experince",
+    "businessProfileId": "6b38e516-6fc9-4af9-841d-9a85059048c6",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/3d/render/10226021-104622629883_7-s5-v1.webp?scale=0&trim=circle&ua=2",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Emotional rap song by J. Cole.",
+        "keywords": [
+         "J. Cole",
+         "rapper"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this evocative black-and-white performance, artist Experince takes a nostalgic trip back 16 years to his earlier music. With heartfelt lyrics like 'I'm so lonely' and 'backtracking all these few years,' he shares a personal story of love and loss. The raw emotion captured in his voice and the vintage aesthetic create a powerful moment of reflection.",
+    "llmTitle": "Experince Reflects on 16-Year-Old Song: A Nostalgic Journey Through Music and Memory",
+    "textMetadataKeywords": [
+     "J. Cole",
+     "rapper"
+    ],
+    "llmKeywords": [
+     "lyrics about loneliness",
+     "song lyrics meaning"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "16543",
+    "shareCount": "3999",
+    "viewCount": "201082",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "185",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "185",
+    "newPendingCommentCount": "0",
+    "recommendCount": "3422",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ",
+     "snapClientId": "a62cbb34-edc6-3126-295a-1e45eae58bf8",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk?bo=EgkyAXdIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ",
+      "mediaIv": "t78PwL9Eq3tSdsfiwCuEyA==",
+      "mediaKey": "BYCA4yl9GnsEFTaBAvfQDy/pCNtGQt3g2W/fwaWy4Xs=",
+      "isZipped": false,
+      "duration": 10.83,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.27.IRZXSOY?mo=Gl4aCTIBd0gCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAirwVIgATCcBDjAB0ABSg8KCpMBOzg9Kjs3Ni4Q9ANQzlRoAiILEgAqB0lSWlhTT1mQA85U&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.1034.IRZXSOY?mo=GkwaCTIBd0gCUC5gAVCxAaIBNwiKCBIlCiMIrYI_IAEw4AM41AZAAUoOCglxKC8nKCwmKyQQ9ANQzlRoAiILEgAqB0lSWlhTT1mQA85U&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1788245831564",
+     "sourceCreationTimestamp": "1788245736000",
+     "expirationTimestampMs": "4941845831564",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "e405a6fa-6e5f-43c6-83b3-092c2ea89728",
+      "userName": "arlenelee_fan",
+      "displayName": "arlene lee",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": ""
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 6,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"Kızlar dans ederken telefonla ne yapıyor?\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.256.IRZXSOY?mo=GkYaCTIBd0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYeXJmeW5nb2d1AaBbwe-cAaBbwe-MAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "f14e6e5e24665c41b86b7d5bbd8e614a",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYcXJ4aG9reXNwAaBbwnScAaBbwnScAAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.256.IRZXSOY?mo=GkYaCTIBd0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.256?mo=GjQaCTIBd0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "BYCA4yl9GnsEFTaBAvfQDy/pCNtGQt3g2W/fwaWy4Xs=",
+      "mediaIv": "t78PwL9Eq3tSdsfiwCuEyA=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYYmh1cHV2cmFkAaBbw1yOAaBbw1yOAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.1400.IRZXSOY?mo=GkYaCTIBd0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/x/O7vt9uZmKehOAYLx7FKOk.1400?mo=GjQaCTIBd0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "BYCA4yl9GnsEFTaBAvfQDy/pCNtGQt3g2W/fwaWy4Xs=",
+      "mediaIv": "t78PwL9Eq3tSdsfiwCuEyA=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "arlene lee",
+    "businessProfileId": "1ce491cf-8520-4aca-a5ce-2e4e0fa0fdf1",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvanRhNmlLeUhrZTdwZWRTZDFLRnl6P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Shopping spree with goth and Blackpink vibes.",
+        "keywords": [
+         "shopping spree",
+         "goth style"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "Arlene Lee explores a punk rock clothing store, showcasing edgy outfits and accessories. She styles a studded black top and shorts while another woman dances playfully in the background. The scene captures a fun shopping experience filled with unique fashion finds.",
+    "llmTitle": "Arlene Lee's Punk Rock Store Haul & Styling Tips",
+    "textMetadataKeywords": [
+     "shopping spree",
+     "goth style"
+    ],
+    "llmKeywords": [
+     "how to style studded clothes",
+     "black clothing ideas"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "12667",
+    "shareCount": "334",
+    "viewCount": "155602",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "47",
+    "spotlightLiveReplyCount": "111",
+    "spotlightNewPendingReplyCount": "-64",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "47",
+    "liveCommentCount": "111",
+    "newPendingCommentCount": "-64",
+    "recommendCount": "270",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ",
+     "snapClientId": "80FBA20F-6843-4745-8BE2-BB70CC4B06C3",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bn/c44CAhBAKePyuxFUC6Mmj?bo=EgkyAVJIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ",
+      "mediaIv": "r50z1CZ2eQd9cgvvw2rjKQ==",
+      "mediaKey": "a24pHzk4mpoN3j5CSegrS8A0NMc32csAC/2j4WbbS6Q=",
+      "isZipped": false,
+      "duration": 6.14,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjHhDUgATCcBDjAB0ABSg8KCoYBSjg-Ly5TXEcQ9ANQ_C9oAiILEgAqB0lSWlhTT1mQA_wv&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMItoclIAEw4AM41AZAAUoOCglcMiYtIh87RS0Q9ANQ_C9oAiILEgAqB0lSWlhTT1mQA_wv&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1787957843185",
+     "sourceCreationTimestamp": "1787957843185",
+     "expirationTimestampMs": "4941557843185",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#relatable",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#fyp",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "3e675834-f7a2-4a3a-956e-fe914845acce",
+      "userName": "emersonhubbard3",
+      "displayName": "Emerson Hubbard",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "i only listen to the same three songs #relatable #fyp #music "
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {}
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"Me skipping songs I literally added to the playlist 😂\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYb3N1andibWNkAaBKl6tfAaBKl5TxAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "30ed6b0981d1f8579428ad7bd7a7b79f",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYYWFjeWhzd3NrAaBKl-PyAaBKl-PyAAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "a24pHzk4mpoN3j5CSegrS8A0NMc32csAC/2j4WbbS6Q=",
+      "mediaIv": "r50z1CZ2eQd9cgvvw2rjKQ=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYcXR5dHBvZHl0AaBKmJ56AaBKmJ56AAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/c44CAhBAKePyuxFUC6Mmj.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "a24pHzk4mpoN3j5CSegrS8A0NMc32csAC/2j4WbbS6Q=",
+      "mediaIv": "r50z1CZ2eQd9cgvvw2rjKQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Emerson Hubbard",
+    "businessProfileId": "b8a4d442-f694-44c0-b91c-caf66b4bf078",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvQ2s0M1FheDFJdEFYOUlkVXRsVzZ1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Skipping songs with Dua Lipa and Billie Eilish vibes.",
+        "keywords": [
+         "music",
+         "Dua Lipa"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.8421804308891296
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In this short clip, creator Emerson Hubbard shares a relatable moment about managing her music playlist. She humorously explains her habit of skipping songs she didn't add, accompanied by text overlay and direct-to-camera commentary. The casual, vlog-style format captures a slice-of-life moment for fans interested in her daily routines and music preferences.",
+    "llmTitle": "Emerson Hubbard's Playlist Skipping Hacks & Music Tips",
+    "textMetadataKeywords": [
+     "music",
+     "Dua Lipa"
+    ],
+    "llmKeywords": [
+     "playlist management tips",
+     "streaming service tips"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "1902",
+    "shareCount": "102",
+    "viewCount": "9275",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "7",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "7",
+    "newPendingCommentCount": "0",
+    "recommendCount": "1012",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ",
+     "snapClientId": "5D442288-EFD0-4653-8363-8F21C3464785",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/2/S6d4GV6ncVwp5m2NMvNLn?bo=EgkyAXxIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ",
+      "mediaIv": "DO19aBP8ZuKOqMdIfP47mw==",
+      "mediaKey": "SumFrwO2Z/XEQWdbPUTs8+R9+wdyBmknu8xToTAPLxw=",
+      "isZipped": false,
+      "duration": 6.73,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwi-qhggATCcBDjAB0ABSg4KCTIYHh4ZGh0cGxD0A1DKNGgCIgsSACoHSVJaWFNPWZADyjQ%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMIgNoRIAEw4AM41AZAAUoOCgkjEhYUExQVGRQQ9ANQyjRoAiILEgAqB0lSWlhTT1mQA8o0&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1785285129790",
+     "sourceCreationTimestamp": "1785285129790",
+     "expirationTimestampMs": "4938885129790",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "d2134b6e-97b6-4ac1-a678-7145f38cfd8e",
+      "userName": "breezeb_1",
+      "displayName": "𝐻𝓊𝓃𝓃𝓎 🐝",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The devil knows this one won't fold.\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcHR6ZmNveGF0AZ-rSUQXAZ-rSTY-AAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "6fcb0cf26decfda69e88f6de24f10cf5",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "SumFrwO2Z/XEQWdbPUTs8+R9+wdyBmknu8xToTAPLxw=",
+      "mediaIv": "DO19aBP8ZuKOqMdIfP47mw=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/S6d4GV6ncVwp5m2NMvNLn.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "SumFrwO2Z/XEQWdbPUTs8+R9+wdyBmknu8xToTAPLxw=",
+      "mediaIv": "DO19aBP8ZuKOqMdIfP47mw=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "𝐻𝓊𝓃𝓃𝓎 🐝",
+    "businessProfileId": "4fa61e6e-4127-4949-a627-101c66dacfd3",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOERXQlJqMzM0enZ0Y3BBQ3FSTEw1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Motivational quotes about overcoming challenges.",
+        "keywords": [
+         "devil",
+         "motivational quotes"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "This is a visually striking and atmospheric piece by Hunny Bee. The video features a dark, monochromatic aesthetic with close-up shots of a person adorned in elegant jewelry, including a prominent necklace. Text overlays like 'Got the devil saying \"this b*tch just wont fold\"' add a layer of bold, defiant narrative. The accompanying audio is a modern trap beat with a deep bassline and rhythmic vocal samples, creating a confident and edgy mood. This blend of moody visuals and contemporary music makes it a perfect example of current short-form visual storytelling.",
+    "llmTitle": "Hunny Bee's Dark Aesthetic: A Visual and Auditory Experience",
+    "textMetadataKeywords": [
+     "devil",
+     "motivational quotes"
+    ],
+    "llmKeywords": [
+     "how to make aesthetic videos",
+     "modern short film ideas"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "6734",
+    "shareCount": "1440",
+    "viewCount": "71031",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "34",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "34",
+    "newPendingCommentCount": "0",
+    "recommendCount": "3089",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ",
+     "snapClientId": "02bf05a1-be76-7fe1-e98f-2c9d2e60b592",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC?bo=EgkyAXRIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ",
+      "mediaIv": "gvgeF2iu1AHQ36Foz0D5hg==",
+      "mediaKey": "GTxkSzxKarTxiAIRmpLeve1d4u6gDY/aHQG2xy22t0o=",
+      "isZipped": false,
+      "duration": 20.39,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.27.IRZXSOY?mo=GmAaCTIBdEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjIrNIBIAEwnAQ4wAdAAUoOCglmKzhEUFxgWkMQ9ANQpp8BaAIiCxIAKgdJUlpYU09ZkAOmnwE%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.1034.IRZXSOY?mo=Gk8aCTIBdEgCUC5gAVCxAaIBOQiKCBInCiUI47-ZASABMOADONQGQAFKDgoJVB0sNz5GR046EPQDUKafAWgCIgsSACoHSVJaWFNPWZADpp8B&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1789494081104",
+     "sourceCreationTimestamp": "1789483043000",
+     "expirationTimestampMs": "4943094081104",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#music",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#oldsongs",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "383759d1-e8ce-4d76-9d3d-eb0971d0f26d",
+      "userName": "bohemiansunray",
+      "displayName": "Anna",
+      "followerCount": "0",
+      "snapproTier": 2,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "#music #oldsongs #love #life #musica"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"The lyrics hit different when you're older.\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.256.IRZXSOY?mo=GkYaCTIBdEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdmp6aGN1dGR3AaCmKLZrAaCmKLZQAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "56d363368a237d461ecabd991b445f2b",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYdWN1ZmtpdXBoAaCmKhn4AaCmKhn4AAAAAQ",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.256.IRZXSOY?mo=GkYaCTIBdEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.256?mo=GjQaCTIBdEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "GTxkSzxKarTxiAIRmpLeve1d4u6gDY/aHQG2xy22t0o=",
+      "mediaIv": "gvgeF2iu1AHQ36Foz0D5hg=="
+     },
+     {
+      "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYZHlpcWdjamJwAaCmLTQgAaCmLTQgAAAAAQ",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.1400.IRZXSOY?mo=GkYaCTIBdEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/QkHctJhUkRZQOvwii8uUC.1400?mo=GjQaCTIBdEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "GTxkSzxKarTxiAIRmpLeve1d4u6gDY/aHQG2xy22t0o=",
+      "mediaIv": "gvgeF2iu1AHQ36Foz0D5hg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Anna",
+    "businessProfileId": "377ca8a9-c046-4f1f-8d90-80b76cf58fd0",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNjEwNHpWakVGMVdadjhPbk1qSDNSP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Enjoying a favorite song at a concert.",
+        "keywords": [
+         "favorite song",
+         "music performance"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Concert",
+         "Music Performance"
+        ],
+        "scoredTags": [
+         {
+          "name": "Concert",
+          "score": 1.000000238418579
+         },
+         {
+          "name": "Music Performance",
+          "score": 1.000000238418579
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "This powerful performance captures One Direction singing their hit 'Bye Bye Bye' with raw emotion. Overlaid text reflects on the song's meaning across two decades, stating '2000: I love this song. 2026: I understand this song,' highlighting a profound evolution in their connection to the lyrics about heartbreak and moving on.",
+    "llmTitle": "One Direction's 'Bye Bye Bye' Performance: A 26-Year Journey from Love to Understanding",
+    "textMetadataKeywords": [
+     "favorite song",
+     "music performance"
+    ],
+    "llmKeywords": [
+     "One Direction performance",
+     "One Direction songs"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "6035",
+    "shareCount": "602",
+    "viewCount": "63655",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "56",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "56",
+    "newPendingCommentCount": "0",
+    "recommendCount": "956",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw",
+     "snapClientId": "9A95B4F7-2584-45B7-B296-6204228F1271",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/7/PrADHrlTa4Rofo7k6UVY1?bo=EgkyAVpIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw",
+      "mediaIv": "lOB/MxdqmFybuBGGfip4sg==",
+      "mediaKey": "QxkIS2CvYZJGhsG1wxIL/cs/JkWLuyJ2B1SleQ1xQTA=",
+      "isZipped": true,
+      "duration": 8.13,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/PrADHrlTa4Rofo7k6UVY1.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjcqicgATCcBDjAB0ABSg4KCTQkMEg4Qi4iGBD0A1DCP2gCIgsSACoHSVJaWFNPWZADwj8%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/PrADHrlTa4Rofo7k6UVY1.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMI86sfIAEw4AM41AZAAUoOCgksHSQ4LjMgGRYQ9ANQwj9oAiILEgAqB0lSWlhTT1mQA8I_&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1785857429511",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4939457429511",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "db15783a-c2d1-49d6-ae7d-3a37e749167b",
+      "userName": "harleymelts",
+      "displayName": "harley melts",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "i’m on my way lads do not fret 😼",
+     "animatedSnapType": 3,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginCamera",
+        "mediaOriginCamera": {}
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": true,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"On my way, lads. Don't fret.\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/3/PrADHrlTa4Rofo7k6UVY1.256.IRZXSOY?mo=GkwaBzIBfVAuYAFQoAFaEERmTGFyZ2VUaHVtYm5haWyiARQIgAIiDwoCSAISACoHSVJaWFNPWaIBFAiaCiIPCgJIAxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYdXhoeXl1cGtwAZ_NZdDzAZ_NZdAHAAAAAw",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "fc6720f53e1cf365fe31cafb6aa75bb6",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/PrADHrlTa4Rofo7k6UVY1.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/PrADHrlTa4Rofo7k6UVY1.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "QxkIS2CvYZJGhsG1wxIL/cs/JkWLuyJ2B1SleQ1xQTA=",
+      "mediaIv": "lOB/MxdqmFybuBGGfip4sg=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/3/PrADHrlTa4Rofo7k6UVY1.256.IRZXSOY?mo=GkwaBzIBfVAuYAFQoAFaEERmTGFyZ2VUaHVtYm5haWyiARQIgAIiDwoCSAISACoHSVJaWFNPWaIBFAiaCiIPCgJIAxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/3/PrADHrlTa4Rofo7k6UVY1.256?mo=GjoaBzIBfVAuYAFQoAFaEERmTGFyZ2VUaHVtYm5haWyiAQsIgAIiBgoCSAMSAKIBCwiaCiIGCgJIAhIA&uc=46",
+      "mediaKey": "QxkIS2CvYZJGhsG1wxIL/cs/JkWLuyJ2B1SleQ1xQTA=",
+      "mediaIv": "lOB/MxdqmFybuBGGfip4sg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "harley melts",
+    "businessProfileId": "930ec187-a6cd-4783-b9aa-d02193c84b29",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvb0JuOFBnQ1UycEZpQ0FIb1lTYzF0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "On my way, don't worry lads! 😼",
+        "keywords": [
+         "journey",
+         "confidence"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Humor"
+        ],
+        "scoredTags": [
+         {
+          "name": "Humor",
+          "score": 1.000000238418579
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "This video offers a brief, candid glimpse into Harley Melts' workspace. It starts with a close-up of her legs and feet, then pans across her laptop keyboard and screen. The screen displays a messaging application interface, suggesting she might be online or working. Throughout the clip, the song 'Dualty' by Slipknot plays, setting a distinct mood. This personal snapshot provides insight into her environment.",
+    "llmTitle": "Harley Melts' Laptop Setup & Music Vibe: A Behind-the-Scenes Look",
+    "textMetadataKeywords": [
+     "journey",
+     "confidence"
+    ],
+    "llmKeywords": [
+     "how to use messaging app",
+     "Slipknot music"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "15552",
+    "shareCount": "193",
+    "viewCount": "2861289",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "30",
+    "spotlightLiveReplyCount": "318",
+    "spotlightNewPendingReplyCount": "3",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "30",
+    "liveCommentCount": "318",
+    "newPendingCommentCount": "3",
+    "recommendCount": "553",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ",
+     "snapClientId": "d8172219-1bfa-42bc-826f-17ea52d3eb7c",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/3Cqc5gpY5D17ETUlrZCnN?bo=EhAyAX1IAlAuWgUI8MitAWAB&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ",
+      "mediaIv": "UhQz3a9xjg4ioiVqb5PMjQ==",
+      "mediaKey": "V0eWGhT7aouf/BUJkvGSfoIJ08KiGNWcszc+gtsOMZ4=",
+      "isZipped": false,
+      "duration": 5.44,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjSshcgATCcBDjAB0ABSg4KCUgeHiEfIRomIBD0A1DAKmgCIgsSACoHSVJaWFNPWZADwCo%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.1034.IRZXSOY?mo=GkwaCTIBBEgCUC5gAVCxAaIBNwiKCBIlCiMIr88QIAEw4AM41AZAAUoOCgkzFBoWExYVGxYQ9ANQwCpoAiILEgAqB0lSWlhTT1mQA8Aq&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1781362560085",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4934962560085",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "dad5eebc-5c76-46cc-929c-df61c518489d",
+      "userName": "serloves",
+      "displayName": "seraahr",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 8
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Check out my latest post"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"imagine how perfect it would be if me and you were just neighbors and we could sneak eachother in and out every night\",\n  \"Version\": \"1.1\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcG52cW1qc2VjAZ7Be4y4AZ7Be4xVAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "0e65c19a42179efe806355006052339c",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "V0eWGhT7aouf/BUJkvGSfoIJ08KiGNWcszc+gtsOMZ4=",
+      "mediaIv": "UhQz3a9xjg4ioiVqb5PMjQ=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/3Cqc5gpY5D17ETUlrZCnN.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "V0eWGhT7aouf/BUJkvGSfoIJ08KiGNWcszc+gtsOMZ4=",
+      "mediaIv": "UhQz3a9xjg4ioiVqb5PMjQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "seraahr",
+    "businessProfileId": "f7504a10-3d96-45ef-9faf-4cf406131eb4",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvU1hZQ1hnMFBvS0VCZjd6aEt0eGRUP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Boyfriend quotes with poetic background audio.",
+        "keywords": [
+         "boyfriend",
+         "quotes"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "en",
+          "score": 0.6529121398925781
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In a candid, close-up shot, content creator seraahr speaks directly to the camera in a dimly lit room. She whispers a romantic fantasy about sneaking in and out of each other's homes every night, creating a sense of intimacy and mystery. Her dark hair and light-colored t-shirt are visible as she delivers the text overlay, which reads, 'imagine how perfect it would be if me and you were just neighbors and we could sneak each other in and out every night.' The entire scene is set against a backdrop of upbeat pop music.",
+    "llmTitle": "Seraahr Shares Intimate Neighbor Fantasy in Viral TikTok Moment",
+    "textMetadataKeywords": [
+     "boyfriend",
+     "quotes"
+    ],
+    "llmKeywords": [
+     "how to get over someone fast",
+     "spontaneous date ideas"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "14503",
+    "shareCount": "8811",
+    "viewCount": "104427",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "292",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "292",
+    "newPendingCommentCount": "0",
+    "recommendCount": "6947",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ",
+     "snapClientId": "ccb7a4a0-c3b6-d2e5-7e4a-ab8df6887aba",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax?bo=EgkyAXRIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ",
+      "mediaIv": "/NiBSRrzJPao9qMS4wbbDg==",
+      "mediaKey": "FpyaYJyLurRDHpU/+nH/LwzVSCm1b9exEsu3LH94pzk=",
+      "isZipped": false,
+      "duration": 14.19,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.27.IRZXSOY?mo=Gl0aCTIBdEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwi-hXYgATCcBDjAB0ABSg4KCXA_Pj00PUBUQBD0A1DubmgCIgsSACoHSVJaWFNPWZAD7m4%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.1034.IRZXSOY?mo=GkwaCTIBdEgCUC5gAVCxAaIBNwiKCBIlCiMI6a1bIAEw4AM41AZAAUoOCglWLS4uKC8xQC8Q9ANQ7m5oAiILEgAqB0lSWlhTT1mQA-5u&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1784969076608",
+     "sourceCreationTimestamp": "1784191024000",
+     "expirationTimestampMs": "4938569076608",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#Enjoy",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#music",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "remixSettingsInfo": {
+         "userDisabledMentionRemixing": false,
+         "userDisabledRemixing": false
+        },
+        "commerceInfo": {
+         "commerceItemInfo": [],
+         "commerceStoreInfo": []
+        },
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "1b1544f4-83ff-45db-bcad-e32855d68914",
+      "userName": "tiwarijii_236",
+      "displayName": "Miss Tiwari🐾❣",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "2187959530956850",
+     "lensId": "2187959530956850",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "#Enjoy your life in ur own way...✨😎#music #peaceful #selflove...✨🌧❣❤"
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"रात में किचन में पास्ता बनाना, सुकून है ये 🍝\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.256.IRZXSOY?mo=GkYaCTIBdEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZnNucmpiYnd3AZ-Ycp-2AZ-Ycp-AAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "918cdb0fab57aeb5e801060984624141",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.1400.IRZXSOY?mo=GkYaCTIBdEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.1400?mo=GjQaCTIBdEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "FpyaYJyLurRDHpU/+nH/LwzVSCm1b9exEsu3LH94pzk=",
+      "mediaIv": "/NiBSRrzJPao9qMS4wbbDg=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.256.IRZXSOY?mo=GkYaCTIBdEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/u/cKtGj1L1fAu8Wkt3M9Qax.256?mo=GjQaCTIBdEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "FpyaYJyLurRDHpU/+nH/LwzVSCm1b9exEsu3LH94pzk=",
+      "mediaIv": "/NiBSRrzJPao9qMS4wbbDg=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Miss Tiwari🐾❣",
+    "businessProfileId": "741a2de6-2bde-457d-b9d8-03d33652ad62",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/3d/render/30283739-102887019121_1-s5-v1.webp?scale=0&trim=circle&ua=2",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Creative home cooking with illustrations and tips.",
+        "keywords": [
+         "cooking at home",
+         "home recipes"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "Join Miss Tiwari for a serene evening in her warmly lit apartment kitchen. She's cooking spaghetti while listening to music with headphones, all under the gentle glow of city lights and raindrops on the windowpane. This peaceful moment captures the essence of self-care and enjoying simple pleasures.",
+    "llmTitle": "Miss Tiwari's Cozy Night In: Cooking Spaghetti & Rainy Window Vibes",
+    "textMetadataKeywords": [
+     "cooking at home",
+     "home recipes"
+    ],
+    "llmKeywords": [
+     "spaghetti recipe",
+     "how to cook spaghetti"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "17761",
+    "shareCount": "2956",
+    "viewCount": "203416",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "9",
+    "spotlightLiveReplyCount": "100",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "9",
+    "liveCommentCount": "100",
+    "newPendingCommentCount": "0",
+    "recommendCount": "1226",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw",
+     "snapClientId": "391BE2D1-0A15-4FD4-9827-0554E965B352",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr?bo=EgkyAXlIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw",
+      "mediaIv": "QbrsuPQWcyic5Xr9lSh8gQ==",
+      "mediaKey": "aGrsgHKhTmi9Ati4S8xZAGmsq/cjZkbY9y2VfKoRQfE=",
+      "isZipped": false,
+      "duration": 6.83,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.27.IRZXSOY?mo=GmcaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBQAgbEi8KLQiS9KsBIAEwnAQ4wAdAAUoXChKaAsQBzwHYAcwBxwGDAsMB4gEQ9ANQrjVoAiILEgAqB0lSWlhTT1mQA641&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.1034.IRZXSOY?mo=Gk0aCTIBeUgDUC5gAVCxAaIBOAiKCBImCiQIk8M3IAEw4AM41AZAAUoPCgqQAUpHQzk3STRCEPQDUK41aAIiCxIAKgdJUlpYU09ZkAOuNQ%3D%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1779548436939",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4933148436939",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#funny_video",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#romanticcouple",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "559f73f9-8581-4897-b207-88b32167ca0c",
+      "userName": "moha-mr9",
+      "displayName": "MR9",
+      "followerCount": "0",
+      "snapproTier": 3,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": true,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2,
+      1
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "#funny_video#romanticcouple#spotlight2025#viral2026#music"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "1779544830",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"This is not how I expected this song to end 😂\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.256.IRZXSOY?mo=GkwaBzIBeVAuYAFQoAFaEERmTGFyZ2VUaHVtYm5haWyiARQIgAIiDwoCSAMSACoHSVJaWFNPWaIBFAiaCiIPCgJIAhIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZHd6bHFtb25uAZ5VW5cjAZ5VWjnLAAAAAw",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "2911e5b282f880b40a6abc2157ceae16",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.1400.IRZXSOY?mo=GkYaCTIBeUgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.1400?mo=GjQaCTIBeUgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "aGrsgHKhTmi9Ati4S8xZAGmsq/cjZkbY9y2VfKoRQfE=",
+      "mediaIv": "QbrsuPQWcyic5Xr9lSh8gQ=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.256.IRZXSOY?mo=GkwaBzIBeVAuYAFQoAFaEERmTGFyZ2VUaHVtYm5haWyiARQIgAIiDwoCSAMSACoHSVJaWFNPWaIBFAiaCiIPCgJIAhIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/z/0lFU6bhkACa4BOqS91ysr.256?mo=GjoaBzIBeVAuYAFQoAFaEERmTGFyZ2VUaHVtYm5haWyiAQsIgAIiBgoCSAMSAKIBCwiaCiIGCgJIAhIA&uc=46",
+      "mediaKey": "aGrsgHKhTmi9Ati4S8xZAGmsq/cjZkbY9y2VfKoRQfE=",
+      "mediaIv": "QbrsuPQWcyic5Xr9lSh8gQ=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "MR9",
+    "businessProfileId": "48bb3373-7b35-4c68-a875-0154bd8bb22d",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvTjh2Qld2NTRUclFTUlU4akJiMFlZP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 5,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "",
+        "keywords": []
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "MR9 enjoys a refreshing dip in a vibrant blue pool. After getting his hair wet, he playfully waves at the camera with a peace sign, showcasing a fun and relaxed moment perfect for a summer day.",
+    "llmTitle": "MR9 Takes a Splash! Poolside Fun & Chill Vibes",
+    "textMetadataKeywords": [],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "129004",
+    "shareCount": "283604",
+    "viewCount": "9355326",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "6",
+    "spotlightLiveReplyCount": "14446",
+    "spotlightNewPendingReplyCount": "6",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "6",
+    "liveCommentCount": "14446",
+    "newPendingCommentCount": "6",
+    "recommendCount": "45367",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ",
+     "snapClientId": "7D4DBC7B-3490-4959-9ECC-C902BE40BF09",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D?bo=EgkyAQ9IAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ",
+      "mediaIv": "3kTWUQHkk+MfbmIFRKIpxA==",
+      "mediaKey": "gc+E62xtawfBADfa3Mo6cWpNtZaAL5os+Pvi88WLz6Y=",
+      "isZipped": true,
+      "duration": 10.07,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.27.IRZXSOY?mo=Gl0aCTIBD0gCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwiQpBQgATCcBDi8B0ABSg4KCUQbDBMOCwwWDRD0A1DWTmgCIgsSACoHSVJaWFNPWZAD1k4%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.1034.IRZXSOY?mo=GkwaCTIBD0gCUC5gAVCxAaIBNwiKCBIlCiMIy4EPIAEw4AM40gZAAUoOCgkyEgkJDQkJCwsQ9ANQ1k5oAiILEgAqB0lSWlhTT1mQA9ZO&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 956
+      }
+     },
+     "creationTimestampMs": "1787579469482",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4941179469482",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "051dd5a9-5e43-4f46-8402-2a563823e50e",
+      "userName": "lucky_hsp",
+      "displayName": "⎳𝓊𝓬𝓀𝔂 ✪",
+      "followerCount": "0",
+      "snapproTier": 2,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "ਤੂੰ ਕੋਲ ਨੀ ਤਾਵੀ ਤੇਰੀ ਫ਼ਿਕਰ ਬਹੁਤ ਹੁੰਦੀ ਆ , ਤੂੰ ਮੰਨ ਚਾਹੇ ਨਾਂ ਮੰਨ ਪਰ ਤੇਰੀ ਯਾਦ ਬਹੁਤ ਸਤਾਉਂਦੀ ਆ 🧿🥺",
+     "animatedSnapType": 1,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginCamera",
+        "mediaOriginCamera": {}
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": true,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"ਇਹ ਗਾਣਾ ਦਿਲ ਦੀਆਂ ਗੱਲਾਂ ਕਰਦਾ ਹੈ ❤️\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.256.IRZXSOY?mo=GkYaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbGtsbW5yamdmAaA0CnRTAaA0Cg6qAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "b267d5754a962509c0ffa915f7768076",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.1400.IRZXSOY?mo=GkYaCTIBD0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.1400?mo=GjQaCTIBD0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "gc+E62xtawfBADfa3Mo6cWpNtZaAL5os+Pvi88WLz6Y=",
+      "mediaIv": "3kTWUQHkk+MfbmIFRKIpxA=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.256.IRZXSOY?mo=GkYaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/o/6CZAp1nJ7HAQo4AsSrc3D.256?mo=GjQaCTIBD0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "gc+E62xtawfBADfa3Mo6cWpNtZaAL5os+Pvi88WLz6Y=",
+      "mediaIv": "3kTWUQHkk+MfbmIFRKIpxA=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "⎳𝓊𝓬𝓀𝔂 ✪",
+    "businessProfileId": "d21d3cf3-d557-4fdf-a81e-82abd37e6305",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUXhjVk9LYzF4UWhBRWRKZko5THBxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Emotional reflection on memories and longing.",
+        "keywords": [
+         "Punjabi",
+         "emotions"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "detectedLanguage",
+       "detectedLanguage": {
+        "languageScores": [
+         {
+          "languageCode": "hi",
+          "score": 0.2635563910007477
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "A close-up shot of a smartphone playing the song 'Beside' by Nirvair Pannu and Deol Harman on a music streaming app. The phone's screen displays the album art, which features a man wearing a turban, along with the song's progress bar and playback controls. The background is dark, suggesting it might be evening or night, with some potted plants visible behind the phone. The audio consists of the song playing, creating a relaxed atmosphere.",
+    "llmTitle": "Listening to 'Beside' by Nirvair Pannu & Deol Harman on Spotify",
+    "textMetadataKeywords": [
+     "Punjabi",
+     "emotions"
+    ],
+    "llmKeywords": [
+     "Spotify playlist ideas",
+     "Phone music app tutorial"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "9717",
+    "shareCount": "6517",
+    "viewCount": "115403",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "39",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "39",
+    "newPendingCommentCount": "0",
+    "recommendCount": "892",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw",
+     "snapClientId": "d1782810-ee95-d9f5-cedf-eb6565983831",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R?bo=EgkyAQNIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw",
+      "mediaIv": "oNG5wOmJoZ1cYdUmd2XI2Q==",
+      "mediaKey": "XW5aVp9/ifaDbUu3goi7zvF/Ot6xhpkX4QZEjQy+txA=",
+      "isZipped": false,
+      "duration": 15.04,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.27.IRZXSOY?mo=Gl0aCTIBA0gCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwi-ui8gATCcBDjAB0ABSg4KCUUZGhcWGhcWFxD0A1DAdWgCIgsSACoHSVJaWFNPWZADwHU%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.1034.IRZXSOY?mo=GkwaCTIBA0gCUC5gAVCxAaIBNwiKCBIlCiMIvuslIAEw4AM41AZAAUoOCgk3FBURERQTERIQ9ANQwHVoAiILEgAqB0lSWlhTT1mQA8B1&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1785733278756",
+     "sourceCreationTimestamp": "1785720673000",
+     "expirationTimestampMs": "4939333278756",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "9b5d6bb8-27b9-42a6-9044-eba0a5d4d740",
+      "userName": "obijuanfrom956",
+      "displayName": "Obi-Juan Kanobi",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 0,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": ""
+     },
+     "connectionType": 0,
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"Ghostface is not who you think he is.\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.256.IRZXSOY?mo=GkYaCTIBA0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYbnpkcHprZ2N0AZ_F_2w9AZ_F_2wkAAAAAw",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "b2c63f6ff1e2e24834135fc81f5b30ce",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.1400.IRZXSOY?mo=GkYaCTIBA0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.1400?mo=GjQaCTIBA0gCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "XW5aVp9/ifaDbUu3goi7zvF/Ot6xhpkX4QZEjQy+txA=",
+      "mediaIv": "oNG5wOmJoZ1cYdUmd2XI2Q=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.256.IRZXSOY?mo=GkYaCTIBA0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/c/NC95BUBqv3Y1G8uZfSN3R.256?mo=GjQaCTIBA0gCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "XW5aVp9/ifaDbUu3goi7zvF/Ot6xhpkX4QZEjQy+txA=",
+      "mediaIv": "oNG5wOmJoZ1cYdUmd2XI2Q=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Obi-Juan Kanobi",
+    "businessProfileId": "a72c20fb-e486-401b-b8bf-57cfb62fd9b2",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveW5zYWpHM3lZUjZwTm1kd0hxUFFHP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Acoustic guitar Halloween costume performance.",
+        "keywords": [
+         "guitar cover",
+         "acoustic guitar"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Acoustic guitar"
+        ],
+        "scoredTags": [
+         {
+          "name": "Acoustic guitar",
+          "score": 1.0000001192092896
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "textMetadataKeywords": [
+     "guitar cover",
+     "acoustic guitar"
+    ],
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "3182",
+    "shareCount": "3790",
+    "viewCount": "33229",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "102",
+    "spotlightLiveReplyCount": "4",
+    "spotlightNewPendingReplyCount": "102",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "102",
+    "liveCommentCount": "4",
+    "newPendingCommentCount": "102",
+    "recommendCount": "1005",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ",
+     "snapClientId": "DA2AABCE-1E76-4F79-BC8D-69DD07A272CB",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/7/4YLx3v8V4TeuJGFaSNIF3?bo=EgkyAVpIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ",
+      "mediaIv": "phMFJ40Y9mkZKd/ucRBCAA==",
+      "mediaKey": "BO+X03sUJ8PnBAAm2szJEEIiOhKmuoQ5L0r5BRzDv0E=",
+      "isZipped": false,
+      "duration": 17.07,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.27.IRZXSOY?mo=Gl8aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAj9ik4gATCcBDjAB0ABSg4KCXAmITU2HR8mHRD0A1CuhQFoAiILEgAqB0lSWlhTT1mQA66FAQ%3D%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.1034.IRZXSOY?mo=Gk4aCTIBBEgCUC5gAVCxAaIBOAiKCBImCiQIrMI8IAEw4AM41AZAAUoOCglYHBokICEXFxUQ9ANQroUBaAIiCxIAKgdJUlpYU09ZkAOuhQE%3D&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1776823230693",
+     "sourceCreationTimestamp": "0",
+     "expirationTimestampMs": "4930423230693",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#jokes",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#funnyspotlight",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "9607cfc3-2ae9-49f9-8cdd-bcea525ed7e7",
+      "userName": "drew.gulliver",
+      "displayName": "Drew Gulliver",
+      "followerCount": "0",
+      "snapproTier": 2,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 4,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "Your daily pun has arrived! #jokes #funnyspotlight #dadjokes #music"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "1776822437",
+         "mediaSource": 6,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": null,\n  \"Version\": \"1.1\"\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYeHFscWRwaG5qAZ2y65HVAZ2y6uDlAAAAAQ",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "f40eb90664eb85d0591511905056bcb9",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "BO+X03sUJ8PnBAAm2szJEEIiOhKmuoQ5L0r5BRzDv0E=",
+      "mediaIv": "phMFJ40Y9mkZKd/ucRBCAA=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://cf-st.sc-cdn.net/d/4YLx3v8V4TeuJGFaSNIF3.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "BO+X03sUJ8PnBAAm2szJEEIiOhKmuoQ5L0r5BRzDv0E=",
+      "mediaIv": "phMFJ40Y9mkZKd/ucRBCAA=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Drew Gulliver",
+    "businessProfileId": "00bd16e5-efea-4761-8413-d51afa94b60c",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdUhNSm9JNDhGOE9WdVR0Q0NBbUZxP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Playful piano cover with witty singing puns.",
+        "keywords": [
+         "piano cover",
+         "singing puns"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [
+         "Keyboard instrument"
+        ],
+        "scoredTags": [
+         {
+          "name": "Keyboard instrument",
+          "score": 0.9999997615814209
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "llmDescription": "In a bright, modern living room, musician Drew Gulliver sits at a piano, ready to entertain. She introduces a fun challenge: 'Singing Puns 'Cause They're Fun Boop'. With a smile, she poses the riddle, 'What's the best way to carve wood?' As she plays a few keys, the answer appears on screen: 'whittle by whittle'. The clever wordplay and her cheerful performance create a lighthearted, engaging moment perfect for fans of musical humor.",
+    "llmTitle": "Singing Puns That'll Make You LOL! | Drew Gulliver's Fun Musical Challenge",
+    "textMetadataKeywords": [
+     "piano cover",
+     "singing puns"
+    ],
+    "llmKeywords": [
+     "how to sing",
+     "piano tutorial"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "20511",
+    "shareCount": "3246",
+    "viewCount": "595147",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "1237",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "1237",
+    "newPendingCommentCount": "0",
+    "recommendCount": "2623",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  },
+  "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw": {
+   "snaps": [
+    {
+     "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw",
+     "snapClientId": "F210A13E-A94F-4460-8559-602954249777",
+     "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw",
+     "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw",
+     "mediaInfo": {
+      "mediaType": 1,
+      "mediaUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ?bo=EgkyAVVIAlAuYAE%3D&uc=46",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw",
+      "mediaIv": "5nGexF6ZpMrM85+wwG4atw==",
+      "mediaKey": "kS2hcVhPmUj/dX4LFCRnavSm28z27XPwfib434NEeoM=",
+      "isZipped": false,
+      "duration": 11.4,
+      "isInfiniteDuration": true,
+      "mediaD2sUrl": "",
+      "boltWatermarkedVideoUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.27.IRZXSOY?mo=Gl0aCTIBVUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwifuSUgATCcBDjAB0ABSg4KCUkfFRcVEQgVGxD0A1CIWWgCIgsSACoHSVJaWFNPWZADiFk%3D&uc=46",
+      "unencryptedFlatVideoUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.1034.IRZXSOY?mo=GkwaCTIBVUgCUC5gAVCxAaIBNwiKCBIlCiMIiJwdIAEw4AM41AZAAUoOCgk4FxMQEAwHERMQ9ANQiFloAiILEgAqB0lSWlhTT1mQA4hZ&uc=46",
+      "unencryptedImageUrl": "",
+      "boltWatermarkedVideoDimensions": {
+       "width": 540,
+       "height": 960
+      }
+     },
+     "creationTimestampMs": "1786078856448",
+     "sourceCreationTimestamp": "1786078689374",
+     "expirationTimestampMs": "4939678856448",
+     "title": "",
+     "subTitles": [],
+     "displayGeoInfo": "",
+     "pivotInfo": {
+      "contextHint": {
+       "contextClientInfo": {
+        "mentionedUsernames": [],
+        "mentionedUserIds": [],
+        "groupInvites": [],
+        "snapReplyRequests": [],
+        "gameIds": [],
+        "storyInvites": [],
+        "publisherId": "0",
+        "attachedTopicStickers": [],
+        "mentionSources": [],
+        "mentionTextRanges": [],
+        "apps": [],
+        "cameos": [],
+        "legacyTappableElements": [],
+        "creativetoolsStickers": [],
+        "hashtags": [
+         {
+          "title": "#wobble",
+          "isServerSuggested": false,
+          "source": 2
+         },
+         {
+          "title": "#dance",
+          "isServerSuggested": false,
+          "source": 2
+         }
+        ],
+        "pollInfo": [],
+        "isCheeriosVideo": false,
+        "ctItemInstance": [],
+        "audioMix": [],
+        "isQuickCutSnap": false
+       },
+       "hint": 0,
+       "timestamp": "0",
+       "moreContext": []
+      },
+      "venueId": "",
+      "attachmentUrl": ""
+     },
+     "creatorInfo": {
+      "userId": "22399cd9-b29a-41ed-b47e-3667616400a9",
+      "userName": "kikis717",
+      "displayName": "Kirsten",
+      "followerCount": "0",
+      "snapproTier": 1,
+      "creatorEligibility": {
+       "isEligibleForAffiliateDeeplink": false,
+       "contentVisibility": 0
+      }
+     },
+     "attachmentUrl": "",
+     "snapSource": {
+      "source": 1
+     },
+     "encryptedGeoData": "",
+     "storyFilterId": "",
+     "filterId": "",
+     "lensId": "",
+     "hasSnappablesMetadata": false,
+     "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw",
+     "brandFriendliness": 0,
+     "isPetraBrandSafe": false,
+     "isPublic": false,
+     "caption": "",
+     "animatedSnapType": 0,
+     "isRotationLocked": false,
+     "ourStoryDestinations": [
+      2
+     ],
+     "blockedUserIds": [],
+     "spotlightSnapStatus": 0,
+     "isStitchedMedia": false,
+     "snapDescription": {
+      "text": "#wobble #dance #justvibes #barsongs"
+     },
+     "connectionType": 0,
+     "adsTracking": {
+      "iosAppId": "",
+      "adId": ""
+     },
+     "lensRankingId": "",
+     "spotlightRejectionReason": 0,
+     "attributionStatus": 0,
+     "scanOnPublicContentEnabled": false,
+     "garmBrandSafety": 1,
+     "displayTimestampMs": "0",
+     "mediaOrigins": [
+      {
+       "origin": {
+        "$case": "mediaOriginExternalStorage",
+        "mediaOriginExternalStorage": {
+         "creationTimestamp": "0",
+         "mediaSource": 0,
+         "originalLocalIds": []
+        }
+       }
+      }
+     ],
+     "suggestedQuery": "",
+     "storyTypeVariant": 0,
+     "fromCamera": false,
+     "suggestedQueryCandidates": [],
+     "suggestedSearchType": 0,
+     "poiEventEndTimeMs": "0",
+     "llmGeneratedMetadata": {
+      "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"That one song hits different at the bar 😂\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+     },
+     "contentCategories": [],
+     "aiGeneratedInfo": {
+      "isAiDisclosedByCreator": false,
+      "isAiFlagged": false
+     }
+    }
+   ],
+   "storyThumbnail": {
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.256.IRZXSOY?mo=GkYaCTIBVUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "thumbnailIv": "",
+    "mediaKey": "",
+    "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYeHppcnltYmJ6AZ_amJ-qAZ_amIUAAAAAAw",
+    "videoThumbnailUrl": "",
+    "videoFirstFrameThumbnailUrl": "",
+    "thumbnailDominantColor": "",
+    "thumbnailVariants": [],
+    "isBrandSafe": false,
+    "score": 0,
+    "snapId": "dde4bcd5e984fe87f388d85ac94cf59f",
+    "largeThumbnailUrl": "",
+    "thumbnailContentObject": {},
+    "thumbnailCoKey": "",
+    "thumbnailCoIv": "",
+    "tileId": "",
+    "thumbnailTiles": [
+     {
+      "tileId": "",
+      "tileType": 3,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.1400.IRZXSOY?mo=GkYaCTIBVUgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.1400?mo=GjQaCTIBVUgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+      "mediaKey": "kS2hcVhPmUj/dX4LFCRnavSm28z27XPwfib434NEeoM=",
+      "mediaIv": "5nGexF6ZpMrM85+wwG4atw=="
+     },
+     {
+      "tileId": "",
+      "tileType": 4,
+      "unencryptedUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.256.IRZXSOY?mo=GkYaCTIBVUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "encryptedUrl": "https://bolt-gcdn.sc-cdn.net/bb/vwI4VPtQ3Ms7OZlMlkWWZ.256?mo=GjQaCTIBVUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+      "mediaKey": "kS2hcVhPmUj/dX4LFCRnavSm28z27XPwfib434NEeoM=",
+      "mediaIv": "5nGexF6ZpMrM85+wwG4atw=="
+     }
+    ]
+   },
+   "singleSnapStoryMetadata": {
+    "displayName": "Kirsten",
+    "businessProfileId": "4397c84e-a827-4090-bf74-327cf616d105",
+    "topicId": "",
+    "topicStoryType": 0,
+    "isOriginalSoundSnap": false,
+    "topicPageBadge": 0,
+    "tilePrimaryText": "",
+    "tileSecondaryText": "",
+    "bitmojiAvatarId": "",
+    "bitmojiAvatarSelfieId": "",
+    "filledIconUrl": "",
+    "businessLogoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2Qvam1vdFJvU0dZWVBFZFFzcXFQd05RP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+    "creatorType": 0,
+    "cuSignals": [
+     {
+      "signal": {
+       "$case": "textMetadata",
+       "textMetadata": {
+        "description": "Animation meme with sad song and turtle theme.",
+        "keywords": [
+         "animation meme",
+         "turtle"
+        ]
+       }
+      }
+     },
+     {
+      "signal": {
+       "$case": "s2iTags",
+       "s2iTags": {
+        "tags": [],
+        "scoredTags": []
+       }
+      }
+     }
+    ],
+    "llmDescription": "A cute animated turtle named Kirsten gets ready to dance when her favorite song starts playing at the bar. Watch as she goes from looking hesitant to full-on grooving to the beat!",
+    "llmTitle": "Kirsten's Turtle Dance: When That One Song Plays",
+    "textMetadataKeywords": [
+     "animation meme",
+     "turtle"
+    ],
+    "llmKeywords": [
+     "how to dance at a bar",
+     "how to react to music"
+    ],
+    "s2iTags": []
+   },
+   "engagementStats": {
+    "boostCount": "4343",
+    "shareCount": "4303",
+    "viewCount": "60895",
+    "subCount": "-1",
+    "spotlightPendingReplyCount": "0",
+    "spotlightLiveReplyCount": "23",
+    "spotlightNewPendingReplyCount": "0",
+    "rewatchCount": "0",
+    "remixCount": "0",
+    "viewerCount": "0",
+    "screenshotCount": "0",
+    "privateReplyCount": "0",
+    "subViewerCount": "0",
+    "nonSubViewerCount": "0",
+    "swipeUpCount": "0",
+    "swipeDownCount": "0",
+    "swipeAwayCount": "0",
+    "tapForwardCount": "0",
+    "tapBackwardCount": "0",
+    "totalViewTimeMs": "0",
+    "avgViewTimeMs": "0",
+    "pendingCommentCount": "0",
+    "liveCommentCount": "23",
+    "newPendingCommentCount": "0",
+    "recommendCount": "1157",
+    "combinedViewCount": "0",
+    "combinedReach": "0",
+    "paidViewCount": "0",
+    "paidReach": "0"
+   },
+   "topCreatorBadge": false,
+   "repliesEnabled": true,
+   "uiLabel": 0,
+   "isSharingDisabled": false,
+   "isCreatorMonetizable": false
+  }
+ },
+ "isGDPRCountry": false,
+ "shouldNotIndex": false,
+ "deepLinkPath": null
+}

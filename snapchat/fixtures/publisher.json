@@ -1,0 +1,798 @@
+{
+ "viewerInfo": {
+  "country": "IN",
+  "locale": "en-US",
+  "isGdprCountry": false
+ },
+ "pageMetadata": {
+  "pageType": 3,
+  "pageTitle": "askthereddit | Snapchat",
+  "pageDescription": {
+   "value": "The craziest stories from the front page of the internet"
+  },
+  "shareId": ""
+ },
+ "publicProfileInfo": {
+  "username": "",
+  "title": "askthereddit",
+  "snapcodeImageUrl": "https://www.snapchat.com/deeplink/discover/snapcode/L3AvYzgxNzA4MzItOWJkNS00MDg3LWE2ZDctYTY1NjBjNjk2YmZj",
+  "badge": 0,
+  "categoryStringId": "",
+  "subcategoryStringId": "",
+  "subscriberCount": "359300",
+  "bio": "The craziest stories from the front page of the internet",
+  "websiteUrl": "",
+  "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMEVhdHpmYVBLcVRrVzRHWFdwM25oP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
+  "address": "",
+  "bitmoji3d": null,
+  "hasCuratedHighlights": false,
+  "hasSpotlightHighlights": false,
+  "mutableName": "askthereddit",
+  "publisherType": "SHOW",
+  "squareHeroImageUrl": "https://cf-st.sc-cdn.net/d/QnGOE45Q7TZouVMvftDpk.340?mo=GlAaCxoAGgAyAQRQBWABWhpQcmVtaXVtU3RvcnlUZWFzZXJWYXJpYW50c6IBFgjUAiIRCg06AX1CBgj5wJWeBkgCEgCiAQsIASIHCgUyAX1IAQ%3D%3D&uc=5",
+  "primaryColor": "#9B55A0",
+  "hasStory": false,
+  "relatedAccountsInfo": [],
+  "creationTimestampMs": null,
+  "lastUpdateTimestampMs": null,
+  "businessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+  "sameAsLinks": [],
+  "shouldHideUsername": false,
+  "audienceGateSettings": null,
+  "hostUserId": "8d646854-e686-4756-81b6-d1a90f0cb452"
+ },
+ "premiumStoryList": [
+  {
+   "playerStory": {
+    "storyType": 16,
+    "snapList": [],
+    "storyId": {
+     "value": "63171084435456"
+    },
+    "storyTitle": {
+     "value": "The Truth Finally Won 🥹"
+    },
+    "thumbnailUrl": {
+     "value": "https://cf-st.sc-cdn.net/aps/bolt_stagg/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbWRmNDdLVjVqNXRRaFRjazNudHVqLjMxMD9tbz1Ha0FhQ0RJQ0JIMVFCV0FCVUtJQ1doaFFjbVZ0YVhWdFUzUnZjbmxVYVd4bFZtRnlhV0Z1ZEhPaUFRc0l0Z0lpQmdvQ1NBSVNBS0lCQ0FnQklnUUtBa2dCJnVjPTU.RS540,0"
+    },
+    "storySubtitle": null,
+    "storyShareId": null,
+    "canonicalUrlSuffix": null,
+    "emoji": null,
+    "storyTapId": "0",
+    "videoTrackUrl": null,
+    "highlightId": null,
+    "isAttributed": null,
+    "thumbnailTiles": []
+   },
+   "storyMetadata": null,
+   "timestampInSec": {
+    "value": "1790125214"
+   },
+   "seasonNumber": 94,
+   "episodeNumber": 4,
+   "ownerId": "",
+   "snapcodeImageUrl": ""
+  },
+  {
+   "playerStory": {
+    "storyType": 16,
+    "snapList": [],
+    "storyId": {
+     "value": "1536516665569280"
+    },
+    "storyTitle": {
+     "value": "I Finally Listened 🤯"
+    },
+    "thumbnailUrl": {
+     "value": "https://cf-st.sc-cdn.net/aps/bolt_stagg/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVkZ6czJwM0lDaDJHbktaTkpnQ203LjMxMD9tbz1Ha0FhQ0RJQ0JIMVFCV0FCVUtJQ1doaFFjbVZ0YVhWdFUzUnZjbmxVYVd4bFZtRnlhV0Z1ZEhPaUFRc0l0Z0lpQmdvQ1NBSVNBS0lCQ0FnQklnUUtBa2dCJnVjPTU.RS540,0"
+    },
+    "storySubtitle": null,
+    "storyShareId": null,
+    "canonicalUrlSuffix": null,
+    "emoji": null,
+    "storyTapId": "0",
+    "videoTrackUrl": null,
+    "highlightId": null,
+    "isAttributed": null,
+    "thumbnailTiles": []
+   },
+   "storyMetadata": null,
+   "timestampInSec": {
+    "value": "1790116257"
+   },
+   "seasonNumber": 94,
+   "episodeNumber": 3,
+   "ownerId": "",
+   "snapcodeImageUrl": ""
+  }
+ ],
+ "businessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+ "preselectedStory": {
+  "premiumStory": {
+   "playerStory": {
+    "storyType": 16,
+    "snapList": [
+     {
+      "snapIndex": 0,
+      "snapId": {
+       "value": "63171084435457"
+      },
+      "snapMediaType": 1,
+      "snapUrls": {
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/Rf9Gr2oCiYTAAvhj77bCB.1203.5ARGSBA.m3u8?mo=GsMEGh4SFWExRXRndmZvV1ZzZHRoZU40MUlVcTIBBFAFYAFQKFoVTG9uZ2Zvcm1WaWRlb1ZhcmlhbnRzogFHCLMJEggKBlDw_zVoAyI4CjYSJ1JmOUdyMm9DaVlUQUF2aGo3N2JDQi4xMjAzLjVBUkdTQkEubTN1ODoBfUIGCJipytUGSAKiAVYIhQsSGAoWSg4KCTQtHiUiKBoQIhD0A1Dw_zVoBCI3CjUSJjN6WXR2Z3NsVnkyejZrTWpVaFpiYi4xNDEzLjVBUkdTQkEubXBkOgF9QgYImKnK1QZIAqIBVgiPCxIYChZKDgoJOxQtECwdGRQeEPQDUO3_NWgEIjcKNRImTUVkN3dEdFJsS29aYzJWVld4aW9TLjE0MjMuNUFSR1NCQS5tcGQ6AX1CBgicu8rVBkgCogFVCG4SJQojCNGj9CgwxAI4wARAAUoOCgldNi86MTAsJDIQ9ANQ8P81aAEiKgooEhl1WXZjMW1wTGlzVkNEQTlST29lY1EuMTEwOgF9QgYIz6zK1QZIAqIBVghvEiYKJAjBwYdPMJwEOMAHQAFKDwoKrQFlX2hiXVFHYxD0A1Dw_zVoASIqCigSGWRENlozYTd6SFdNU2syNDNkY0t6Yi4xMTE6AX1CBgj4rcrVBkgCogFHCJcKEggKBlDt_zVoAyI4CjYSJ3dTSkNGZlYwckR3MWszcE5MZk1Pdy4xMzAzLjVBUkdTQkEubTN1ODoBfUIGCJSnytUGSAKiAQsIASIHCgUyAX1IAZAD8P81&uc=5",
+       "mediaPreviewUrl": {
+        "value": "https://cf-st.sc-cdn.net/d/ImW2DKbTH8lwCMTraZ7cs.410?mo=GrQBGh4SFWgzalE4Und0OHVVMzFVVzdxdnlxYzIBBFAFYAFQH1oeTG9uZ2Zvcm1WaWRlb1RodW1ibmFpbFZhcmlhbnRzogEvCJoDIioKKBIZSW1XMkRLYlRIOGx3Q01UcmFaN2NzLjQxMDoBfUIGCMOlytUGSAKiAS8IpAMiKgooEhl5eTdaRjlVc3JWZnNybDlxYXhZNzguNDIwOgF9QgYIw6XK1QZIAqIBCwgBIgcKBTIBfUgB&uc=5"
+       },
+       "overlayUrl": null,
+       "attachmentUrl": null
+      },
+      "isSponsored": null,
+      "timestampInSec": null,
+      "snapTitle": null,
+      "snapSubtitles": null,
+      "lat": null,
+      "lng": null,
+      "hasAttachment": null,
+      "intervalStartTimeMs": {
+       "value": "0"
+      },
+      "audioTranscriptionObjectUrl": null
+     },
+     {
+      "snapIndex": 1,
+      "snapId": {
+       "value": "63171085152256"
+      },
+      "snapMediaType": 1,
+      "snapUrls": {
+       "mediaUrl": "",
+       "mediaPreviewUrl": {
+        "value": "https://cf-st.sc-cdn.net/d/ImW2DKbTH8lwCMTraZ7cs.410?mo=GrQBGh4SFWgzalE4Und0OHVVMzFVVzdxdnlxYzIBBFAFYAFQH1oeTG9uZ2Zvcm1WaWRlb1RodW1ibmFpbFZhcmlhbnRzogEvCJoDIioKKBIZSW1XMkRLYlRIOGx3Q01UcmFaN2NzLjQxMDoBfUIGCMOlytUGSAKiAS8IpAMiKgooEhl5eTdaRjlVc3JWZnNybDlxYXhZNzguNDIwOgF9QgYIw6XK1QZIAqIBCwgBIgcKBTIBfUgB&uc=5"
+       },
+       "overlayUrl": null,
+       "attachmentUrl": null
+      },
+      "isSponsored": null,
+      "timestampInSec": null,
+      "snapTitle": null,
+      "snapSubtitles": null,
+      "lat": null,
+      "lng": null,
+      "hasAttachment": null,
+      "intervalStartTimeMs": {
+       "value": "5005"
+      },
+      "audioTranscriptionObjectUrl": null
+     }
+    ],
+    "storyId": {
+     "value": "63171084435456"
+    },
+    "storyTitle": {
+     "value": "The Truth Finally Won 🥹"
+    },
+    "thumbnailUrl": {
+     "value": "https://feelinsonice-hrd.appspot.com//rsp/discover/asset/url?url=aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbWRmNDdLVjVqNXRRaFRjazNudHVqLjMxMD9tbz1HazBhQnpJQkJGQUZZQUZRb2dKYUdGQnlaVzFwZFcxVGRHOXllVlJwYkdWV1lYSnBZVzUwYzZJQkZnaTJBaUlSQ2cwNkFYMUNCZ2k1b3NyVkJrZ0NFZ0NpQVFzSUFTSUhDZ1V5QVgxSUFRJTNEJTNEJnVjPTU%3D&transcodedMediaId=7a2c00da-0a9f-4725-a534-06dbf23fdb2d&story=3:63171084435456"
+    },
+    "storySubtitle": null,
+    "storyShareId": null,
+    "canonicalUrlSuffix": null,
+    "emoji": null,
+    "storyTapId": "0",
+    "videoTrackUrl": {
+     "value": "https://cf-st.sc-cdn.net/d/Rf9Gr2oCiYTAAvhj77bCB.1203.5ARGSBA.m3u8?mo=GsMEGh4SFWExRXRndmZvV1ZzZHRoZU40MUlVcTIBBFAFYAFQKFoVTG9uZ2Zvcm1WaWRlb1ZhcmlhbnRzogFHCLMJEggKBlDw_zVoAyI4CjYSJ1JmOUdyMm9DaVlUQUF2aGo3N2JDQi4xMjAzLjVBUkdTQkEubTN1ODoBfUIGCJipytUGSAKiAVYIhQsSGAoWSg4KCTQtHiUiKBoQIhD0A1Dw_zVoBCI3CjUSJjN6WXR2Z3NsVnkyejZrTWpVaFpiYi4xNDEzLjVBUkdTQkEubXBkOgF9QgYImKnK1QZIAqIBVgiPCxIYChZKDgoJOxQtECwdGRQeEPQDUO3_NWgEIjcKNRImTUVkN3dEdFJsS29aYzJWVld4aW9TLjE0MjMuNUFSR1NCQS5tcGQ6AX1CBgicu8rVBkgCogFVCG4SJQojCNGj9CgwxAI4wARAAUoOCgldNi86MTAsJDIQ9ANQ8P81aAEiKgooEhl1WXZjMW1wTGlzVkNEQTlST29lY1EuMTEwOgF9QgYIz6zK1QZIAqIBVghvEiYKJAjBwYdPMJwEOMAHQAFKDwoKrQFlX2hiXVFHYxD0A1Dw_zVoASIqCigSGWRENlozYTd6SFdNU2syNDNkY0t6Yi4xMTE6AX1CBgj4rcrVBkgCogFHCJcKEggKBlDt_zVoAyI4CjYSJ3dTSkNGZlYwckR3MWszcE5MZk1Pdy4xMzAzLjVBUkdTQkEubTN1ODoBfUIGCJSnytUGSAKiAQsIASIHCgUyAX1IAZAD8P81&uc=5"
+    },
+    "highlightId": null,
+    "isAttributed": null,
+    "thumbnailTiles": []
+   },
+   "storyMetadata": null,
+   "timestampInSec": {
+    "value": "1790125214"
+   },
+   "seasonNumber": 0,
+   "episodeNumber": 0,
+   "ownerId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+   "snapcodeImageUrl": "https://www.snapchat.com/deeplink/discover/snapcode/L3AvYzgxNzA4MzItOWJkNS00MDg3LWE2ZDctYTY1NjBjNjk2YmZjLzYzMTcxMDg0NDM1NDU2"
+  },
+  "snapId": "",
+  "wasRequested": false
+ },
+ "premiumStoriesMetadata": {
+  "premiumStoryList": [
+   {
+    "playerStory": {
+     "storyType": 16,
+     "snapList": [],
+     "storyId": {
+      "value": "63171084435456"
+     },
+     "storyTitle": {
+      "value": "The Truth Finally Won 🥹"
+     },
+     "thumbnailUrl": {
+      "value": "https://cf-st.sc-cdn.net/aps/bolt_stagg/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbWRmNDdLVjVqNXRRaFRjazNudHVqLjMxMD9tbz1Ha0FhQ0RJQ0JIMVFCV0FCVUtJQ1doaFFjbVZ0YVhWdFUzUnZjbmxVYVd4bFZtRnlhV0Z1ZEhPaUFRc0l0Z0lpQmdvQ1NBSVNBS0lCQ0FnQklnUUtBa2dCJnVjPTU.RS540,0"
+     },
+     "storySubtitle": null,
+     "storyShareId": null,
+     "canonicalUrlSuffix": null,
+     "emoji": null,
+     "storyTapId": "0",
+     "videoTrackUrl": null,
+     "highlightId": null,
+     "isAttributed": null,
+     "thumbnailTiles": []
+    },
+    "storyMetadata": null,
+    "timestampInSec": {
+     "value": "1790125214"
+    },
+    "seasonNumber": 94,
+    "episodeNumber": 4,
+    "ownerId": "",
+    "snapcodeImageUrl": ""
+   },
+   {
+    "playerStory": {
+     "storyType": 16,
+     "snapList": [],
+     "storyId": {
+      "value": "1536516665569280"
+     },
+     "storyTitle": {
+      "value": "I Finally Listened 🤯"
+     },
+     "thumbnailUrl": {
+      "value": "https://cf-st.sc-cdn.net/aps/bolt_stagg/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVkZ6czJwM0lDaDJHbktaTkpnQ203LjMxMD9tbz1Ha0FhQ0RJQ0JIMVFCV0FCVUtJQ1doaFFjbVZ0YVhWdFUzUnZjbmxVYVd4bFZtRnlhV0Z1ZEhPaUFRc0l0Z0lpQmdvQ1NBSVNBS0lCQ0FnQklnUUtBa2dCJnVjPTU.RS540,0"
+     },
+     "storySubtitle": null,
+     "storyShareId": null,
+     "canonicalUrlSuffix": null,
+     "emoji": null,
+     "storyTapId": "0",
+     "videoTrackUrl": null,
+     "highlightId": null,
+     "isAttributed": null,
+     "thumbnailTiles": []
+    },
+    "storyMetadata": null,
+    "timestampInSec": {
+     "value": "1790116257"
+    },
+    "seasonNumber": 94,
+    "episodeNumber": 3,
+    "ownerId": "",
+    "snapcodeImageUrl": ""
+   }
+  ],
+  "cursor": ""
+ },
+ "premiumShowSeasonList": [
+  {
+   "seasonId": "55e465e7-cbc9-463e-8202-7a9d9a7e7ac7",
+   "seasonNumber": 1,
+   "episodeCount": 71
+  },
+  {
+   "seasonId": "fd66b4eb-4644-423c-8dcd-56a514bd0a11",
+   "seasonNumber": 2,
+   "episodeCount": 67
+  }
+ ],
+ "locale": "en-US",
+ "publisherSpotlightStoryCards": [
+  {
+   "storyId": "35::W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+    "version": "0"
+   },
+   "storyIdFp": "0",
+   "storyDedupeFp": "3091173095658206947",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+       "snapClientId": "2a39e547-3142-40fe-b18c-71c125514d75",
+       "fragmentMetadata": null,
+       "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+       "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://cf-st.sc-cdn.net/d/6sQ7wypBEOcmMLVjqxNFT.mp4?bo=EgkyAQRIA1AuYAE%3D&uc=46",
+        "mediaDimensions": null,
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+        "mediaIv": "/TFp7z3vD7G5SGetf4qoWg==",
+        "mediaKey": "A0f8COOGGiYZmVgsuk868OcDjRzyXelSIopKAQIrNaw=",
+        "isZipped": false,
+        "duration": 170.07,
+        "isInfiniteDuration": true,
+        "streamingMediaInfo": null,
+        "publicMediaInfo": null,
+        "unencryptedSnapBoltInfo": null,
+        "mediaD2sUrl": "",
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/6sQ7wypBEOcmMLVjqxNFT.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYImtieCiABMOADONQGQAFKDwoKoQJQWE5JP0s4MxD0A1DWsApoAiILEgAqB0lSWlhTT1mQA9awCg%3D%3D&uc=46",
+        "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/6sQ7wypBEOcmMLVjqxNFT.1034.IRZXSOY?mo=GlAaCTIBBEgCUC5gAVCxAaIBOgiKCBIoCiYImtieCiABMOADONQGQAFKDwoKoQJQWE5JP0s4MxD0A1DWsApoAiILEgAqB0lSWlhTT1mQA9awCg%3D%3D&uc=46",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 0,
+         "height": 0
+        }
+       },
+       "snapThumbnail": null,
+       "creationTimestampMs": "1771468516291",
+       "sourceCreationTimestamp": "0",
+       "expirationTimestampMs": "4925068516291",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "contextClientInfo": null,
+         "hint": 0,
+         "timestamp": "0",
+         "affordance": null,
+         "contentMetadata": null,
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "8d646854-e686-4756-81b6-d1a90f0cb452",
+        "userName": "askthereddit.sc",
+        "displayName": "askthereddit",
+        "followerCount": "0",
+        "snapproTier": 0,
+        "creatorEligibility": null
+       },
+       "attachmentUrl": "",
+       "multiSnapExtension": null,
+       "snapSource": {
+        "source": 7
+       },
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "lensId": "",
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "",
+       "snapConnectAttributes": null,
+       "boostMetadata": null,
+       "engagementStats": null,
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [
+        2
+       ],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "isStitchedMedia": false,
+       "geoLocation": null,
+       "snapDescription": {
+        "text": "\"I told my coworker I was deathly allergic to peanuts. She rolled her eyes and said 'Yeah, sure you are.' The next day, she brought in cookies.\""
+       },
+       "connectionType": 0,
+       "cameo": null,
+       "sponsor": null,
+       "adsTracking": null,
+       "cameoTile": null,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "spotlightModerationStatus": null,
+       "adminPermission": null,
+       "attributionStatus": 3,
+       "scanOnPublicContentEnabled": false,
+       "contentModerationStatus": null,
+       "garmBrandSafety": 1,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "commentSnapRepliesLabel": null,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "llmGeneratedMetadata": {
+        "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"She thought faking an allergy was a good idea. It wasn't.\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+       },
+       "contentCategories": [],
+       "aiGeneratedInfo": {
+        "isAiDisclosedByCreator": false,
+        "isAiFlagged": false
+       }
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6sQ7wypBEOcmMLVjqxNFT.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "thumbnailIv": "",
+      "mediaKey": "",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYaXN4ZW5rbXpvAZxzwGzDAZxzwGvDAAAAAQ",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "fe6ef4543644dd8d87689064740a8af3",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/6sQ7wypBEOcmMLVjqxNFT.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "https://cf-st.sc-cdn.net/d/6sQ7wypBEOcmMLVjqxNFT.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+        "mediaKey": "A0f8COOGGiYZmVgsuk868OcDjRzyXelSIopKAQIrNaw=",
+        "mediaIv": "/TFp7z3vD7G5SGetf4qoWg=="
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "askthereddit",
+      "businessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 9
+     },
+     "boostMetadata": null,
+     "engagementStats": {
+      "boostCount": "6867",
+      "shareCount": "270",
+      "viewCount": "137383",
+      "subCount": "-1",
+      "spotlightPendingReplyCount": "86",
+      "spotlightLiveReplyCount": "0",
+      "spotlightNewPendingReplyCount": "86",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "86",
+      "liveCommentCount": "0",
+      "newPendingCommentCount": "86",
+      "recommendCount": "500",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "trendingTopicBadgeMetadata": null,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "calloutLabel": null,
+     "timedAdPlacements": null,
+     "commentSnapRepliesLabel": null,
+     "calloutLabelV2": null,
+     "trendingLabelMetadata": null,
+     "contentSurvey": null,
+     "isSharingDisabled": false,
+     "trendLoggingInfo": null,
+     "commentLabelMetadata": null,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "score": 0,
+   "rankShouldBeFixed": false,
+   "notModerated": true,
+   "clientRankingFeatures": null,
+   "clientDisplayInfo": null,
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "tapAction": null,
+   "boostConfig": null,
+   "isPlaceholder": false,
+   "adminPermission": null,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "topSpotlightFeaturesForNotification": null,
+   "debugInfo": null,
+   "friendStoryModelHeadScores": [],
+   "numStorySnapPosts": null,
+   "scoringModelId": ""
+  },
+  {
+   "storyId": "35::W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+    "version": "0"
+   },
+   "storyIdFp": "0",
+   "storyDedupeFp": "7949935037446093654",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+       "snapClientId": "ac95a581-87d8-49be-a37d-ea88fd14aedb",
+       "fragmentMetadata": null,
+       "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+       "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://cf-st.sc-cdn.net/d/DyPyVy2Lz8aLplw6uAUdX.mp4?bo=Eg0aABoAMgEESAJQLmAB&uc=46",
+        "mediaDimensions": null,
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+        "mediaIv": "A+WJF4nXFi2rmmrfX6Vmnw==",
+        "mediaKey": "ej9SYr1qckDjP/aXSMKxPvamp/pbpHQNA+LOS//ZULM=",
+        "isZipped": false,
+        "duration": 77.43,
+        "isInfiniteDuration": true,
+        "streamingMediaInfo": null,
+        "publicMediaInfo": null,
+        "unencryptedSnapBoltInfo": null,
+        "mediaD2sUrl": "",
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/DyPyVy2Lz8aLplw6uAUdX.1034.IRZXSOY?mo=GrYBGg0aABoAMgEESAJQLmABogGeAQiKCBKLAQqIAQi3hsEEIAFKfQp4zwEqVjc3LUE2O1wdJzI1MTMzLTRQKSc4Ly1GSTo-aDZEVkZHSjoqKzorKSsxMzUvKy1ARVpGeDA5NTEsSzlZQGJRRkM4QEdEHRweHBstKidncmRDOGo4LCg0Vic5Oko_TEg1MjsvUkExQjhVNTw2PT5KMh9FUD1BEPQDaAIiCxIAKgdJUlpYU09ZkAP23AQ%3D&uc=46",
+        "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/DyPyVy2Lz8aLplw6uAUdX.1034.IRZXSOY?mo=GrYBGg0aABoAMgEESAJQLmABogGeAQiKCBKLAQqIAQi3hsEEIAFKfQp4zwEqVjc3LUE2O1wdJzI1MTMzLTRQKSc4Ly1GSTo-aDZEVkZHSjoqKzorKSsxMzUvKy1ARVpGeDA5NTEsSzlZQGJRRkM4QEdEHRweHBstKidncmRDOGo4LCg0Vic5Oko_TEg1MjsvUkExQjhVNTw2PT5KMh9FUD1BEPQDaAIiCxIAKgdJUlpYU09ZkAP23AQ%3D&uc=46",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 0,
+         "height": 0
+        }
+       },
+       "snapThumbnail": null,
+       "creationTimestampMs": "1736360889373",
+       "sourceCreationTimestamp": "0",
+       "expirationTimestampMs": "4889960889373",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "contextClientInfo": null,
+         "hint": 0,
+         "timestamp": "0",
+         "affordance": null,
+         "contentMetadata": null,
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "8d646854-e686-4756-81b6-d1a90f0cb452",
+        "userName": "askthereddit.sc",
+        "displayName": "askthereddit",
+        "followerCount": "0",
+        "snapproTier": 0,
+        "creatorEligibility": null
+       },
+       "attachmentUrl": "",
+       "multiSnapExtension": null,
+       "snapSource": {
+        "source": 7
+       },
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "lensId": "",
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "",
+       "snapConnectAttributes": null,
+       "boostMetadata": null,
+       "engagementStats": null,
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [
+        2
+       ],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "isStitchedMedia": false,
+       "geoLocation": null,
+       "snapDescription": {
+        "text": "Photographers, what's the most memorable photoshoot you've ever done?"
+       },
+       "connectionType": 0,
+       "cameo": null,
+       "sponsor": null,
+       "adsTracking": null,
+       "cameoTile": null,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "spotlightModerationStatus": null,
+       "adminPermission": null,
+       "attributionStatus": 3,
+       "scanOnPublicContentEnabled": false,
+       "contentModerationStatus": null,
+       "garmBrandSafety": 1,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "commentSnapRepliesLabel": null,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "llmGeneratedMetadata": null,
+       "contentCategories": [],
+       "aiGeneratedInfo": {
+        "isAiDisclosedByCreator": false,
+        "isAiFlagged": false
+       }
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/DyPyVy2Lz8aLplw6uAUdX.256.IRZXSOY?mo=GjQaDRoAGgAyAQRIAlAuYAFaEERmTGFyZ2VUaHVtYm5haWyiARAIgAIiCxIAKgdJUlpYU09Z&uc=46",
+      "thumbnailIv": "",
+      "mediaKey": "",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYaWJ0c2lydmhyAZRHLI4_AZRHLIwdAAAAAQ",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "9c7a4bc5897415df6224af8f8abbe588",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/DyPyVy2Lz8aLplw6uAUdX.256.IRZXSOY?mo=GjQaDRoAGgAyAQRIAlAuYAFaEERmTGFyZ2VUaHVtYm5haWyiARAIgAIiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "https://cf-st.sc-cdn.net/d/DyPyVy2Lz8aLplw6uAUdX.256?mo=GisaDRoAGgAyAQRIAlAuYAFaEERmTGFyZ2VUaHVtYm5haWyiAQcIgAIiAhIA&uc=46",
+        "mediaKey": "ej9SYr1qckDjP/aXSMKxPvamp/pbpHQNA+LOS//ZULM=",
+        "mediaIv": "A+WJF4nXFi2rmmrfX6Vmnw=="
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "askthereddit",
+      "businessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 9
+     },
+     "boostMetadata": null,
+     "engagementStats": {
+      "boostCount": "9722",
+      "shareCount": "168",
+      "viewCount": "113757",
+      "subCount": "-1",
+      "spotlightPendingReplyCount": "-1",
+      "spotlightLiveReplyCount": "238",
+      "spotlightNewPendingReplyCount": "-1",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "-1",
+      "liveCommentCount": "238",
+      "newPendingCommentCount": "-1",
+      "recommendCount": "317",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "trendingTopicBadgeMetadata": null,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "calloutLabel": null,
+     "timedAdPlacements": null,
+     "commentSnapRepliesLabel": null,
+     "calloutLabelV2": null,
+     "trendingLabelMetadata": null,
+     "contentSurvey": null,
+     "isSharingDisabled": false,
+     "trendLoggingInfo": null,
+     "commentLabelMetadata": null,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "score": 0,
+   "rankShouldBeFixed": false,
+   "notModerated": true,
+   "clientRankingFeatures": null,
+   "clientDisplayInfo": null,
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "tapAction": null,
+   "boostConfig": null,
+   "isPlaceholder": false,
+   "adminPermission": null,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "topSpotlightFeaturesForNotification": null,
+   "debugInfo": null,
+   "friendStoryModelHeadScores": [],
+   "numStorySnapPosts": null,
+   "scoringModelId": ""
+  }
+ ]
+}

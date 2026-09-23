@@ -1,0 +1,10 @@
+services:
+  snapchat-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Snapchat does not block these requests, so leave this unset.
+      # - SNAPCHAT_PROXY=http://user:pass@host:port

@@ -1,0 +1,49 @@
+{
+ "viewerInfo": {
+  "country": "IN",
+  "locale": "en-US",
+  "isGdprCountry": false
+ },
+ "pageMetadata": {
+  "pageType": 17,
+  "pageTitle": "espn (@espn) | Snapchat Stories, Spotlight & Lenses",
+  "pageDescription": {
+   "value": "espn is on Snapchat! (@espn)"
+  },
+  "shareId": ""
+ },
+ "userProfile": {
+  "$case": "userInfo",
+  "userInfo": {
+   "username": "espn",
+   "displayName": "espn",
+   "snapcodeImageUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=espn&type=SVG&bitmoji=enable",
+   "bitmoji3d": {
+    "avatarImage": {
+     "url": "https://cf-st.sc-cdn.net/3d/render/398103351-99081119148_3-s5-v1.webp?ua=2",
+     "fallbackUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0LzNkL3JlbmRlci8zOTgxMDMzNTEtOTkwODExMTkxNDhfMy1zNS12MS53ZWJwP3VhPTI._FMpng"
+    },
+    "backgroundImage": {
+     "url": "https://cf-st.sc-cdn.net/3d/background/482580605-1.webp",
+     "fallbackUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0LzNkL2JhY2tncm91bmQvNDgyNTgwNjA1LTEud2VicA._FMpng"
+    }
+   }
+  }
+ },
+ "story": null,
+ "storyMetadata": null,
+ "lenses": [],
+ "curatedHighlights": [],
+ "spotlightHighlights": [],
+ "showSnapExpiredToast": false,
+ "lensCursor": "",
+ "curatedHighlightsCursor": "",
+ "spotlightHighlightsCursor": "",
+ "spotlightStoryMetadata": [],
+ "locale": "en-US",
+ "encodedSpotlightComments": "[]",
+ "taggedTabResponse": {
+  "searchResponse": null,
+  "spotlightCardMap": null
+ }
+}

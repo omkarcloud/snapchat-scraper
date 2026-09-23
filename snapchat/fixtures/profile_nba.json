@@ -1,0 +1,758 @@
+{
+ "viewerInfo": {
+  "country": "IN",
+  "locale": "en-US",
+  "isGdprCountry": false
+ },
+ "pageMetadata": {
+  "pageType": 18,
+  "pageTitle": "NBA (@nba) | Snapchat Stories, Spotlight & Lenses",
+  "pageDescription": {
+   "value": "NBA is on Snapchat! (@nba) | 3.6m Subscribers | 30 teams, 1 goal. | Last updated: 09/18/2026"
+  },
+  "shareId": ""
+ },
+ "userProfile": {
+  "$case": "publicProfileInfo",
+  "publicProfileInfo": {
+   "username": "nba",
+   "title": "NBA",
+   "snapcodeImageUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=nba&type=SVG&bitmoji=enable",
+   "badge": 1,
+   "categoryStringId": "public-profile-category-v3-business-group",
+   "subcategoryStringId": "public-profile-subcategory-v3-sports-league",
+   "subscriberCount": "3582100",
+   "bio": "30 teams, 1 goal.",
+   "websiteUrl": "NBA.com",
+   "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcGxQanhqRDFZRk9IUWdGMUZLRHNqP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+   "address": "",
+   "bitmoji3d": null,
+   "hasCuratedHighlights": true,
+   "hasSpotlightHighlights": true,
+   "mutableName": "",
+   "publisherType": "",
+   "squareHeroImageUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvOWJ6SW1LWGpXYkxVNXRTSGZNQjE0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,1080_FMjpeg",
+   "primaryColor": "",
+   "hasStory": false,
+   "relatedAccountsInfo": [
+    {
+     "publicProfileInfo": {
+      "username": "warriors",
+      "title": "Golden State Warriors",
+      "snapcodeImageUrl": "",
+      "badge": 1,
+      "categoryStringId": "",
+      "subcategoryStringId": "",
+      "subscriberCount": "0",
+      "bio": "",
+      "websiteUrl": "",
+      "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNjRqVjdIRlJMaHk1V21yS0MwNUZ2P2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+      "address": "",
+      "bitmoji3d": null,
+      "hasCuratedHighlights": false,
+      "hasSpotlightHighlights": false,
+      "mutableName": "",
+      "publisherType": "",
+      "squareHeroImageUrl": "",
+      "primaryColor": "",
+      "hasStory": false,
+      "relatedAccountsInfo": [],
+      "creationTimestampMs": null,
+      "lastUpdateTimestampMs": null,
+      "businessProfileId": "8ab7535a-5ebc-4562-a7fc-b0359316134e",
+      "sameAsLinks": [],
+      "shouldHideUsername": false,
+      "audienceGateSettings": null,
+      "hostUserId": ""
+     },
+     "subscribeLink": {
+      "oneLinkBaseUrl": "https://click.snapchat.com/aVHG",
+      "pidKeys": [
+       "af_pid",
+       "utm_source"
+      ],
+      "pidFallbackValue": "consumer_web",
+      "campaignKeys": [
+       "af_c",
+       "utm_campaign"
+      ],
+      "campaignFallbackValue": "add_user",
+      "googleClickIdParam": "af_sub1",
+      "deepLinkUrl": "https://www.snapchat.com/@warriors",
+      "iosAppStoreUrl": "https://apps.apple.com/app/apple-store/id447188370?pt=614006&ct=add_user&mt=8",
+      "desktopPageUrl": "https://snapchat.com/download?purpose=web_stories&sp=add_user"
+     }
+    },
+    {
+     "publicProfileInfo": {
+      "username": "nfl",
+      "title": "NFL Official",
+      "snapcodeImageUrl": "",
+      "badge": 1,
+      "categoryStringId": "",
+      "subcategoryStringId": "",
+      "subscriberCount": "0",
+      "bio": "",
+      "websiteUrl": "",
+      "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvT3NjakFOS0dwSWh1VzQwek9qRnowP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+      "address": "",
+      "bitmoji3d": null,
+      "hasCuratedHighlights": false,
+      "hasSpotlightHighlights": false,
+      "mutableName": "",
+      "publisherType": "",
+      "squareHeroImageUrl": "",
+      "primaryColor": "",
+      "hasStory": true,
+      "relatedAccountsInfo": [],
+      "creationTimestampMs": null,
+      "lastUpdateTimestampMs": null,
+      "businessProfileId": "21f4e252-2d8b-44f7-a7ac-21a767730b7f",
+      "sameAsLinks": [],
+      "shouldHideUsername": false,
+      "audienceGateSettings": null,
+      "hostUserId": ""
+     },
+     "subscribeLink": {
+      "oneLinkBaseUrl": "https://click.snapchat.com/aVHG",
+      "pidKeys": [
+       "af_pid",
+       "utm_source"
+      ],
+      "pidFallbackValue": "consumer_web",
+      "campaignKeys": [
+       "af_c",
+       "utm_campaign"
+      ],
+      "campaignFallbackValue": "add_user",
+      "googleClickIdParam": "af_sub1",
+      "deepLinkUrl": "https://www.snapchat.com/@nfl",
+      "iosAppStoreUrl": "https://apps.apple.com/app/apple-store/id447188370?pt=614006&ct=add_user&mt=8",
+      "desktopPageUrl": "https://snapchat.com/download?purpose=web_stories&sp=add_user"
+     }
+    }
+   ],
+   "creationTimestampMs": {
+    "value": "1526597295058"
+   },
+   "lastUpdateTimestampMs": {
+    "value": "1790116183742"
+   },
+   "businessProfileId": "ea71b19b-5eb1-4dda-afb8-13ced485f180",
+   "sameAsLinks": [],
+   "shouldHideUsername": false,
+   "audienceGateSettings": null,
+   "hostUserId": "db0ce16e-8e12-4a25-881b-e7ddf65591db"
+  }
+ },
+ "story": {
+  "storyType": 5,
+  "snapList": [
+   {
+    "snapIndex": 0,
+    "snapId": {
+     "value": "2wzhbo4SSiWIG-fd9lWR2wAAganVjaGtoY2FsAaDKH7mMAaDKGMxGAAAAAA"
+    },
+    "snapMediaType": 1,
+    "snapUrls": {
+     "mediaUrl": "https://cf-st.sc-cdn.net/d/IdqcsiZCsx1gy6oAHS2Mp.1034.IRZXSOY?mo=Gl8aGDIBBDoBfUIGCPzwytUGSAJQS2ABaAxwAVCwAaIBOwiKCBIlCiMIgossIAEw4AM41AZAAUoOCglFHx80NC84HBsQ9ANQ8k1oAiIPCgJoDBIAKgdJUlpYU09ZkAPyTQ%3D%3D&uc=75",
+     "mediaPreviewUrl": {
+      "value": "https://cf-st.sc-cdn.net/d/IdqcsiZCsx1gy6oAHS2Mp.256.IRZXSOY?mo=GlMaDjICBH1IAlBLYAFoDHABUI4BWhBEZkxhcmdlVGh1bWJuYWlsogEUCIACIg8KAmgMEgAqB0lSWlhTT1miARQImgoiDwoCaAwSACoHSVJaWFNPWQ%3D%3D&uc=75"
+     },
+     "overlayUrl": null,
+     "attachmentUrl": null
+    },
+    "isSponsored": null,
+    "timestampInSec": {
+     "value": "1790097017"
+    },
+    "snapTitle": null,
+    "snapSubtitles": null,
+    "lat": null,
+    "lng": null,
+    "hasAttachment": null,
+    "intervalStartTimeMs": null,
+    "audioTranscriptionObjectUrl": null
+   },
+   {
+    "snapIndex": 1,
+    "snapId": {
+     "value": "2wzhbo4SSiWIG-fd9lWR2wAAgeHFiZHFzc25zAaDKH7waAaDKGMxQAAAAAA"
+    },
+    "snapMediaType": 1,
+    "snapUrls": {
+     "mediaUrl": "https://cf-st.sc-cdn.net/d/omzotPh1sMmQKYVt4M5No.1034.IRZXSOY?mo=Gl8aGDIBBDoBfUIGCPPwytUGSAJQS2ABaAxwAVCwAaIBOwiKCBIlCiMI950sIAEw4AM41AZAAUoOCglaJRgcGSQsMi0Q9ANQsEBoAiIPCgJoDBIAKgdJUlpYU09ZkAOwQA%3D%3D&uc=75",
+     "mediaPreviewUrl": {
+      "value": "https://cf-st.sc-cdn.net/d/omzotPh1sMmQKYVt4M5No.256.IRZXSOY?mo=GlMaDjICBH1IAlBLYAFoDHABUI4BWhBEZkxhcmdlVGh1bWJuYWlsogEUCIACIg8KAmgMEgAqB0lSWlhTT1miARQImgoiDwoCaAwSACoHSVJaWFNPWQ%3D%3D&uc=75"
+     },
+     "overlayUrl": null,
+     "attachmentUrl": null
+    },
+    "isSponsored": null,
+    "timestampInSec": {
+     "value": "1790097017"
+    },
+    "snapTitle": null,
+    "snapSubtitles": null,
+    "lat": null,
+    "lng": null,
+    "hasAttachment": null,
+    "intervalStartTimeMs": null,
+    "audioTranscriptionObjectUrl": null
+   }
+  ],
+  "storyId": {
+   "value": "nba"
+  },
+  "storyTitle": null,
+  "thumbnailUrl": {
+   "value": "https://cf-st.sc-cdn.net/d/IdqcsiZCsx1gy6oAHS2Mp.256.IRZXSOY?mo=GlMaDjICBH1IAlBLYAFoDHABUI4BWhBEZkxhcmdlVGh1bWJuYWlsogEUCIACIg8KAmgMEgAqB0lSWlhTT1miARQImgoiDwoCaAwSACoHSVJaWFNPWQ%3D%3D&uc=75"
+  },
+  "storySubtitle": null,
+  "storyShareId": null,
+  "canonicalUrlSuffix": null,
+  "emoji": null,
+  "storyTapId": "0",
+  "videoTrackUrl": null,
+  "highlightId": null,
+  "isAttributed": null,
+  "thumbnailTiles": []
+ },
+ "storyMetadata": null,
+ "lenses": [
+  {
+   "scannableUuid": "",
+   "lensName": "NBA Draft 2024",
+   "lensCreatorDisplayName": "NBA",
+   "lensPreviewImageUrl": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_thumbnail/4fd643ec-7e7d-4dcf-a05c-4e92c1676f61_360_640.webp",
+   "lensPreviewVideoUrl": "https://lens-storage.storage.googleapis.com/previewvideo/1438e5a0-a230-4eb8-b940-c22cf8ae419c",
+   "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/LlDGAagxVwN5d5Wn2vYgq?bo=EhgaABoAMgF9OgEEQgYIyvHnswZIAlASYAE%3D&uc=18",
+   "unlockUrl": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ace0170b8d524ecf8f07c4556b45089f&metadata=01",
+   "lensResource": null,
+   "userProfileUrl": "",
+   "lensCreatorUsername": "",
+   "lensId": "",
+   "lensCreatorSearchTags": [],
+   "isOfficialSnapLens": false,
+   "lastUpdatedEpoch": 1777431505,
+   "scannableImageUrl": ""
+  },
+  {
+   "scannableUuid": "",
+   "lensName": "NBA All-Star 2024",
+   "lensCreatorDisplayName": "NBA",
+   "lensPreviewImageUrl": "",
+   "lensPreviewVideoUrl": "https://lens-storage.storage.googleapis.com/previewvideo/2513eae5-f65a-48c6-beed-a0a0293c1475",
+   "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/nOKEvpysPBn4ko5aWc2Ff?bo=EhgaABoAMgF9OgEEQgYIw56UrgZIAlASYAE%3D&uc=18",
+   "unlockUrl": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=7784b5e49b474bed8be303d47f4dd9dd&metadata=01",
+   "lensResource": null,
+   "userProfileUrl": "",
+   "lensCreatorUsername": "",
+   "lensId": "",
+   "lensCreatorSearchTags": [],
+   "isOfficialSnapLens": false,
+   "lastUpdatedEpoch": 1778208105,
+   "scannableImageUrl": ""
+  }
+ ],
+ "curatedHighlights": [
+  {
+   "storyType": 3,
+   "snapList": [
+    {
+     "snapIndex": 0,
+     "snapId": {
+      "value": ""
+     },
+     "snapMediaType": 0,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/ZXSSacNIpSYqxAm21SSGc.400?mo=Gk8aDDIBBDoBfVBeYAFwAVDBAVoQUHVibGljSW1hZ2VTdG9yeaIBEwiQAyIOCgpCBgjKhvfQBkgCEgCiARMI5wciDgoKQgYIy4b30AZIAxIA&uc=94",
+      "mediaPreviewUrl": {
+       "value": "https://cf-st.sc-cdn.net/d/ZXSSacNIpSYqxAm21SSGc.410?mo=GjcaFjIBBDoBfUIGCMqG99AGSAJQXmABcAFQxQFaEERmTGFyZ2VUaHVtYm5haWyiAQcImgMiAhIA&uc=94"
+      },
+      "overlayUrl": null,
+      "attachmentUrl": null
+     },
+     "isSponsored": null,
+     "timestampInSec": {
+      "value": "1780335408"
+     },
+     "snapTitle": null,
+     "snapSubtitles": null,
+     "lat": null,
+     "lng": null,
+     "hasAttachment": null,
+     "intervalStartTimeMs": null,
+     "audioTranscriptionObjectUrl": null
+    },
+    {
+     "snapIndex": 1,
+     "snapId": {
+      "value": ""
+     },
+     "snapMediaType": 0,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/FgntIqJi6clNRLmaxXkXN.400?mo=Gk0aDjIBBDoBfUgCUF5gAXABUMEBWhBQdWJsaWNJbWFnZVN0b3J5ogERCJADIgwKCEIGCMuG99AGEgCiAREI5wciDAoIQgYIyob30AYSAA%3D%3D&uc=94",
+      "mediaPreviewUrl": {
+       "value": "https://cf-st.sc-cdn.net/d/FgntIqJi6clNRLmaxXkXN.410?mo=GjcaFjIBBDoBfUIGCMuG99AGSAJQXmABcAFQxQFaEERmTGFyZ2VUaHVtYm5haWyiAQcImgMiAhIA&uc=94"
+      },
+      "overlayUrl": null,
+      "attachmentUrl": null
+     },
+     "isSponsored": null,
+     "timestampInSec": {
+      "value": "1780335408"
+     },
+     "snapTitle": null,
+     "snapSubtitles": null,
+     "lat": null,
+     "lng": null,
+     "hasAttachment": null,
+     "intervalStartTimeMs": null,
+     "audioTranscriptionObjectUrl": null
+    }
+   ],
+   "storyId": {
+    "value": ""
+   },
+   "storyTitle": {
+    "value": "2025-26 NBA Finals 🏆"
+   },
+   "thumbnailUrl": {
+    "value": "https://cf-st.sc-cdn.net/d/ZXSSacNIpSYqxAm21SSGc.410?mo=GjcaFjIBBDoBfUIGCMqG99AGSAJQXmABcAFQxQFaEERmTGFyZ2VUaHVtYm5haWyiAQcImgMiAhIA&uc=94"
+   },
+   "storySubtitle": null,
+   "storyShareId": null,
+   "canonicalUrlSuffix": null,
+   "emoji": null,
+   "storyTapId": "0",
+   "videoTrackUrl": null,
+   "highlightId": {
+    "value": "029f2cc3-c0df-46c2-b610-485c137f9a0a"
+   },
+   "isAttributed": null,
+   "thumbnailTiles": []
+  },
+  {
+   "storyType": 3,
+   "snapList": [
+    {
+     "snapIndex": 0,
+     "snapId": {
+      "value": ""
+     },
+     "snapMediaType": 0,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/iqFfVpTceYNBTtMJvlQns.400.IRZXSOY?mo=GlwaCTIBBFBeYAFwAVDBAVoQUHVibGljSW1hZ2VTdG9yeaIBHwiQAyIaCg06AX1CBgj2uanQBkgCEgAqB0lSWlhTT1miARcI5wciEgoFMgF9SAQSACoHSVJaWFNPWQ%3D%3D&uc=94",
+      "mediaPreviewUrl": {
+       "value": "https://cf-st.sc-cdn.net/d/iqFfVpTceYNBTtMJvlQns.410.IRZXSOY?mo=GkAaFjIBBDoBfUIGCPa5qdAGSAJQXmABcAFQxQFaEERmTGFyZ2VUaHVtYm5haWyiARAImgMiCxIAKgdJUlpYU09Z&uc=94"
+      },
+      "overlayUrl": null,
+      "attachmentUrl": null
+     },
+     "isSponsored": null,
+     "timestampInSec": {
+      "value": "1779061414"
+     },
+     "snapTitle": null,
+     "snapSubtitles": null,
+     "lat": null,
+     "lng": null,
+     "hasAttachment": null,
+     "intervalStartTimeMs": null,
+     "audioTranscriptionObjectUrl": null
+    },
+    {
+     "snapIndex": 1,
+     "snapId": {
+      "value": ""
+     },
+     "snapMediaType": 1,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/eHfqR7qRY9kuVjZbupqN4.1034.IRZXSOY?mo=GlgaDDICBH1IA1BeYAFwAVDIAVoHRGZNZWRpYaIBNwiKCBIlCiMIk84gIAEw4AM41AZAAUoOCgk9ExQVFBIUFRUQ9ANQ_E1oAiILEgAqB0lSWlhTT1mQA_xN&uc=94",
+      "mediaPreviewUrl": {
+       "value": "https://cf-st.sc-cdn.net/d/eHfqR7qRY9kuVjZbupqN4.410.IRZXSOY?mo=GkAaFjIBBDoBfUIGCP25qdAGSAJQXmABcAFQxQFaEERmTGFyZ2VUaHVtYm5haWyiARAImgMiCxIAKgdJUlpYU09Z&uc=94"
+      },
+      "overlayUrl": null,
+      "attachmentUrl": null
+     },
+     "isSponsored": null,
+     "timestampInSec": {
+      "value": "1779061852"
+     },
+     "snapTitle": null,
+     "snapSubtitles": null,
+     "lat": null,
+     "lng": null,
+     "hasAttachment": null,
+     "intervalStartTimeMs": null,
+     "audioTranscriptionObjectUrl": null
+    }
+   ],
+   "storyId": {
+    "value": ""
+   },
+   "storyTitle": {
+    "value": "Your 2025-26 Kia NBA MVP 🏆"
+   },
+   "thumbnailUrl": {
+    "value": "https://cf-st.sc-cdn.net/d/iqFfVpTceYNBTtMJvlQns.410.IRZXSOY?mo=GkAaFjIBBDoBfUIGCPa5qdAGSAJQXmABcAFQxQFaEERmTGFyZ2VUaHVtYm5haWyiARAImgMiCxIAKgdJUlpYU09Z&uc=94"
+   },
+   "storySubtitle": null,
+   "storyShareId": null,
+   "canonicalUrlSuffix": null,
+   "emoji": null,
+   "storyTapId": "0",
+   "videoTrackUrl": null,
+   "highlightId": {
+    "value": "2941c1a3-96ba-45aa-bdf4-30b344e63e42"
+   },
+   "isAttributed": null,
+   "thumbnailTiles": []
+  }
+ ],
+ "spotlightHighlights": [
+  {
+   "storyType": 15,
+   "snapList": [
+    {
+     "snapIndex": 0,
+     "snapId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYbHhzaWJ1b3pmAaDLPowjAaDLPT6-AAAAAQ"
+     },
+     "snapMediaType": 1,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.27.IRZXSOY?mo=GmIaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwjIpYwFIAEwnAQ4wAdAAUoQCgujASgiZ1RkYVKLARD0A1CAjQRoAiILEgAqB0lSWlhTT1mQA4CNBA%3D%3D&uc=46",
+      "mediaPreviewUrl": {
+       "value": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "overlayUrl": null,
+      "attachmentUrl": null
+     },
+     "isSponsored": null,
+     "timestampInSec": {
+      "value": "1790116183"
+     },
+     "snapTitle": null,
+     "snapSubtitles": null,
+     "lat": null,
+     "lng": null,
+     "hasAttachment": null,
+     "intervalStartTimeMs": null,
+     "audioTranscriptionObjectUrl": {
+      "value": "https://bolt-gcdn.sc-cdn.net/3/9myrIrInKz7KrntWeD7to.vtt?bo=EgkyAX1IAlAuYAE%3D&uc=46"
+     }
+    }
+   ],
+   "storyId": {
+    "value": "W7_EDlXWTBiXAEEniNoMPwAAYbHhzaWJ1b3pmAaDLPowjAaDLPT6-AAAAAQ"
+   },
+   "storyTitle": null,
+   "thumbnailUrl": {
+    "value": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+   },
+   "storySubtitle": null,
+   "storyShareId": null,
+   "canonicalUrlSuffix": null,
+   "emoji": null,
+   "storyTapId": "0",
+   "videoTrackUrl": null,
+   "highlightId": null,
+   "isAttributed": {
+    "value": true
+   },
+   "thumbnailTiles": [
+    {
+     "tileType": 2,
+     "url": {
+      "value": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "tileId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYYXh1a2Fva3VtAaDLP_SVAaDLP_SVAAAAAQ"
+     }
+    },
+    {
+     "tileType": 1,
+     "url": {
+      "value": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "tileId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYYXJ3a3ZrZmNvAaDLjNykAaDLjNykAAAAAQ"
+     }
+    }
+   ]
+  },
+  {
+   "storyType": 15,
+   "snapList": [
+    {
+     "snapIndex": 0,
+     "snapId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ"
+     },
+     "snapMediaType": 1,
+     "snapUrls": {
+      "mediaUrl": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.27.IRZXSOY?mo=GmAaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQi8y6YBIAEwnAQ4wAdAAUoOCgl8NEcxQjs7MCQQ9ANQvucBaAIiCxIAKgdJUlpYU09ZkAO-5wE%3D&uc=46",
+      "mediaPreviewUrl": {
+       "value": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "overlayUrl": null,
+      "attachmentUrl": null
+     },
+     "isSponsored": null,
+     "timestampInSec": {
+      "value": "1790112638"
+     },
+     "snapTitle": null,
+     "snapSubtitles": null,
+     "lat": null,
+     "lng": null,
+     "hasAttachment": null,
+     "intervalStartTimeMs": null,
+     "audioTranscriptionObjectUrl": {
+      "value": "https://bolt-gcdn.sc-cdn.net/3/62v7Ovp9PuXXd65106MYs.vtt?bo=EgkyAX1IAlAuYAE%3D&uc=46"
+     }
+    }
+   ],
+   "storyId": {
+    "value": "W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ"
+   },
+   "storyTitle": null,
+   "thumbnailUrl": {
+    "value": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+   },
+   "storySubtitle": null,
+   "storyShareId": null,
+   "canonicalUrlSuffix": null,
+   "emoji": null,
+   "storyTapId": "0",
+   "videoTrackUrl": null,
+   "highlightId": null,
+   "isAttributed": {
+    "value": true
+   },
+   "thumbnailTiles": [
+    {
+     "tileType": 2,
+     "url": {
+      "value": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "tileId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYbmppb21qc3liAaDLCMbnAaDLCMbnAAAAAQ"
+     }
+    },
+    {
+     "tileType": 1,
+     "url": {
+      "value": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "tileId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYbW94dG1ibXljAaDLa96HAaDLa96HAAAAAQ"
+     }
+    }
+   ]
+  }
+ ],
+ "showSnapExpiredToast": false,
+ "lensCursor": "17",
+ "curatedHighlightsCursor": "eyJkZGJfcGFnaW5hdGlvbl9jdXJzb3IiOiIiLCJzdG1zX3BhZ2luYXRpb25fY3Vyc29yIjoiQ3JzRkVyZ0Zjazh3UVVKWVRubEJRa1p4V1ZoYWFFeHVWakJoVjNkMVUwZEdlbUZGTVdoalFWVklNbk5JUkVadFJGSkJkMEZEVW1kQlMySkhPV2hhUlZwb1dUTlNkbU5yYTBGRFdGSnZZMjFXZW1GSE9YTmFTR2gzVURCQlFVRkJRVUZCUVhnelEwRkJRVUZDUVVGQlFVRkZaRUZCUkZneE9WRmpNMGxCVG0xT2RtSlROV2hpVjBZMllqSTFhR1F6VFhWak1sWjVaRzFzYWxwWVRYVmFTR3gxV1ZjeGRscEhTakpOYVRWMFlqSlNiR0pETlVKa1NGSjVZVmRLTVdSSFZsZFpWM2d4V2xZMmIzUm1NR2hXVjB4RlFXZEJTMVJCUVVKWmJsRkJSbFY0Y1ZsWVdtaE1NalZ3WW5rNVEyVllVbXhSYmxadFdtMVdlVTh3ZDBGQ1IwcFFWREI0TUVGQ1RrMWhiVVl5V1ZNNWMxbFhOVzVNTUVwMllqSjRiRmxYTkRkVVFVRkRXV3hPTUVGQ1FrMWhiVVl5V1ZNNU1XUkhiSE5NTUhod1l6TlJOMVJCUVVKaVNFVkJabWRCUjFSQlFVSmlXRkZCUkRCNGNWbFlXbWhNTTFZd1lWZDNkbFJYUm5kUE1IZEJRVmMxTUVGQ1NrMWhiVVl5V1ZNNWMxbFhOVzVNTVU0d1kyMXNkVnA2ZEUxQlFVcDFWVE5GUVdablFVZFVRVUZLWW14V1RWUkdXbWhpU0Zac1kxRkNMVUZCVmsxQlFVWjZZMUZDTFVGQmFFMUJRVXA2VlRORlFXWm5RVWRsU0VKM1kwaENkMk5JUW5kalNGRkJTak5PYVZwcVVUSk9lbXMxVDBNd2VGbDZiRzFNVkZKc1drZFZkRTlVVG1oT2VUQXhUMGRLYWsxWFNtcFBSRTE0VG1wVVFXZElRakJCUVU1cVpFaE9lbU5SUWkxQlFVNTNZMGhDZDJOSVFuZGpTRkZCUTFWU01sUXdhREJhUkVKU1RraENNRUZCVG1aWU1VcDZZMUZDTFVGQlRuZGpTRUozWTBoQ2QyTklVVUZEYlhScllUaERRV016VG5SM1NVSjNaRUZCUkdOSGJHdGpNMFZCWm1kQlJHTklRbmRqU0VKM1kwaENNRUZEVm5wYVYwVXpUVmRKZUU5WFNYUk9WMVpwVFZNd01GcEhVbWhNVjBadFdXcG5kRTFVVG1wYVYxRXdUMFJXYlUxVVozZGpTR2M5In0",
+ "spotlightHighlightsCursor": "eyJkZGJfcGFnaW5hdGlvbl9jdXJzb3IiOiJleUprWkdKZmNHRm5hVzVoZEdsdmJsOWpkWEp6YjNJaU9pSWlMQ0p6ZEcxelgzQmhaMmx1WVhScGIyNWZZM1Z5YzI5eUlqb2lRM05OUmtWelFVWmphemgzVVZWS1dWUnViRUpSYTFwNFYxWm9ZV0ZGZUhWV2FrSm9Wak5rTVZVd1pFZGxiVVpHVFZkb2FsRldWa2xOYms1SlVrVmFkRkpHU2tKa01FWkVWVzFrUWxNeVNraFBWMmhoVWxad2IxZFVUbE5rYlU1eVlUQkdSRmRHU25aWk1qRlhaVzFHU0U5WVRtRlRSMmd6VlVSQ1FsRlZSa0pSVlVaQ1VWaG5lbEV3UmtKUlZVWkRVVlZHUWxGVlJrVmFSVVpDVWtabmVFOVdSbXBOTUd4Q1ZHMHhUMlJ0U2xST1YyaHBWakJaTWxscVNURmhSMUY2VkZoV2FrMXNXalZhUnpGellXeHdXVlJZVm1GVFIzZ3hWMVpqZUdSc2NFaFRha3BPWVZSV01GbHFTbE5pUjBwRVRsVkthMU5HU2pWWlZtUkxUVmRTU0Zac1pGcFdNMmQ0VjJ4Wk1tSXpVbTFOUjJoWFZqQjRSbEZYWkVKVE1WSkNVVlZLV21Kc1JrSlNiRlkwWTFac1dWZHRhRTFOYWxaM1dXNXJOVkV5VmxsVmJYaFNZbXhhZEZkdE1WZGxWVGgzWkRCR1ExSXdjRkZXUkVJMFRVVkdRMVJyTVdoaVZWbDVWMVpOTldNeGJGaE9WelZOVFVWd01sbHFTalJpUm14WVRrUmtWVkZWUmtSWFYzaFBUVVZHUTFGck1XaGlWVmw1VjFaTk5VMVhVa2hpU0U1TlRVaG9kMWw2VGxKT01WSkNVVlZLYVZORlZrSmFiV1JDVWpGU1FsRlZTbWxYUmtaQ1VrUkNOR05XYkZsWGJXaE5UVEZaZDFsV1pETmtiRkpZVW01a1VFMUlaRUpSVm1NeFRVVkdRMU5yTVdoaVZWbDVWMVpOTldNeGJGaE9WelZOVFZVMGQxa3lNWE5rVm5BMlpFVXhRbEZWY0RGV1ZFNUdVVmRhYmxGVlpGVlJWVVpMV1cxNFYxUldVa2RYYldocFUwWmFjMWt4UmtOTVZVWkNWbXN4UWxGVldqWlpNVVpEVEZWR1FtRkZNVUpSVlhBMlZsUk9SbEZYV201UlZXUnNVMFZLTTFrd2FFTmtNazVKVVc1a2FsTkdSa0pUYWs1UFlURnNjVkZ0Y0dGV1JWVjVWMnhOZDA1R2NGVlNXR3hOVmtaS2IxUlhjRlprUlRsRldqTm9XbUZVUm5OVWFrcFRZVEZ3Y1ZkVVJrOVdSM1EwVjJ0a1RWRlhaRWxSYWtKQ1VWVTFiVmRFUmt0bGJVNVNVV2t4UWxGVk5UTlpNR2hEWkRKT1NWRnVaR3BUUmtaQ1ZWUktNR0V5UlRSUk1FWnFUVmROZWxkRVFsZFNWMHBIWVVab1YxSlZjSGRXTUZaSFVteEtXRTVZUWxWaVZHeFBWbFZvYTFGc1JsZGlSMFpwWWxaS05sWXhXbXROUjA1WFkwaFdhRk5HY0VOWFZsWlRVekF4V0U5WWFGUk5SVnB2Vld0V2RtVkhTa2hrU0doU1ZsVmFRMVZXVmtkVmJtUktVVzVrYTFGVlJrVldSVnBPVFVkTmVsSlZSbTFhTUVaRldUQm9RMlF5VGtsUmJtUnFVMFZKZDFGVlNrOWxiVkpKVTJwR1lWWkhPVFJVYm5CeVpEQXhSV0V6YkU5aGJHdzJWRlZTYm1WWFRrbGFlakE5SW4wIiwic3Rtc19wYWdpbmF0aW9uX2N1cnNvciI6IiJ9",
+ "spotlightStoryMetadata": [
+  {
+   "videoMetadata": {
+    "name": "Spotlight Snap",
+    "description": "#NBA #Basketball #PaytonPritchard #BostonCeltics",
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "uploadDateMs": "1790116183742",
+    "viewCount": "-1",
+    "contentUrl": "https://cf-st.sc-cdn.net/d/w3ns4DAZ3jJS38uSsyHca.27.IRZXSOY?mo=GmIaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwjIpYwFIAEwnAQ4wAdAAUoQCgujASgiZ1RkYVKLARD0A1CAjQRoAiILEgAqB0lSWlhTT1mQA4CNBA%3D%3D&uc=46",
+    "creator": {
+     "$case": "personCreator",
+     "personCreator": {
+      "username": "nba",
+      "url": "https://www.snapchat.com/@nba",
+      "name": "NBA",
+      "followerCount": "0",
+      "websiteUrl": ""
+     }
+    },
+    "durationMs": "67200",
+    "width": 540,
+    "height": 960,
+    "keywords": [],
+    "shareCount": "0",
+    "embeddedTextCaption": ""
+   },
+   "userMetadata": null,
+   "hashtags": [
+    "#NBA",
+    "#Basketball"
+   ],
+   "contextCards": [
+    {
+     "contextType": 2,
+     "title": "Original Sound",
+     "subtitle": "nba",
+     "url": "",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+     "snapcodeUrl": "",
+     "thumbnailType": 2,
+     "hasBadge": false,
+     "id": "112422075911"
+    },
+    {
+     "contextType": 3,
+     "title": "NBA",
+     "subtitle": "nba",
+     "url": "https://www.snapchat.com/@nba",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcGxQanhqRDFZRk9IUWdGMUZLRHNqP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+     "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=nba&type=SVG&bitmoji=enable",
+     "thumbnailType": 0,
+     "hasBadge": true,
+     "id": "ea71b19b-5eb1-4dda-afb8-13ced485f180"
+    }
+   ],
+   "engagementStats": {
+    "viewCount": "-1",
+    "shareCount": "0",
+    "commentCount": "3",
+    "boostCount": "61",
+    "recommendCount": "3"
+   },
+   "deeplink": "https://click.snapchat.com/aVHG?pid=snapchat_download_page&af_dp=https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbHhzaWJ1b3pmAaDLPowjAaDLPT6-AAAAAQ&af_web_dp=https://snapchat.com/download?purpose%3Dweb_stories%26sp%3Dspotlight&af_ios_url=https://apps.apple.com/app/apple-store/id447188370?pt%3D614006%26ct%3Dspotlight%26mt%3D8",
+   "description": "You CAN NOT leave time on the clock when  Payton Pritchard is on the floor 👀🔥 #NBA #Basketball #PaytonPritchard #BostonCeltics",
+   "llmDescription": "This NBA highlight features Jordan Poole hitting a buzzer-beating half-court shot during a game. The video then cuts to a post-game interview where Poole discusses his mindset, recalling a similar play he made before. It includes footage of him making a long-range shot from near the free-throw line.",
+   "llmKeywords": [
+    "basketball buzzer beater",
+    "basketball game winning shot"
+   ],
+   "s2iTags": [],
+   "llmTitle": "Jordan Poole's Crazy Half-Court Shot & Post-Game Interview",
+   "textMetadataKeywords": [
+    "basketball",
+    "NBA"
+   ],
+   "cuSignals": [
+    {
+     "signal": {
+      "$case": "textMetadata",
+      "textMetadata": {
+       "description": "Basketball highlights featuring impressive moves and plays.",
+       "keywords": [
+        "basketball",
+        "NBA"
+       ]
+      }
+     }
+    },
+    {
+     "signal": {
+      "$case": "s2iTags",
+      "s2iTags": {
+       "tags": [],
+       "scoredTags": []
+      }
+     }
+    }
+   ]
+  },
+  {
+   "videoMetadata": {
+    "name": "Spotlight Snap",
+    "description": "Another Spotlight Snap brought to you by Snapchat",
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "uploadDateMs": "1790112638014",
+    "viewCount": "9475",
+    "contentUrl": "https://cf-st.sc-cdn.net/d/atg86ODqicROCgpAmU7N2.27.IRZXSOY?mo=GmAaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQi8y6YBIAEwnAQ4wAdAAUoOCgl8NEcxQjs7MCQQ9ANQvucBaAIiCxIAKgdJUlpYU09ZkAO-5wE%3D&uc=46",
+    "creator": {
+     "$case": "personCreator",
+     "personCreator": {
+      "username": "nba",
+      "url": "https://www.snapchat.com/@nba",
+      "name": "NBA",
+      "followerCount": "0",
+      "websiteUrl": ""
+     }
+    },
+    "durationMs": "29630",
+    "width": 540,
+    "height": 960,
+    "keywords": [],
+    "shareCount": "0",
+    "embeddedTextCaption": ""
+   },
+   "userMetadata": null,
+   "hashtags": [],
+   "contextCards": [
+    {
+     "contextType": 2,
+     "title": "Original Sound",
+     "subtitle": "nba",
+     "url": "",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+     "snapcodeUrl": "",
+     "thumbnailType": 2,
+     "hasBadge": false,
+     "id": "131459670924"
+    },
+    {
+     "contextType": 3,
+     "title": "NBA",
+     "subtitle": "nba",
+     "url": "https://www.snapchat.com/@nba",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcGxQanhqRDFZRk9IUWdGMUZLRHNqP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+     "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=nba&type=SVG&bitmoji=enable",
+     "thumbnailType": 0,
+     "hasBadge": true,
+     "id": "ea71b19b-5eb1-4dda-afb8-13ced485f180"
+    }
+   ],
+   "engagementStats": {
+    "viewCount": "9475",
+    "shareCount": "7",
+    "commentCount": "7",
+    "boostCount": "961",
+    "recommendCount": "68"
+   },
+   "deeplink": "https://click.snapchat.com/aVHG?pid=snapchat_download_page&af_dp=https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ&af_web_dp=https://snapchat.com/download?purpose%3Dweb_stories%26sp%3Dspotlight&af_ios_url=https://apps.apple.com/app/apple-store/id447188370?pt%3D614006%26ct%3Dspotlight%26mt%3D8",
+   "description": "",
+   "llmDescription": null,
+   "llmKeywords": [],
+   "s2iTags": [],
+   "llmTitle": null,
+   "textMetadataKeywords": [
+    "NBA YoungBoy",
+    "James Harden"
+   ],
+   "cuSignals": [
+    {
+     "signal": {
+      "$case": "textMetadata",
+      "textMetadata": {
+       "description": "NBA players in jerseys with background music.",
+       "keywords": [
+        "NBA YoungBoy",
+        "James Harden"
+       ]
+      }
+     }
+    },
+    {
+     "signal": {
+      "$case": "s2iTags",
+      "s2iTags": {
+       "tags": [],
+       "scoredTags": []
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "locale": "en-US",
+ "encodedSpotlightComments": "[[{\"replyId\":{\"highBits\":\"10713027973294804819\",\"lowBits\":\"10136913496862578813\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbHhzaWJ1b3pmAaDLPowjAaDLPT6-AAAAAQ\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125827944\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125827944\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":500},{\"replyId\":{\"highBits\":\"3396762709631254611\",\"lowBits\":\"9890534473841416512\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbHhzaWJ1b3pmAaDLPowjAaDLPT6-AAAAAQ\",\"replyText\":\"NBA is awsome😀\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"2299359955858901973\",\"lowBits\":\"11053563101065216424\"},\"approvalState\":3,\"replyTimestampMs\":\"1790132037541\",\"replyPosterDisplayName\":\"Dæven døtte blomster bøtte\",\"lastStateUpdateTsMs\":\"1790132037541\",\"replyPosterProfileId\":{\"highBits\":\"9965838943401691779\",\"lowBits\":\"13801653724335800393\"},\"threadedReplyCount\":\"0\",\"attributions\":[{\"range\":{\"start\":\"0\",\"length\":\"3\"},\"attribution\":{\"$case\":\"suggestedSearch\",\"suggestedSearch\":{\"searchQueryText\":\"nba\"}}}],\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"9965838943401691779\",\"lowBits\":\"13801653724335800393\"}}}],[{\"replyId\":{\"highBits\":\"2075491903162106396\",\"lowBits\":\"9796032016653877403\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"5\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125837725\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125837725\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"3\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":2500},{\"replyId\":{\"highBits\":\"13475693403594181179\",\"lowBits\":\"10821777909050371001\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ\",\"replyText\":\"Love KD man keep going strong\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"261113508504814851\",\"lowBits\":\"11508382040038017466\"},\"approvalState\":3,\"replyTimestampMs\":\"1790149206870\",\"replyPosterDisplayName\":\"J.S. 🇹🇹🇬🇾\",\"replyPosterBitmojiAvatarId\":\"445364148_130-s5\",\"replyPosterBitmojiSelfieId\":\"10226022\",\"lastStateUpdateTsMs\":\"1790149206870\",\"replyPosterProfileId\":{\"highBits\":\"4771966380945655125\",\"lowBits\":\"13420666757958395640\"},\"threadedReplyCount\":\"0\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvYTcyOGJFTXRWYzFKMk9wZzMyaHBIP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMpng\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"4771966380945655125\",\"lowBits\":\"13420666757958395640\"}}},{\"replyId\":{\"highBits\":\"5261290878348836991\",\"lowBits\":\"13190990413356691967\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ\",\"replyText\":\"My goat\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"18420992410560383306\",\"lowBits\":\"9800847644996244246\"},\"approvalState\":3,\"replyTimestampMs\":\"1790147386363\",\"replyPosterDisplayName\":\"Snapchatter\",\"replyPosterBitmojiAvatarId\":\"103294071151_20-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790147386363\",\"threadedReplyCount\":\"0\"},{\"replyId\":{\"highBits\":\"2684361515778590414\",\"lowBits\":\"9578794464713556830\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbGJsYmtyd2NhAaDLBzrnAaDLByQ-AAAAAQ\",\"replyText\":\"🔥\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"2\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13835267427715403328\",\"lowBits\":\"10732827807858271433\"},\"approvalState\":3,\"replyTimestampMs\":\"1790150731311\",\"replyPosterDisplayName\":\"Emma🦇\",\"replyPosterBitmojiAvatarId\":\"103127240690_20-s5\",\"replyPosterBitmojiSelfieId\":\"31151407\",\"lastStateUpdateTsMs\":\"1790150731311\",\"replyPosterProfileId\":{\"highBits\":\"8872175016798077725\",\"lowBits\":\"10895017552250735199\"},\"threadedReplyCount\":\"0\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"8872175016798077725\",\"lowBits\":\"10895017552250735199\"}},\"rankingScore\":400}],[{\"replyId\":{\"highBits\":\"8439757212630467680\",\"lowBits\":\"11632658696722920312\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYdm56eXBlZnVlAaDK4CdUAaDK4CZsAAAAAw\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125846001\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125846001\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":500}],[{\"replyId\":{\"highBits\":\"7095291989038940311\",\"lowBits\":\"12023470871038500737\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYb3BudHB4amdpAaDK3775AaDK374KAAAAAw\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125856057\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125856057\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":500}],[{\"replyId\":{\"highBits\":\"3773140930638204453\",\"lowBits\":\"13480561276335084173\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbnJxa3J2aWtyAaDKv66dAaDKvdSwAAAAAQ\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125865918\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125865918\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":500}],[{\"replyId\":{\"highBits\":\"12025802437919262408\",\"lowBits\":\"10637760849130459147\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYbGpkeW9zanJwAaDKlLOlAaDKku5nAAAAAQ\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125874789\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125874789\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":500}],[{\"replyId\":{\"highBits\":\"11536874532240835430\",\"lowBits\":\"9625512679399201231\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYc29uZmNsem5rAaDKjDGSAaDKjCeXAAAAAw\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"2\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125883574\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125883574\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":1333},{\"replyId\":{\"highBits\":\"17525174229170143940\",\"lowBits\":\"13705002464675708249\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYc29uZmNsem5rAaDKjDGSAaDKjCeXAAAAAw\",\"replyText\":\"amen tall\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"6\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"17735905975993516691\",\"lowBits\":\"12124502569678214724\"},\"approvalState\":3,\"replyTimestampMs\":\"1790122844899\",\"replyPosterDisplayName\":\"Zak\",\"replyPosterBitmojiAvatarId\":\"105388029654_22-s5\",\"replyPosterBitmojiSelfieId\":\"10226813\",\"lastStateUpdateTsMs\":\"1790122844899\",\"threadedReplyCount\":\"1\",\"rankingScore\":2500},{\"replyId\":{\"highBits\":\"9468329691355891765\",\"lowBits\":\"9387727552302249225\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYc29uZmNsem5rAaDKjDGSAaDKjCeXAAAAAw\",\"replyText\":\"❤️\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"1\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13835267427715403328\",\"lowBits\":\"10732827807858271433\"},\"approvalState\":3,\"replyTimestampMs\":\"1790151682721\",\"replyPosterDisplayName\":\"Emma🦇\",\"replyPosterBitmojiAvatarId\":\"103127240690_20-s5\",\"replyPosterBitmojiSelfieId\":\"31151407\",\"lastStateUpdateTsMs\":\"1790151682721\",\"replyPosterProfileId\":{\"highBits\":\"8872175016798077725\",\"lowBits\":\"10895017552250735199\"},\"threadedReplyCount\":\"0\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"8872175016798077725\",\"lowBits\":\"10895017552250735199\"}},\"rankingScore\":166},{\"replyId\":{\"highBits\":\"4880711223536861749\",\"lowBits\":\"12695647521726812420\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYc29uZmNsem5rAaDKjDGSAaDKjCeXAAAAAw\",\"replyText\":\"ひ🩵💙🏦🏛️♾️🎰🌎🌐🪢\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"10797158819080782004\",\"lowBits\":\"12280198908985320527\"},\"approvalState\":3,\"replyTimestampMs\":\"1790152898873\",\"replyPosterDisplayName\":\"ひ8bkxklusiveKingPage8blockひ 3z\",\"replyPosterBitmojiAvatarId\":\"103963614300_11-s5\",\"replyPosterBitmojiSelfieId\":\"10226459\",\"lastStateUpdateTsMs\":\"1790152898873\",\"replyPosterProfileId\":{\"highBits\":\"10209729841371564917\",\"lowBits\":\"10292827866512864853\"},\"threadedReplyCount\":\"0\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMVUwbHZ2WWFHaUJSTnkwQlUyUWFrP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"10209729841371564917\",\"lowBits\":\"10292827866512864853\"}}}],[{\"replyId\":{\"highBits\":\"15572657048511270436\",\"lowBits\":\"11866328501696756958\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYeHVsZWVod2l2AaDKjKiRAaDKiyFVAAAAAQ\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me ‘GOOD GOD’I mean it.It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"13035255180789763862\",\"lowBits\":\"9821680073103121886\"},\"approvalState\":3,\"replyTimestampMs\":\"1790125891230\",\"replyPosterDisplayName\":\"Nour Atta\",\"replyPosterBitmojiAvatarId\":\"106271767462_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790125891230\",\"replyPosterProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvdXlGY3cyWmkzcVFXMFgwdmdGRFZzP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"3363188516161341483\",\"lowBits\":\"11580674709806384445\"}},\"rankingScore\":500}],[{\"replyId\":{\"highBits\":\"11837583982990869011\",\"lowBits\":\"9291700506992815811\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYY3p4ZGJ1bXhjAaDKXW-wAaDKXRG4AAAAAw\",\"replyText\":\"❤️\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"6801369555911262594\",\"lowBits\":\"9978049475202702098\"},\"approvalState\":3,\"replyTimestampMs\":\"1790143728875\",\"replyPosterDisplayName\":\"Momo Momo\",\"replyPosterBitmojiAvatarId\":\"99534375984_5-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790143728875\",\"replyPosterProfileId\":{\"highBits\":\"101820771052047251\",\"lowBits\":\"11559504576972218760\"},\"threadedReplyCount\":\"0\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"101820771052047251\",\"lowBits\":\"11559504576972218760\"}}}],[{\"replyId\":{\"highBits\":\"253786989082594307\",\"lowBits\":\"12303933086422298070\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWd0aGx1ZG53AaDKR1KYAaDKOHAEAAAAAQ\",\"replyText\":\"He looks a lot older\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"1\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"4597551605546635060\",\"lowBits\":\"12826749188225941463\"},\"approvalState\":3,\"replyTimestampMs\":\"1790115920310\",\"replyPosterDisplayName\":\"🇨🇳🏀Lai🏀🇨🇳\",\"replyPosterBitmojiAvatarId\":\"106053878960_5-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790115920310\",\"threadedReplyCount\":\"0\",\"rankingScore\":1000},{\"replyId\":{\"highBits\":\"863683887541405778\",\"lowBits\":\"11146643773578455567\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWd0aGx1ZG53AaDKR1KYAaDKOHAEAAAAAQ\",\"replyText\":\"ts looks ai\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"4157267029510997645\",\"lowBits\":\"11842545274245047950\"},\"approvalState\":3,\"replyTimestampMs\":\"1790131572271\",\"replyPosterDisplayName\":\"Jordan\",\"replyPosterBitmojiAvatarId\":\"99731709248_22-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790131572271\",\"threadedReplyCount\":\"0\"},{\"replyId\":{\"highBits\":\"13797596386875296016\",\"lowBits\":\"12389144490678418109\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWd0aGx1ZG53AaDKR1KYAaDKOHAEAAAAAQ\",\"replyText\":\"W\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"1\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"10551305330738088818\",\"lowBits\":\"12750540888797261930\"},\"approvalState\":3,\"replyTimestampMs\":\"1790115621987\",\"replyPosterDisplayName\":\"M.O.B\",\"replyPosterBitmojiAvatarId\":\"99538621105_49-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790115621987\",\"threadedReplyCount\":\"0\",\"rankingScore\":1000}],[{\"replyId\":{\"highBits\":\"8609070388959136299\",\"lowBits\":\"10348455496929708494\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYaXBiYmp0a3lxAaDKNw_KAaDKNva8AAAAAQ\",\"replyText\":\"🔥\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"2752729325230180461\",\"lowBits\":\"10097359282417016866\"},\"approvalState\":3,\"replyTimestampMs\":\"1790139084614\",\"replyPosterDisplayName\":\"Jonathan\",\"replyPosterBitmojiAvatarId\":\"102138702143_21-s5\",\"replyPosterBitmojiSelfieId\":\"37766712\",\"lastStateUpdateTsMs\":\"1790139084614\",\"threadedReplyCount\":\"0\"},{\"replyId\":{\"highBits\":\"18402104113452697488\",\"lowBits\":\"13376996762724886551\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYaXBiYmp0a3lxAaDKNw_KAaDKNva8AAAAAQ\",\"replyText\":\"😭\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"15407347750973623162\",\"lowBits\":\"9778889992794794387\"},\"approvalState\":3,\"replyTimestampMs\":\"1790128796356\",\"replyPosterDisplayName\":\"Kyler🪬 Kent🥷🏾🫡\",\"replyPosterBitmojiAvatarId\":\"99177085536_5-s5\",\"replyPosterBitmojiSelfieId\":\"20052760\",\"lastStateUpdateTsMs\":\"1790128796356\",\"replyPosterProfileId\":{\"highBits\":\"10882515652284073883\",\"lowBits\":\"10376763178899665295\"},\"threadedReplyCount\":\"0\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZVFWVjhPdVVFYUFWZjhkcGxTM1d0P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"10882515652284073883\",\"lowBits\":\"10376763178899665295\"}}}],[{\"replyId\":{\"highBits\":\"15364730803010225349\",\"lowBits\":\"13669946375484575947\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWtsbmpxc3dkAaDKM-V_AaDKM9cxAAAAAw\",\"replyText\":\"So is this the Steven from okc years ago or Steven who going from team to team and then retire\",\"reactCounts\":[{\"reactTypeId\":\"1\",\"reactCount\":\"1\"}],\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"18102419960010719250\",\"lowBits\":\"11429920965610086252\"},\"approvalState\":3,\"replyTimestampMs\":\"1790118248745\",\"replyPosterDisplayName\":\"Southern Vibes\",\"replyPosterBitmojiAvatarId\":\"100520461054_23-s5\",\"replyPosterBitmojiSelfieId\":\"39531782\",\"lastStateUpdateTsMs\":\"1790118248745\",\"replyPosterProfileId\":{\"highBits\":\"16644875259182401977\",\"lowBits\":\"12468742892048638930\"},\"threadedReplyCount\":\"0\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWXdEclRMQ29Ld3BpeG1uNjZpbDdwP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"16644875259182401977\",\"lowBits\":\"12468742892048638930\"}},\"rankingScore\":1000},{\"replyId\":{\"highBits\":\"9452043598539015341\",\"lowBits\":\"12711882147481201306\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWtsbmpxc3dkAaDKM-V_AaDKM9cxAAAAAw\",\"replyText\":\"Pass the word we WILL make hairy banana a gender🫪\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"129210554931038551\",\"lowBits\":\"10866625456019490599\"},\"approvalState\":3,\"replyTimestampMs\":\"1790117340673\",\"replyPosterDisplayName\":\"⛷️Andre🏎\",\"replyPosterBitmojiAvatarId\":\"105331756437_53-s5\",\"replyPosterBitmojiSelfieId\":\"39173327\",\"lastStateUpdateTsMs\":\"1790117340673\",\"threadedReplyCount\":\"0\"},{\"replyId\":{\"highBits\":\"1362374337701366241\",\"lowBits\":\"13772575372123378714\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWtsbmpxc3dkAaDKM-V_AaDKM9cxAAAAAw\",\"replyText\":\"ひ🩵💙🏦🏛️♾️🎰🌎🌐🪢\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"10797158819080782004\",\"lowBits\":\"12280198908985320527\"},\"approvalState\":3,\"replyTimestampMs\":\"1790153391816\",\"replyPosterDisplayName\":\"ひ8bkxklusiveKingPage8blockひ 3z\",\"replyPosterBitmojiAvatarId\":\"103963614300_11-s5\",\"replyPosterBitmojiSelfieId\":\"10226459\",\"lastStateUpdateTsMs\":\"1790153391816\",\"replyPosterProfileId\":{\"highBits\":\"10209729841371564917\",\"lowBits\":\"10292827866512864853\"},\"threadedReplyCount\":\"0\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMVUwbHZ2WWFHaUJSTnkwQlUyUWFrP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"10209729841371564917\",\"lowBits\":\"10292827866512864853\"}}},{\"replyId\":{\"highBits\":\"3506609679195655779\",\"lowBits\":\"12262728764334872112\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWtsbmpxc3dkAaDKM-V_AaDKM9cxAAAAAw\",\"replyText\":\"🔥🔥🔥\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"3982377891482425\",\"lowBits\":\"13733387420721375968\"},\"approvalState\":3,\"replyTimestampMs\":\"1790112069568\",\"replyPosterDisplayName\":\"⚽Kenny⚽\",\"replyPosterBitmojiAvatarId\":\"106262294491_5-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790112069568\",\"threadedReplyCount\":\"0\"},{\"replyId\":{\"highBits\":\"5173861063236537235\",\"lowBits\":\"11366803332173000481\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYYWtsbmpxc3dkAaDKM-V_AaDKM9cxAAAAAw\",\"replyText\":\"I’m giving 5 grand to the first 5 people who message me “GOOD GOD” It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"14946699790868758534\",\"lowBits\":\"11998752130577254583\"},\"approvalState\":3,\"replyTimestampMs\":\"1790147887782\",\"replyPosterDisplayName\":\"Matthew F-x\",\"replyPosterBitmojiAvatarId\":\"104952948170_5-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790147887782\",\"replyPosterProfileId\":{\"highBits\":\"12181891275209461651\",\"lowBits\":\"9697562292279819338\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMkFQWGpKR0E2aU9xRFF2R0trQU5TP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"12181891275209461651\",\"lowBits\":\"9697562292279819338\"}},\"rankingScore\":500}],[{\"replyId\":{\"highBits\":\"17895361584037383264\",\"lowBits\":\"9372143546240265467\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYZndsYWtqZnhvAaDJ1oqKAaDJ1lkqAAAAAQ\",\"replyText\":\"I'm giving 3 grand to the first 5 people who message me 'GOOD GOD'. It's all about sharing the blessings. Stay bless y’all.\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"3688998492165197657\",\"lowBits\":\"13224722534811505011\"},\"approvalState\":3,\"replyTimestampMs\":\"1790110601184\",\"replyPosterDisplayName\":\"Andrew Mat\",\"replyPosterBitmojiAvatarId\":\"106079089572_2-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790110601184\",\"replyPosterProfileId\":{\"highBits\":\"11814012569651465581\",\"lowBits\":\"9230526173525921198\"},\"threadedReplyCount\":\"0\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvMnBYQUdkZ0dQQTc4OFB0ZmI2VHdPP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"11814012569651465581\",\"lowBits\":\"9230526173525921198\"}}},{\"replyId\":{\"highBits\":\"6565678429007466165\",\"lowBits\":\"11582155391130569043\"},\"snapPosterId\":{\"highBits\":\"15784238658972961317\",\"lowBits\":\"9807687554035978715\"},\"snapId\":\"W7_EDlXWTBiXAEEniNoMPwAAYZndsYWtqZnhvAaDJ1oqKAaDJ1lkqAAAAAQ\",\"replyText\":\"As a millionaire living my best life, I’m\\ngiving 5 grand to the first 5 people who message me “GRACE”It’s all about sharing the blessings. Stay bless y’all!\",\"reportCount\":\"0\",\"replyPosterId\":{\"highBits\":\"11997208725697285288\",\"lowBits\":\"13662378982762148312\"},\"approvalState\":3,\"replyTimestampMs\":\"1790096629681\",\"replyPosterDisplayName\":\"Anthony Alvarenga\",\"replyPosterBitmojiAvatarId\":\"106634125326_1-s5\",\"replyPosterBitmojiSelfieId\":\"10226021\",\"lastStateUpdateTsMs\":\"1790096629681\",\"replyPosterProfileId\":{\"highBits\":\"7694605541171416030\",\"lowBits\":\"12299175817605802404\"},\"threadedReplyCount\":\"1\",\"replyPosterProfileLogoUrl\":\"https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvR254ZGdRQmo3Slk3Zjd0ZlZiM2Q1P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg\",\"replyPosterProfile\":{\"$case\":\"businessProfileId\",\"businessProfileId\":{\"highBits\":\"7694605541171416030\",\"lowBits\":\"12299175817605802404\"}},\"rankingScore\":500}]]",
+ "taggedTabResponse": {
+  "searchResponse": null,
+  "spotlightCardMap": null
+ }
+}

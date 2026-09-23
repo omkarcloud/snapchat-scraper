@@ -1,0 +1,86 @@
+{
+ "discoverFeed": {
+  "stories": [
+   {
+    "id": "tboyz2849",
+    "type": "PUBLIC_USER_STORY",
+    "snaps": [
+     {
+      "id": "Hp5eG2QLTnKuFgikGSy3UAAAgamFmcmh5dHZjAaDJJk7tAaDJJmPiAAAAAA",
+      "snapUrls": {
+       "mediaUrl": "https://cf-st.sc-cdn.net/o/x5peeYLUzWQpDnsy1gT7p.1034.IRZXSOY?mo=GlcaFDIBDzoBfUIGCI_xydUGSAJQS2ABULABogE3CIoIEiUKIwi-yT0gATDgAzjUBkABSg4KCVddGyojKSEhHRD0A1CaTmgCIgsSACoHSVJaWFNPWZADmk4%3D&uc=75",
+       "mediaPreviewUrl": "https://cf-st.sc-cdn.net/d/x5peeYLUzWQpDnsy1gT7p.256.IRZXSOY?mo=GkcaCjICBH1IAlBLYAFQjgFaEERmTGFyZ2VUaHVtYm5haWyiARAIgAIiCxIAKgdJUlpYU09ZogEQCJoKIgsSACoHSVJaWFNPWQ%3D%3D&uc=75"
+      },
+      "snapMediaType": "VIDEO",
+      "intervalStartTimeMs": null
+     },
+     {
+      "id": "Hp5eG2QLTnKuFgikGSy3UAAAgaXF0c2R0bWxsAaDJJnYXAaDJJoryAAAAAA",
+      "snapUrls": {
+       "mediaUrl": "https://cf-st.sc-cdn.net/o/x87E2SRRWdFYDwkiPCLj2.1034.IRZXSOY?mo=GlcaFDIBDzoBfUIGCKvxydUGSAJQS2ABULABogE3CIoIEiUKIwj54jggATDgAzjUBkABSg4KCWs1OTQfISMkHRD0A1C4TmgCIgsSACoHSVJaWFNPWZADuE4%3D&uc=75",
+       "mediaPreviewUrl": "https://cf-st.sc-cdn.net/d/x87E2SRRWdFYDwkiPCLj2.256.IRZXSOY?mo=GkcaCjICBH1IAlBLYAFQjgFaEERmTGFyZ2VUaHVtYm5haWyiARAIgAIiCxIAKgdJUlpYU09ZogEQCJoKIgsSACoHSVJaWFNPWQ%3D%3D&uc=75"
+      },
+      "snapMediaType": "VIDEO",
+      "intervalStartTimeMs": null
+     }
+    ],
+    "title": null,
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/seWNUGhJNQtIktnG1Jd6k.256.IRZXSOY?mo=GkcaCjICBH1IAlBLYAFQjgFaEERmTGFyZ2VUaHVtYm5haWyiARAIgAIiCxIAKgdJUlpYU09ZogEQCJoKIgsSACoHSVJaWFNPWQ%3D%3D&uc=75",
+    "tapId": "4417185099974181401",
+    "publishedTimeInSec": 1790082466,
+    "creator": {
+     "businessProfileId": "1e9e5e1b-640b-4e72-ae16-08a4192cb750",
+     "username": "tboyz2849",
+     "title": "The Boyz",
+     "snapcodeImageUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=tboyz2849&type=SVG&bitmoji=enable",
+     "badge": "TICK",
+     "bio": null,
+     "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM01qcG9zMHE1cGxXVlZ3WmhYS1U5P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,72_FMjpeg",
+     "squareHeroImageUrl": null,
+     "__typename": "PublicProfileUser"
+    }
+   },
+   {
+    "id": "63124587870208",
+    "type": "SHOW",
+    "snaps": [
+     {
+      "id": "63124587870208",
+      "snapUrls": {
+       "mediaUrl": "",
+       "mediaPreviewUrl": ""
+      },
+      "snapMediaType": "VIDEO",
+      "intervalStartTimeMs": 0
+     },
+     {
+      "id": "63124587870209",
+      "snapUrls": {
+       "mediaUrl": "",
+       "mediaPreviewUrl": ""
+      },
+      "snapMediaType": "VIDEO",
+      "intervalStartTimeMs": 5034
+     }
+    ],
+    "title": "1 Min Hair Makeover😮😍",
+    "thumbnailUrl": "https://app.snapchat.comhttps://cf-st.sc-cdn.net/aps/bolt_df/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvblRFZHVLVUd5U0JnbmI3aEhCeVVoLjMxMD91Yz01._FMjpeg",
+    "tapId": "1928427736030970393",
+    "publishedTimeInSec": 1767398408000,
+    "videoTrackUrl": "https://cf-st.sc-cdn.net/d/2s9IIOsAy5J3dHleXskt0.1202.m3u8?mo=GqIEGh4SFUdPVEloV1lIQWxFbERBRmtBY1dQZTIBBFAFYAFQKFoVTG9uZ2Zvcm1WaWRlb1ZhcmlhbnRzogE_CLIJEggKBlCK9QFoAyIwCi4SHzJzOUlJT3NBeTVKM2RIbGVYc2t0MC4xMjAyLm0zdTg6AX1CBgjU797KBkgCogFOCIULEhgKFkoOCgkiFRMOFR8RFx0Q9ANQivUBaAQiLwotEh5KOGN0NDJmZjFjZmM3RmdzenF1WWEuMTQxMy5tcGQ6AX1CBgjU797KBkgCogFOCI8LEhgKFkoOCgkqGwwNGBwZDiIQ9ANQhvUBaAQiLwotEh41TnR2bmFrY3hhQXdsWU03YzhhZ1IuMTQyMy5tcGQ6AX1CBgiB8N7KBkgCogFUCG4SJAoiCJ32azDEAjjABEABSg4KCTskIh4lGyQqOhD0A1CK9QFoASIqCigSGTFiME9wd2tYczZxYkx5b0RuVHgxUS4xMTA6AX1CBgjW797KBkgCogFWCG8SJgokCILN2gEwnAQ4wAdAAUoPCgp-PkVESDhOXYMBEPQDUIr1AWgBIioKKBIZVGhSc0JjUzh2RFZyQzBIblpWRXE2LjExMToBfUIGCN_v3soGSAKiAT8IlgoSCAoGUIb1AWgDIjAKLhIfZUllY29YMm1IOWVTZTZXWmhKZEhhLjEzMDIubTN1ODoBfUIGCIHw3soGSAKiAQsIASIHCgUyAX1IAZADhvUB&uc=5",
+    "creator": {
+     "businessProfileId": "7efa0bb5-3ee5-4d53-8303-d908997e9b2f",
+     "username": null,
+     "title": "Blown Away",
+     "snapcodeImageUrl": "https://www.snapchat.com/deeplink/discover/snapcode/L3AvN2VmYTBiYjUtM2VlNS00ZDUzLTgzMDMtZDkwODk5N2U5YjJm",
+     "badge": null,
+     "bio": "Bringing you the most satisfying content.",
+     "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt_df/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvbFBoZU5jNjhtbkxKeWdFOFlVT0F5LjM1NT9tbz1Ha3NhQ3hvQUdnQXlBUVJRQldBQldoVlFkV0pzYVhOb1pYSk1iMmR2Vm1GeWFXRnVkSE9pQVJZSTR3SWlFUW9OT2dGOVFnWUlfYm02bUFaSUFoSUFvZ0VMQ0FFaUJ3b0ZNZ0Y5U0FFJTNEJnVjPTU._FMpng",
+     "squareHeroImageUrl": "https://cf-st.sc-cdn.net/aps/bolt_df/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNmRVM09WWlV4ZFJ2Vm9DckZFWXRaLjM0MD9tbz1HbEFhQ3hvQUdnQXlBUVJRQldBQldocFFjbVZ0YVhWdFUzUnZjbmxVWldGelpYSldZWEpwWVc1MGM2SUJGZ2pVQWlJUkNnMDZBWDFDQmdqdHVicVlCa2dDRWdDaUFRc0lBU0lIQ2dVeUFYMUlBUSUzRCUzRCZ1Yz01._FMjpeg",
+     "__typename": "Publisher",
+     "primaryColor": "#9B55A0"
+    }
+   }
+  ]
+ }
+}

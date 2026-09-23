@@ -1,0 +1,60 @@
+{
+ "topLenses": [],
+ "categories": [
+  {
+   "name": "FOR_YOU",
+   "displayName": "For You",
+   "isSelected": false
+  },
+  {
+   "name": "TRENDING",
+   "displayName": "Trending",
+   "isSelected": false
+  }
+ ],
+ "creatorDisplayInfos": [
+  {
+   "id": "98df0347-dff9-4c02-a835-e0dd72a6e453",
+   "name": "Vidtech.ai",
+   "username": "vidtech_ai",
+   "isOfficialCreator": true,
+   "profilePicUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZlRjZ1czdVRHQVVPYk9yRmFnM2FuP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,90_FMpng",
+   "lensPreviewInfos": [
+    {
+     "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/LN8LFqkc7LituAEkSmCVy?bo=EhgaABoAMgF9OgEEQgYI8tu3mAZIAlASYAE%3D&uc=18",
+     "thumbnailMediaUrl": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_thumbnail/dc305bd1-057f-4975-952f-1406f69e04fa.webp"
+    },
+    {
+     "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/jazPkyLB2S2dIBCTs5z8j?bo=EhgaABoAMgF9OgEEQgYIs6eLlgZIAlASYAE%3D&uc=18",
+     "thumbnailMediaUrl": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_thumbnail/60c4ba37-7bff-4e80-af53-c273c8a8ac66.webp"
+    }
+   ],
+   "hasStory": false
+  },
+  {
+   "id": "3aafc7cb-be76-4784-834a-2e8de697870d",
+   "name": "Muskan",
+   "username": "muskan.rajput1",
+   "isOfficialCreator": true,
+   "profilePicUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvUlRRcEVydkFlWDYzUVd5ZmNxOGRaP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,90_FMjpeg",
+   "lensPreviewInfos": [
+    {
+     "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/oPNmJhEJW84RIm04YfcSy?bo=EhgaABoAMgF9OgEEQgYIqLvqrAZIAlASYAE%3D&uc=18",
+     "thumbnailMediaUrl": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_thumbnail/dd80a229-fede-47c3-ae59-4a3da76d06aa.webp"
+    }
+   ],
+   "hasStory": true
+  }
+ ],
+ "hasMore": true,
+ "nextCursorId": "CBk=",
+ "viewerInfo": {
+  "country": "IN",
+  "locale": "en-US",
+  "isGdprCountry": false
+ },
+ "basePath": "https://www.snapchat.com/lens",
+ "locale": "en-US",
+ "skipWebConfigNamespaceProviderInitialization": false,
+ "shareId": ""
+}

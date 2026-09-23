@@ -1,0 +1,16 @@
+{
+ "pageProps": {
+  "viewerInfo": {
+   "country": "IN",
+   "locale": "hi-IN",
+   "isGdprCountry": false
+  },
+  "pageMetadata": {
+   "pageType": "NOT_FOUND",
+   "pageTitle": "Snapchat",
+   "shareId": ""
+  },
+  "deeplinkUrl": "https://click.snapchat.com/aVHG?pid=snapchat_download_page&af_dp=snapchat://unlock&af_web_dp=https://snapchat.com/download?purpose%3Dweb_stories%26sp%3Dnot_found&af_ios_url=https://apps.apple.com/app/apple-store/id447188370?pt%3D614006%26ct%3Dnot_found%26mt%3D8"
+ },
+ "status": 2
+}

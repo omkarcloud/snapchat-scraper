@@ -1,0 +1,234 @@
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+   {
+    "@type": "VideoObject",
+    "url": "https://www.snapchat.com/@taylorred_music/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXp1aXBucWVzAZFY3y6dAZFY3v6qAAAAAQ",
+    "name": "Taylor Red's Sporty Style Transformation Trend",
+    "description": "Watch Taylor Red showcase a fun trend where she transforms her look into various sport outfits. She starts in a cheerleader uniform and then changes into a football jersey, a basketball jersey, a soccer jersey, a tennis outfit, and finally a golf outfit, all while holding the corresponding sports equipment.",
+    "thumbnailUrl": "https://cf-st.sc-cdn.net/d/yp0oxU5GzxGSjUI7X25H3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "mainEntityOfPage": {
+     "@type": "ItemPage",
+     "@id": "https://www.snapchat.com/@taylorred_music/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXp1aXBucWVzAZFY3y6dAZFY3v6qAAAAAQ",
+     "name": "Taylor Red's Sporty Style Transformation Trend"
+    },
+    "uploadDate": "2024-08-16T01:48:14.890Z",
+    "interactionStatistic": [
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "WatchAction"
+      },
+      "userInteractionCount": 114799
+     },
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "ShareAction"
+      },
+      "userInteractionCount": 105
+     },
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "LikeAction"
+      },
+      "userInteractionCount": 4437
+     }
+    ],
+    "creator": {
+     "@context": "https://schema.org",
+     "@type": "Person",
+     "name": "Taylor Red",
+     "alternateName": "taylorred_music",
+     "url": "https://www.snapchat.com/@taylorred_music"
+    },
+    "isFamilyFriendly": true,
+    "keywords": [
+     "Taylor Red sport outfits",
+     "sport outfits trend",
+     "Taylor Red transformation"
+    ],
+    "ineligibleRegion": [
+     "TR"
+    ],
+    "embeddedTextCaption": "",
+    "contentUrl": "https://cf-st.sc-cdn.net/d/yp0oxU5GzxGSjUI7X25H3.27.IRZXSOY?mo=GnMaCTIBBEgDUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBTAgbEjsKOQil8YYBIAEwnAQ4wAdAAUojCh7LAWGYAYgBbVNMVzQsVDdJMkk5WEE9PkBATTtEOToQ9ANQhGtoAiILEgAqB0lSWlhTT1mQA4Rr&uc=46",
+    "embedUrl": "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXp1aXBucWVzAZFY3y6dAZFY3v6qAAAAAQ/embed",
+    "duration": "PT14S",
+    "encodingFormat": "video/mp4",
+    "position": 1
+   },
+   {
+    "@type": "VideoObject",
+    "url": "https://www.snapchat.com/@fun.sht/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXF2ZGNkZ2RqAZQuL7TgAZQuL5qwAAAAAQ",
+    "name": "Ayla Sims' Taylor Russell-Inspired Moodboard & Fashion",
+    "description": "This stylish montage follows Ayla Sims through a series of curated scenes inspired by actress Taylor Russell. From cozy work-from-home setups and vintage-inspired outfits to artistic details like floral paintings and elegant accessories, the video captures a modern aesthetic journey.",
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/z/01C51YxjeQCuMIMLDTZdc.256.IRZXSOY?mo=GkcaDRoAGgAyAXlIAlAuYAFaEERmTGFyZ2VUaHVtYm5haWyiARAIgAIiCxIAKgdJUlpYU09ZogEQCJoKIgsSACoHSVJaWFNPWQ%3D%3D&uc=46",
+    "mainEntityOfPage": {
+     "@type": "ItemPage",
+     "@id": "https://www.snapchat.com/@fun.sht/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXF2ZGNkZ2RqAZQuL7TgAZQuL5qwAAAAAQ",
+     "name": "Ayla Sims' Taylor Russell-Inspired Moodboard & Fashion"
+    },
+    "uploadDate": "2025-01-03T22:00:59.312Z",
+    "interactionStatistic": [
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "WatchAction"
+      },
+      "userInteractionCount": 10454
+     },
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "ShareAction"
+      },
+      "userInteractionCount": 39
+     },
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "LikeAction"
+      },
+      "userInteractionCount": 2086
+     }
+    ],
+    "creator": {
+     "@context": "https://schema.org",
+     "@type": "Person",
+     "name": "Ayla Sims",
+     "alternateName": "fun.sht",
+     "url": "https://www.snapchat.com/@fun.sht"
+    },
+    "width": 540,
+    "height": 960,
+    "isFamilyFriendly": true,
+    "keywords": [
+     "Taylor Russell style inspiration",
+     "how to create a mood board",
+     "cozy workspace setup"
+    ],
+    "ineligibleRegion": [
+     "TR"
+    ],
+    "embeddedTextCaption": "",
+    "contentUrl": "https://bolt-gcdn.sc-cdn.net/z/01C51YxjeQCuMIMLDTZdc.27.IRZXSOY?mo=Gl0aDRoAGgAyAXlIAlAuYAFaEFNwb3RsaWdodFNoYXJpbmeiATUIGxIkCiIImbVMIAFKGAoTbSxnIy1WQ0BmMR0xKyFJKD1yORD0A2gCIgsSACoHSVJaWFNPWZADyEw%3D&uc=46",
+    "embedUrl": "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYXF2ZGNkZ2RqAZQuL7TgAZQuL5qwAAAAAQ/embed",
+    "duration": "PT10S",
+    "encodingFormat": "video/mp4",
+    "position": 2
+   },
+   {
+    "@type": "VideoObject",
+    "url": "https://www.snapchat.com/@fun.sht/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZnZ5aHNpdGh3AZQx7ucuAZQx7sreAAAAAQ",
+    "name": "Ayla Sims' New Year Style & Morning Rituals | Taylor",
+    "description": "Watch Ayla Sims share her aesthetic morning routine and style inspiration for the new year, featuring cozy fashion, a perfect coffee and croissant, and a 'Taylor Russell mindset.' This short-form content captures a day-in-the-life moment with a focus on self-care and personal style.",
+    "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/z/R2RkcEgZ4FjvsI5aIbcLI.256.IRZXSOY?mo=GkkaCTIBeUgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBFgiAAiIRCgQaABoAEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+    "mainEntityOfPage": {
+     "@type": "ItemPage",
+     "@id": "https://www.snapchat.com/@fun.sht/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZnZ5aHNpdGh3AZQx7ucuAZQx7sreAAAAAQ",
+     "name": "Ayla Sims' New Year Style & Morning Rituals | Taylor"
+    },
+    "uploadDate": "2025-01-04T15:28:40.670Z",
+    "interactionStatistic": [
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "WatchAction"
+      },
+      "userInteractionCount": 10174
+     },
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "ShareAction"
+      },
+      "userInteractionCount": 22
+     },
+     {
+      "@type": "InteractionCounter",
+      "interactionType": {
+       "@type": "LikeAction"
+      },
+      "userInteractionCount": 1813
+     }
+    ],
+    "creator": {
+     "@context": "https://schema.org",
+     "@type": "Person",
+     "name": "Ayla Sims",
+     "alternateName": "fun.sht",
+     "url": "https://www.snapchat.com/@fun.sht"
+    },
+    "width": 540,
+    "height": 960,
+    "isFamilyFriendly": true,
+    "keywords": [
+     "Ayla Sims style",
+     "morning routine ideas",
+     "cozy winter outfits"
+    ],
+    "ineligibleRegion": [
+     "TR"
+    ],
+    "embeddedTextCaption": "",
+    "contentUrl": "https://bolt-gcdn.sc-cdn.net/z/R2RkcEgZ4FjvsI5aIbcLI.27.IRZXSOY?mo=Gl4aDRoAGgAyAXlIAlAuYAFaEFNwb3RsaWdodFNoYXJpbmeiATYIGxIlCiMI0oc1IAFKGQoUWRFWMBQeJSAzNiA2PSooFhcxJRIQ9ANoAiILEgAqB0lSWlhTT1mQA7pP&uc=46",
+    "embedUrl": "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZnZ5aHNpdGh3AZQx7ucuAZQx7sreAAAAAQ/embed",
+    "duration": "PT10S",
+    "encodingFormat": "video/mp4",
+    "position": 3
+   }
+  ]
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://www.snapchat.com/topic/taylor-red-lifestyle",
+  "name": "Taylor Red Lifestyle Videos",
+  "url": "https://www.snapchat.com/topic/taylor-red-lifestyle",
+  "description": "Taylor Red lifestyle videos featuring fashion reveals, sporty transformations, and Barbie World style on Snapchat Spotlight. Watch free, no app needed.",
+  "isFamilyFriendly": true,
+  "image": "https://www.snapchat.com/topic/taylor-red-lifestyle/preview/facebook.jpg",
+  "publisher": {
+   "@type": "Organization",
+   "name": "Snapchat",
+   "url": "https://www.snapchat.com/"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Snapchat",
+    "item": {
+     "@type": "Thing",
+     "@id": "https://www.snapchat.com/"
+    }
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Topics",
+    "item": {
+     "@type": "Thing",
+     "@id": "https://www.snapchat.com/topic/"
+    }
+   },
+   {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Taylor Red Lifestyle",
+    "item": {
+     "@type": "ItemPage",
+     "@id": "https://www.snapchat.com/topic/taylor-red-lifestyle"
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,143 @@
+{
+ "spotlightFeed": {
+  "type": "SPOTLIGHT",
+  "stories": [
+   {
+    "story": {
+     "id": "W7_EDlXWTBiXAEEniNoMPwAAYdGlicHNlZ25iAaBc1M3eAaBc1IhUAAAAAQ",
+     "snaps": [
+      {
+       "id": "W7_EDlXWTBiXAEEniNoMPwAAYdGlicHNlZ25iAaBc1M3eAaBc1IhUAAAAAQ",
+       "snapMediaType": "VIDEO",
+       "snapUrls": {
+        "mediaUrl": "https://bolt-gcdn.sc-cdn.net/v/rs1oxojJDoy18YLncjo3w.27.IRZXSOY?mo=Gl0aCTIBdUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwiymGEgATCcBDjAB0ABSg4KCXA2JWEtMUpOORD0A1CmWWgCIgsSACoHSVJaWFNPWZADplk%3D&uc=46",
+        "mediaPreviewUrl": "https://bolt-gcdn.sc-cdn.net/v/rs1oxojJDoy18YLncjo3w.256.IRZXSOY?mo=GkYaCTIBdUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "snapTitle": "",
+       "snapSubtitles": "",
+       "audioTranscriptionObjectUrl": ""
+      }
+     ],
+     "title": "",
+     "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/v/rs1oxojJDoy18YLncjo3w.256.IRZXSOY?mo=GkYaCTIBdUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+     "subtitle": "",
+     "canonicalUrlSuffix": "",
+     "emoji": "",
+     "type": "COMMUNITY",
+     "tapId": "698246687859868185"
+    },
+    "metadata": {
+     "hashtags": [],
+     "contextCards": [
+      {
+       "contextType": "SOUND",
+       "title": "Original Sound",
+       "subtitle": "chii_niith",
+       "url": "",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+       "hasBadge": false,
+       "snapcodeUrl": "",
+       "thumbnailType": "WAVEFORM"
+      },
+      {
+       "contextType": "CREATOR",
+       "title": "chii_niith",
+       "subtitle": "chii_niith",
+       "url": "https://www.snapchat.com/@chii_niith",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvZDBaR0RzaWRlVWxIWVRqTjR0ZjhUP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+       "hasBadge": false,
+       "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=chii_niith&type=SVG&bitmoji=enable",
+       "thumbnailType": "UNKNOWN_THUMBNAIL_TYPE_UNSET"
+      }
+     ],
+     "videoMetadata": {
+      "name": "Spotlight Snap",
+      "description": "Another Spotlight Snap brought to you by Snapchat",
+      "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/v/rs1oxojJDoy18YLncjo3w.256.IRZXSOY?mo=GkYaCTIBdUgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "uploadDateMs": "1788263827540",
+      "contentUrl": "https://bolt-gcdn.sc-cdn.net/v/rs1oxojJDoy18YLncjo3w.27.IRZXSOY?mo=Gl0aCTIBdUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwiymGEgATCcBDjAB0ABSg4KCXA2JWEtMUpOORD0A1CmWWgCIgsSACoHSVJaWFNPWZADplk%3D&uc=46",
+      "creator": {
+       "username": "chii_niith",
+       "url": "https://www.snapchat.com/@chii_niith"
+      }
+     },
+     "engagementStats": {
+      "viewCount": "1778000",
+      "shareCount": "354",
+      "commentCount": "65",
+      "boostCount": "4907",
+      "recommendCount": "337"
+     }
+    }
+   },
+   {
+    "story": {
+     "id": "W7_EDlXWTBiXAEEniNoMPwAAYaWpodnZranl5AaCnmteHAaCnmtdXAAAAAQ",
+     "snaps": [
+      {
+       "id": "W7_EDlXWTBiXAEEniNoMPwAAYaWpodnZranl5AaCnmteHAaCnmtdXAAAAAQ",
+       "snapMediaType": "VIDEO",
+       "snapUrls": {
+        "mediaUrl": "https://cf-st.sc-cdn.net/n/rsNaFGXZYfj9Tbk8POVIm.27.IRZXSOY?mo=Gl0aCTIBDkgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjdpkEgATDgAzjYBkABSg4KCVMfIR8fGxwmIRD0A1DedWgCIgsSACoHSVJaWFNPWZAD3nU%3D&uc=46",
+        "mediaPreviewUrl": "https://cf-st.sc-cdn.net/n/rsNaFGXZYfj9Tbk8POVIm.256.IRZXSOY?mo=GkYaCTIBDkgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "snapTitle": "",
+       "snapSubtitles": "",
+       "audioTranscriptionObjectUrl": ""
+      }
+     ],
+     "title": "",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/n/rsNaFGXZYfj9Tbk8POVIm.256.IRZXSOY?mo=GkYaCTIBDkgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+     "subtitle": "",
+     "canonicalUrlSuffix": "",
+     "emoji": "",
+     "type": "COMMUNITY",
+     "tapId": "-1229153993759784423"
+    },
+    "metadata": {
+     "hashtags": [],
+     "contextCards": [
+      {
+       "contextType": "SOUND",
+       "title": "Original Sound",
+       "subtitle": "Contains: Dudh Makhna Di Pali - Naseebo Lal",
+       "url": "",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+       "hasBadge": false,
+       "snapcodeUrl": "",
+       "thumbnailType": "WAVEFORM"
+      },
+      {
+       "contextType": "CREATOR",
+       "title": "zoyamalik",
+       "subtitle": "zoyamalik8161",
+       "url": "https://www.snapchat.com/@zoyamalik8161",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,90_FMpng",
+       "hasBadge": false,
+       "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=zoyamalik8161&type=SVG&bitmoji=enable",
+       "thumbnailType": "UNKNOWN_THUMBNAIL_TYPE_UNSET"
+      }
+     ],
+     "videoMetadata": {
+      "name": "Spotlight Snap",
+      "description": "Another Spotlight Snap brought to you by Snapchat",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/n/rsNaFGXZYfj9Tbk8POVIm.256.IRZXSOY?mo=GkYaCTIBDkgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "uploadDateMs": "1789518337879",
+      "contentUrl": "https://cf-st.sc-cdn.net/n/rsNaFGXZYfj9Tbk8POVIm.27.IRZXSOY?mo=Gl0aCTIBDkgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjdpkEgATDgAzjYBkABSg4KCVMfIR8fGxwmIRD0A1DedWgCIgsSACoHSVJaWFNPWZAD3nU%3D&uc=46",
+      "creator": {
+       "username": "zoyamalik8161",
+       "url": "https://www.snapchat.com/@zoyamalik8161"
+      }
+     },
+     "engagementStats": {
+      "viewCount": "566625",
+      "shareCount": "15219",
+      "commentCount": "0",
+      "boostCount": "32037",
+      "recommendCount": "3100"
+     }
+    }
+   }
+  ]
+ }
+}

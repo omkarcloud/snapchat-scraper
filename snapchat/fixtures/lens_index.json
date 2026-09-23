@@ -1,0 +1,68 @@
+{
+ "topLenses": [
+  {
+   "scannableUuid": "565e7595ec4e4a0da689762b127308ef",
+   "lensName": "Imagine",
+   "lensCreatorDisplayName": "Snapchat",
+   "lensPreviewImageUrl": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_thumbnail/bd0d2379-023d-48bb-aa3c-da8d316fb57b_360_640.webp",
+   "lensPreviewVideoUrl": "https://lens-storage.storage.googleapis.com/previewvideo/0a10d97f-fa83-448a-81ac-ba4b23eab8b4",
+   "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/X0CHwCnONwvnCm6Qz163A?bo=EhQyAX06AQRCBgjbzJzUBkgCUBJgAQ%3D%3D&uc=18",
+   "unlockUrl": "https://snapchat.com/unlock/?type=SNAPCODE&uuid=565e7595ec4e4a0da689762b127308ef&metadata=01",
+   "lensResource": null,
+   "userProfileUrl": "",
+   "lensCreatorUsername": "",
+   "lensId": "3411441095283405",
+   "lensCreatorSearchTags": [
+    "ai filter",
+    "ai transformation"
+   ],
+   "isOfficialSnapLens": true,
+   "lastUpdatedEpoch": 0,
+   "scannableImageUrl": "https://cf-st.sc-cdn.net/d/Iu0ybAUV1FlvGG76wz49I?bo=EgkyAQRIAlB1YAE%3D&uc=117"
+  },
+  {
+   "scannableUuid": "427db25be35e4b4db967a9be59bb8a46",
+   "lensName": "Milk Chocolate Bunny",
+   "lensCreatorDisplayName": "Snapchat",
+   "lensPreviewImageUrl": "https://lens-preview-storage.storage.googleapis.com/previewmedia/preview_thumbnail/15312cc0-a0f0-4ac0-8d71-dc7731c09093_360_640.webp",
+   "lensPreviewVideoUrl": "https://lens-storage.storage.googleapis.com/previewvideo/04b39542-f823-4247-bb22-2dc298e44363",
+   "iconUrl": "https://bolt-gcdn.sc-cdn.net/3/bqh66GknMeP6mo0MURTYG?bo=EhgaABoAMgF9OgEEQgYIlvvBugZIAlASYAE%3D&uc=18",
+   "unlockUrl": "https://snapchat.com/unlock/?type=SNAPCODE&uuid=427db25be35e4b4db967a9be59bb8a46&metadata=01",
+   "lensResource": null,
+   "userProfileUrl": "",
+   "lensCreatorUsername": "",
+   "lensId": "959530143136356",
+   "lensCreatorSearchTags": [
+    "bunny ears",
+    "rabbit ears"
+   ],
+   "isOfficialSnapLens": true,
+   "lastUpdatedEpoch": 0,
+   "scannableImageUrl": "https://cf-st.sc-cdn.net/d/7L62DCokPFBL20p50Pd6g?bo=EgkyAQRIAlB1YAE%3D&uc=117"
+  }
+ ],
+ "categories": [
+  {
+   "name": "FOR_YOU",
+   "displayName": "For You",
+   "isSelected": true
+  },
+  {
+   "name": "TRENDING",
+   "displayName": "Trending",
+   "isSelected": false
+  }
+ ],
+ "creatorDisplayInfos": [],
+ "hasMore": true,
+ "nextCursorId": "CBk=",
+ "viewerInfo": {
+  "country": "IN",
+  "locale": "en-US",
+  "isGdprCountry": false
+ },
+ "basePath": "https://www.snapchat.com/lens",
+ "locale": "en-US",
+ "skipWebConfigNamespaceProviderInitialization": false,
+ "shareId": ""
+}

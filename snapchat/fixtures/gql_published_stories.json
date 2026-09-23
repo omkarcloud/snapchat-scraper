@@ -1,0 +1,41 @@
+{
+ "publisher": {
+  "businessProfileId": "c8170832-9bd5-4087-a6d7-a6560c696bfc",
+  "publishedPremiumStoriesConnection": {
+   "pageInfo": {
+    "nextCursor": "1534118586583040",
+    "hasNextPage": true
+   },
+   "premiumStories": [
+    {
+     "publishedTimeInSec": 1693821610,
+     "seasonNumber": 1,
+     "episodeNumber": 74,
+     "ownerBusinessProfileId": "",
+     "story": {
+      "id": "1534120534204416",
+      "title": "Becoming \"Online Famous\" At 15",
+      "subtitle": "",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt_stagg/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNWVMUHdVWXUydndFMEFWQjc3MGZpLjMxMD9tbz1Ha0FhQ0RJQ0JIMVFCV0FCVUtJQ1doaFFjbVZ0YVhWdFUzUnZjbmxVYVd4bFZtRnlhV0Z1ZEhPaUFRc0l0Z0lpQmdvQ1NBSVNBS0lCQ0FnQklnUUtBa2dCJnVjPTU.RS540,0",
+      "type": "PUBLISHER",
+      "videoTrackUrl": ""
+     }
+    },
+    {
+     "publishedTimeInSec": 1693476939,
+     "seasonNumber": 1,
+     "episodeNumber": 72,
+     "ownerBusinessProfileId": "",
+     "story": {
+      "id": "2556665652350976",
+      "title": "She Tricked Her BF Into Getting Pregnant 😱",
+      "subtitle": "",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt_stagg/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcVhyVXV4UjBZZ2J5OHNjZjl2RmxlLjMxMD9tbz1Ha0FhQ0RJQ0JIMVFCV0FCVUtJQ1doaFFjbVZ0YVhWdFUzUnZjbmxVYVd4bFZtRnlhV0Z1ZEhPaUFRc0l0Z0lpQmdvQ1NBSVNBS0lCQ0FnQklnUUtBa2dCJnVjPTU.RS540,0",
+      "type": "PUBLISHER",
+      "videoTrackUrl": ""
+     }
+    }
+   ]
+  }
+ }
+}

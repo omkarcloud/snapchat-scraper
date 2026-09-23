@@ -1,0 +1,779 @@
+{
+ "country": "IN",
+ "isGdprCountry": false,
+ "locale": "en-US",
+ "spotlights": [
+  {
+   "storyId": "35::7a4c5de8bc611abc3d0b10fff26751ec::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "7a4c5de8bc611abc3d0b10fff26751ec",
+    "version": "0"
+   },
+   "storyIdFp": "8711122784810045473",
+   "storyDedupeFp": "967530715472070145",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+       "snapClientId": "F37BB5F3-47EF-447D-8349-F7B63C913ECA~8a9e8193-7ba8-6b63-b490-d66f7eb3152f",
+       "fragmentMetadata": null,
+       "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+       "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.1322?mo=GtQDGgoyAgR9SAJQLmABUJIBWg5TcG90bGlnaHRNZWRpYaIBOwiqChIyCjAIsJuHAyABMOADONQGQAFKDwoKtgFRWEZAU0AxQBD0A1CGygNoAnWHfxZAfQAAgD8iAhIAogE7CLkKEjIKMAiAw-wDIAEw0AU4gApAAkoPCgqcAUFUS0ZIRUBREPQDUIbKA2gCdX4jGkB9AACAPyICEgCiATsIyAoSMgowCMDnhgMgATCQBDiqB0ACSg8KCooBM0E7Njg3MUAQ9ANQhsoDaAJ1rXUaQH0AAIA_IgISAKIBOgi_ChIxCi8I0LaeAiABMOADONQGQAJKDgoJdSUwKiYqKSMwEPQDUIbKA2gCddCtFEB9AACAPyICEgCiAToIngoSMQovCKDA5AIgATDoAjiABUABSg4KCXg2OzMzQjo1PxD0A1CGygNoAnWKNxVAfQAAgD8iAhIAogE6CI4KEjEKLwiQs4oCIAEwwAI4uARAAkoOCglqJy4oJi4mJDAQ9ANQhsoDaAJ1Y5kRQH0AAIA_IgISAKIBPAjQChIzCjEI0JmCBCABMNAFOIAKQARKEAoLlAFTgQE-SF4-QHAQ9ANQhsoDaAJ1sucgQH0AAIA_IgISAJADhsoD&uc=46",
+        "mediaDimensions": null,
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+        "mediaIv": "nj8zRBm7LEiVtTOcWvuwGw==",
+        "mediaKey": "wbSJdWnEtNhUUkmkkGMGrCtYN3vQaLHhKuABdMZ0rYk=",
+        "isZipped": false,
+        "duration": 58.63,
+        "isInfiniteDuration": false,
+        "streamingMediaInfo": null,
+        "publicMediaInfo": null,
+        "unencryptedSnapBoltInfo": null,
+        "mediaD2sUrl": "",
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.27.IRZXSOY?mo=GmIaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwj-5dIFIAEwnAQ4wAdAAUoQCgvaAWx6Z1-AAXZnexD0A1CGygNoAiILEgAqB0lSWlhTT1mQA4bKAw%3D%3D&uc=46",
+        "unencryptedFlatVideoUrl": "",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 540,
+         "height": 960
+        }
+       },
+       "snapThumbnail": null,
+       "creationTimestampMs": "1763440180865",
+       "sourceCreationTimestamp": "1763439926000",
+       "expirationTimestampMs": "4917040180865",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "contextClientInfo": {
+          "mentionedUsernames": [],
+          "mentionedUserIds": [],
+          "groupInvites": [],
+          "snapReplyRequests": [],
+          "gameIds": [],
+          "storyInvites": [],
+          "publisherId": "0",
+          "attachedTopicStickers": [],
+          "mentionSources": [],
+          "mentionTextRanges": [],
+          "tappableElements": null,
+          "snapProStoryReplyFeature": null,
+          "apps": [],
+          "cameos": [],
+          "musicTrack": null,
+          "legacyTappableElements": [],
+          "creativetoolsStickers": [],
+          "hashtags": [
+           {
+            "title": "#wwe",
+            "isServerSuggested": false,
+            "source": 2
+           },
+           {
+            "title": "#wweraw",
+            "isServerSuggested": false,
+            "source": 2
+           }
+          ],
+          "astrologyProfileInfo": null,
+          "remixInfo": null,
+          "snapKitInfo": null,
+          "remixSettingsInfo": {
+           "userDisabledMentionRemixing": false,
+           "userDisabledRemixing": false
+          },
+          "timeline": null,
+          "commerceInfo": {
+           "commerceItemInfo": [],
+           "commerceStoreInfo": [],
+           "screenshopSnapEligibility": null
+          },
+          "pollInfo": [],
+          "isCheeriosVideo": false,
+          "questionInfo": null,
+          "cameraContextInfo": null,
+          "shoppingLensInfo": null,
+          "ctItemInstance": [],
+          "bitmojiOutfitInfo": null,
+          "storyMentionRepost": null,
+          "lensCollectionInfo": null,
+          "templateInfo": null,
+          "dreamsInfo": null,
+          "lensConfigInfo": null,
+          "aiCameraTextToImageInfo": null,
+          "postCaptureAiInfo": null,
+          "repostToStoryInfo": null,
+          "textModeInfo": null,
+          "genAiFeaturedStoryInfo": null,
+          "curatedStoryContextInfo": null,
+          "lensMusicInfo": null,
+          "myAiSnapInfo": null,
+          "mySelfieInfo": null,
+          "audioMix": [],
+          "isQuickCutSnap": false,
+          "quickCutInfo": null,
+          "quickCutData": null,
+          "bitmojiFashionContext": null,
+          "snapMeInfo": null
+         },
+         "hint": 0,
+         "timestamp": "0",
+         "affordance": null,
+         "contentMetadata": null,
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "f37bb5f3-47ef-447d-8349-f7b63c913eca",
+        "userName": "oracle_115",
+        "displayName": "SupersonicSaint (Caesar)",
+        "followerCount": "0",
+        "snapproTier": 0,
+        "creatorEligibility": null
+       },
+       "attachmentUrl": "",
+       "multiSnapExtension": null,
+       "snapSource": {
+        "source": 1
+       },
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "lensId": "",
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "",
+       "snapConnectAttributes": null,
+       "boostMetadata": null,
+       "engagementStats": null,
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "isStitchedMedia": false,
+       "geoLocation": null,
+       "snapDescription": {
+        "text": "#wwe #wweraw #wwespotlight"
+       },
+       "connectionType": 0,
+       "cameo": null,
+       "sponsor": null,
+       "adsTracking": null,
+       "cameoTile": null,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "spotlightModerationStatus": null,
+       "adminPermission": null,
+       "attributionStatus": 0,
+       "scanOnPublicContentEnabled": false,
+       "contentModerationStatus": null,
+       "garmBrandSafety": 0,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "commentSnapRepliesLabel": null,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "llmGeneratedMetadata": {
+        "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"Brock Lesnar and Roman Reigns go at it 💥\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+       },
+       "contentCategories": [],
+       "aiGeneratedInfo": {
+        "isAiDisclosedByCreator": false,
+        "isAiFlagged": false
+       }
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "thumbnailIv": "nj8zRBm7LEiVtTOcWvuwGw==",
+      "mediaKey": "wbSJdWnEtNhUUkmkkGMGrCtYN3vQaLHhKuABdMZ0rYk=",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "W7_EDlXWTBiXAEEniNoMPwAAYcGdyYW1lYmFzAZqVOb6NAZqVOb6BAAAAAQ",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 3,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+        "mediaKey": "wbSJdWnEtNhUUkmkkGMGrCtYN3vQaLHhKuABdMZ0rYk=",
+        "mediaIv": "nj8zRBm7LEiVtTOcWvuwGw=="
+       },
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "https://cf-st.sc-cdn.net/d/BhViKFSs4swOEQ6DXeWWt.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+        "mediaKey": "wbSJdWnEtNhUUkmkkGMGrCtYN3vQaLHhKuABdMZ0rYk=",
+        "mediaIv": "nj8zRBm7LEiVtTOcWvuwGw=="
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "Spotlight",
+      "businessProfileId": "",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 0,
+      "cuSignals": [
+       {
+        "signal": {
+         "$case": "textMetadata",
+         "textMetadata": {
+          "description": "Intense wrestling match featuring WWE superstars.",
+          "keywords": [
+           "wrestling",
+           "WWE"
+          ]
+         }
+        }
+       },
+       {
+        "signal": {
+         "$case": "detectedLanguage",
+         "detectedLanguage": {
+          "languageScores": [
+           {
+            "languageCode": "en",
+            "score": 0.9852114915847778
+           }
+          ]
+         }
+        }
+       }
+      ],
+      "llmDescription": "Witness the explosive confrontation between Roman Reigns and Solo Sikoa on WWE Raw! This intense segment captures the physicality and drama of their rivalry, including powerful slams, dramatic near-falls, and the raw emotion of a superstar in control. See why fans can't look away from this high-stakes showdown.",
+      "llmKeywords": [
+       "WWE Raw highlights",
+       "Roman Reigns promo"
+      ],
+      "s2iTags": null,
+      "llmTitle": "Roman Reigns vs Solo Sikoa | WWE Raw Chaos & Power Moves!",
+      "llmModel": "qwen3",
+      "textMetadataKeywords": [
+       "wrestling",
+       "WWE"
+      ]
+     },
+     "boostMetadata": null,
+     "engagementStats": {
+      "boostCount": "3350",
+      "shareCount": "107",
+      "viewCount": "76796",
+      "subCount": "579",
+      "spotlightPendingReplyCount": "0",
+      "spotlightLiveReplyCount": "43",
+      "spotlightNewPendingReplyCount": "0",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "0",
+      "liveCommentCount": "43",
+      "newPendingCommentCount": "0",
+      "recommendCount": "238",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "trendingTopicBadgeMetadata": null,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "calloutLabel": null,
+     "timedAdPlacements": null,
+     "commentSnapRepliesLabel": null,
+     "calloutLabelV2": null,
+     "trendingLabelMetadata": null,
+     "contentSurvey": null,
+     "isSharingDisabled": false,
+     "trendLoggingInfo": null,
+     "commentLabelMetadata": null,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "score": 694180,
+   "rankShouldBeFixed": false,
+   "notModerated": false,
+   "clientRankingFeatures": {
+    "isSensitive": false,
+    "hideAfterWatch": 0,
+    "isBoostedStory": false,
+    "rankShouldBeFixed": false,
+    "requiredBrandSafeCover": false,
+    "qualifiedBrandSafeStory": false,
+    "petraBrandSafeStory": false,
+    "explorationStory": false,
+    "isSuggestive": false,
+    "isUnsafeForSpotlight": false,
+    "isTrending": false,
+    "storyEmbeddings": []
+   },
+   "clientDisplayInfo": {
+    "hideTimestamp": false,
+    "showCompleted": false,
+    "shouldMarkStoryUnviewed": false
+   },
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "tapAction": null,
+   "boostConfig": {
+    "isBoostable": true
+   },
+   "isPlaceholder": false,
+   "adminPermission": null,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "topSpotlightFeaturesForNotification": null,
+   "debugInfo": null,
+   "friendStoryModelHeadScores": [],
+   "numStorySnapPosts": null,
+   "scoringModelId": ""
+  },
+  {
+   "storyId": "35::2ffc112c57dc86574ef872c882863838::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "2ffc112c57dc86574ef872c882863838",
+    "version": "0"
+   },
+   "storyIdFp": "16787285889989991944",
+   "storyDedupeFp": "13781543981287337224",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+       "snapClientId": "947AF30F-C5FD-3AAF-9E0D-8899D5D5BAEE~F129A2B4-778D-428E-BCEE-89115665D9D7",
+       "fragmentMetadata": null,
+       "sharedStorySubmissionId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+       "originalSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.1322?mo=Gv0GGgoyAgR9SAJQLmABUJIBWg5TcG90bGlnaHRNZWRpYaIBOwiqChIyCjAI8IqOASABMOADONYGQAFKDwoKhQFMV2BWPzcwRBD0A1DCngFoAnUFWxFAfQAAgD8iAhIAogE8COgKEjMKMQjwwsUCIAEwuAg4hA9AAkoQCgvGAXldjQF9TDxMexD0A1CungFoAnUQqTdAfQAAgD8iAhIAogE7COcKEjIKMAjAmr8BIAEw0AU4hApAAkoPCgqAAUk3VUkvJC1LEPQDUK6eAWgCdRYaJ0B9AACAPyICEgCiATsI9goSMgowCKDd1gEgATDQBDieCEACSg8KCokBRzpZTjQnME0Q9ANQwp4BaAJ1b9wfQH0AAIA_IgISAKIBOgjmChIxCi8IkNalASABMJAEOKwHQAJKDgoJdEAySz8pIChAEPQDUK6eAWgCdbBxKEB9AACAPyICEgCiATsI9QoSMgowCICNyAEgATCQBDisB0ACSg8KCoIBRDhXSjAlLEcQ9ANQwp4BaAJ1QwMgQH0AAIA_IgISAKIBOQjlChIwCi4IwNJxIAEw4AM42AZAAkoOCglXLSIzKh0WHCwQ9ANQrp4BaAJ1jDYgQH0AAIA_IgISAKIBOgj0ChIxCi8IoJSfASABMOADONYGQAJKDgoJazUrQzonHSM7EPQDUMKeAWgCdQzoGkB9AACAPyICEgCiAToIngoSMQovCIDRigEgATDoAjiABUABSg4KCVszN0M2Kh0hQBD0A1DCngFoAnXmZQ1AfQAAgD8iAhIAogE5CPMKEjAKLgiQ3FUgATDAAji6BEACSg4KCUEdGCYgFxEVIRD0A1DCngFoAnWqRBNAfQAAgD8iAhIAogFYCK8LEk8KTQjw3mkgATDoAjiABUABSi0KKFYrLDAmGhoeMCojHCMtNSwpJCwrJygkHywmJiQuNS0hKzMhIS9BMisQ9ANQwp4BaAJ187gHQH0AAIA_IgISAKIBWQiuCxJQCk4IgI-OASABMOADONYGQAFKLQoockI6PzsnISw7PTMpLUVPOzQzOUM2MS8pMTQxK0NSOyw7QC8qOU87MBD0A1DCngFoAnWkDg5AfQAAgD8iAhIAogE5CHgSMQovCODMmwEgATDgAzjWBkACSg4KCWY0K0I6Jx0kOBD0A1DCngFoAnWWjxZAfQAAgD8iAhIAkAPCngE%3D&uc=46",
+        "mediaDimensions": null,
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+        "mediaIv": "lm11M080gplccb+0owU7tQ==",
+        "mediaKey": "rC6KprnkZpcB6TAlVPJbb7Zmvwst5k+jy3jhZLFgiJU=",
+        "isZipped": false,
+        "duration": 20.29,
+        "isInfiniteDuration": false,
+        "streamingMediaInfo": null,
+        "publicMediaInfo": null,
+        "unencryptedSnapBoltInfo": null,
+        "mediaD2sUrl": "",
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.27.IRZXSOY?mo=GmIaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwi-hc8CIAEwnAQ4wgdAAUoQCgurAWJ_fYEBUkNGfBD0A1DCngFoAiILEgAqB0lSWlhTT1mQA8KeAQ%3D%3D&uc=46",
+        "unencryptedFlatVideoUrl": "",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 540,
+         "height": 962
+        }
+       },
+       "snapThumbnail": null,
+       "creationTimestampMs": "1788834956950",
+       "sourceCreationTimestamp": "1788827639000",
+       "expirationTimestampMs": "4942434956950",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "contextClientInfo": {
+          "mentionedUsernames": [],
+          "mentionedUserIds": [],
+          "groupInvites": [],
+          "snapReplyRequests": [],
+          "gameIds": [],
+          "storyInvites": [],
+          "publisherId": "0",
+          "attachedTopicStickers": [],
+          "mentionSources": [],
+          "mentionTextRanges": [],
+          "tappableElements": null,
+          "snapProStoryReplyFeature": null,
+          "apps": [],
+          "cameos": [],
+          "musicTrack": null,
+          "legacyTappableElements": [],
+          "creativetoolsStickers": [],
+          "hashtags": [
+           {
+            "title": "#WWERaw",
+            "isServerSuggested": false,
+            "source": 2
+           }
+          ],
+          "astrologyProfileInfo": null,
+          "remixInfo": null,
+          "snapKitInfo": null,
+          "remixSettingsInfo": null,
+          "timeline": null,
+          "commerceInfo": null,
+          "pollInfo": [],
+          "isCheeriosVideo": false,
+          "questionInfo": null,
+          "cameraContextInfo": null,
+          "shoppingLensInfo": null,
+          "ctItemInstance": [],
+          "bitmojiOutfitInfo": null,
+          "storyMentionRepost": null,
+          "lensCollectionInfo": null,
+          "templateInfo": null,
+          "dreamsInfo": null,
+          "lensConfigInfo": null,
+          "aiCameraTextToImageInfo": null,
+          "postCaptureAiInfo": null,
+          "repostToStoryInfo": null,
+          "textModeInfo": null,
+          "genAiFeaturedStoryInfo": null,
+          "curatedStoryContextInfo": null,
+          "lensMusicInfo": null,
+          "myAiSnapInfo": null,
+          "mySelfieInfo": null,
+          "audioMix": [],
+          "isQuickCutSnap": false,
+          "quickCutInfo": null,
+          "quickCutData": null,
+          "bitmojiFashionContext": null,
+          "snapMeInfo": null
+         },
+         "hint": 0,
+         "timestamp": "0",
+         "affordance": null,
+         "contentMetadata": null,
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "7872d916-4014-493d-ba38-fe3d7b2c817d",
+        "userName": "wwe",
+        "displayName": "WWE",
+        "followerCount": "0",
+        "snapproTier": 0,
+        "creatorEligibility": null
+       },
+       "attachmentUrl": "",
+       "multiSnapExtension": null,
+       "snapSource": {
+        "source": 1
+       },
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "lensId": "",
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "",
+       "snapConnectAttributes": null,
+       "boostMetadata": null,
+       "engagementStats": null,
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "isStitchedMedia": false,
+       "geoLocation": null,
+       "snapDescription": {
+        "text": "OBA FEMI TRIES TO GET HIS REVENGE ON THE VISION 👊👊👊👊 #WWERaw "
+       },
+       "connectionType": 0,
+       "cameo": null,
+       "sponsor": null,
+       "adsTracking": null,
+       "cameoTile": null,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "spotlightModerationStatus": null,
+       "adminPermission": null,
+       "attributionStatus": 0,
+       "scanOnPublicContentEnabled": false,
+       "contentModerationStatus": null,
+       "garmBrandSafety": 0,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "commentSnapRepliesLabel": null,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "llmGeneratedMetadata": {
+        "llmGeneratedNotificationCopy": "{\n  \"ExtractedVideoCaption\": \"This wrestler is not playing fair with that chair 🪑\",\n  \"Version\": \"1.21\",\n  \"Status\": \"valid\",\n  \"Reason_Code\": null,\n  \"Reason\": null\n}"
+       },
+       "contentCategories": [],
+       "aiGeneratedInfo": {
+        "isAiDisclosedByCreator": false,
+        "isAiFlagged": false
+       }
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "thumbnailIv": "lm11M080gplccb+0owU7tQ==",
+      "mediaKey": "rC6KprnkZpcB6TAlVPJbb7Zmvwst5k+jy3jhZLFgiJU=",
+      "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "W7_EDlXWTBiXAEEniNoMPwAAYZHZqcmR1ZXZjAaB-30tZAaB-30aWAAAAAQ",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYbnh3YWFwY3dpAaB-4CfnAaB-4CfnAAAAAQ",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.256?mo=GjQaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBBwiAAiICEgCiAQcImgoiAhIA&uc=46",
+        "mediaKey": "rC6KprnkZpcB6TAlVPJbb7Zmvwst5k+jy3jhZLFgiJU=",
+        "mediaIv": "lm11M080gplccb+0owU7tQ=="
+       },
+       {
+        "tileId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdseXVhd3BpAaB-4TYHAaB-4TYHAAAAAQ",
+        "tileType": 3,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "https://cf-st.sc-cdn.net/d/29mAli6fftAkOFUPX5cKy.1400?mo=GjQaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBBwj4CiICEgCiAQcIlgsiAhIA&uc=46",
+        "mediaKey": "rC6KprnkZpcB6TAlVPJbb7Zmvwst5k+jy3jhZLFgiJU=",
+        "mediaIv": "lm11M080gplccb+0owU7tQ=="
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "Spotlight",
+      "businessProfileId": "",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 0,
+      "cuSignals": [
+       {
+        "signal": {
+         "$case": "textMetadata",
+         "textMetadata": {
+          "description": "Wrestler competing for championship title.",
+          "keywords": [
+           "Wrestling",
+           "WWE"
+          ]
+         }
+        }
+       },
+       {
+        "signal": {
+         "$case": "detectedLanguage",
+         "detectedLanguage": {
+          "languageScores": [
+           {
+            "languageCode": "en",
+            "score": 0.9980144500732422
+           }
+          ]
+         }
+        }
+       }
+      ],
+      "llmDescription": "In a dramatic moment from a WWE event, Braun Strowman delivers a devastating steel chair attack on Austin Theory. The sequence captures Strowman's immense power as he uses the weapon to wipe out his opponent and then launches him across the ring, showcasing the intensity of professional wrestling.",
+      "llmKeywords": [
+       "pro wrestling moves",
+       "wrestling match moment"
+      ],
+      "s2iTags": null,
+      "llmTitle": "Braun Strowman Wipes Out Austin Theory With Steel Chair Attack!",
+      "llmModel": "qwen3",
+      "textMetadataKeywords": [
+       "Wrestling",
+       "WWE"
+      ]
+     },
+     "boostMetadata": null,
+     "engagementStats": {
+      "boostCount": "3057",
+      "shareCount": "53",
+      "viewCount": "51594",
+      "subCount": "180",
+      "spotlightPendingReplyCount": "0",
+      "spotlightLiveReplyCount": "26",
+      "spotlightNewPendingReplyCount": "0",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "0",
+      "liveCommentCount": "26",
+      "newPendingCommentCount": "0",
+      "recommendCount": "236",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "trendingTopicBadgeMetadata": null,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "calloutLabel": null,
+     "timedAdPlacements": null,
+     "commentSnapRepliesLabel": null,
+     "calloutLabelV2": null,
+     "trendingLabelMetadata": null,
+     "contentSurvey": null,
+     "isSharingDisabled": false,
+     "trendLoggingInfo": null,
+     "commentLabelMetadata": null,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "score": 456892,
+   "rankShouldBeFixed": false,
+   "notModerated": false,
+   "clientRankingFeatures": {
+    "isSensitive": false,
+    "hideAfterWatch": 0,
+    "isBoostedStory": false,
+    "rankShouldBeFixed": false,
+    "requiredBrandSafeCover": false,
+    "qualifiedBrandSafeStory": false,
+    "petraBrandSafeStory": false,
+    "explorationStory": false,
+    "isSuggestive": false,
+    "isUnsafeForSpotlight": false,
+    "isTrending": false,
+    "storyEmbeddings": []
+   },
+   "clientDisplayInfo": {
+    "hideTimestamp": false,
+    "showCompleted": false,
+    "shouldMarkStoryUnviewed": false
+   },
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "tapAction": null,
+   "boostConfig": {
+    "isBoostable": true
+   },
+   "isPlaceholder": false,
+   "adminPermission": null,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "topSpotlightFeaturesForNotification": null,
+   "debugInfo": null,
+   "friendStoryModelHeadScores": [],
+   "numStorySnapPosts": null,
+   "scoringModelId": ""
+  }
+ ],
+ "hashtag": "wweraw",
+ "relatedTopics": []
+}

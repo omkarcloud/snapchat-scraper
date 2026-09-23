@@ -1,0 +1,617 @@
+{
+ "country": "IN",
+ "isGdprCountry": false,
+ "locale": "en-US",
+ "topicId": "comedy-skit",
+ "displayName": "Comedy Skit",
+ "webPageViewSource": "dynamo",
+ "spotlights": [
+  {
+   "storyId": "35::W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+    "version": "0"
+   },
+   "storyIdFp": "0",
+   "storyDedupeFp": "0",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+       "snapClientId": "D9032351-F283-4518-84E1-60BB90D4FAEE",
+       "fragmentMetadata": null,
+       "sharedStorySubmissionId": "",
+       "originalSnapId": "",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/XkMmj8lBjhvYRAFVkwOWH?bo=EgkyAX1IAlAuYAE%3D&uc=46",
+        "mediaDimensions": null,
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+        "mediaIv": "",
+        "mediaKey": "",
+        "isZipped": false,
+        "duration": 54.92,
+        "isInfiniteDuration": true,
+        "streamingMediaInfo": null,
+        "publicMediaInfo": null,
+        "unencryptedSnapBoltInfo": null,
+        "mediaD2sUrl": "",
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgikz84DIAEwnAQ4wgdAAUoPCgrQAVJUTFBfPVFJEPQDUIitA2gCIgsSACoHSVJaWFNPWZADiK0D&uc=46",
+        "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.1034.IRZXSOY?mo=Gk0aCTIBBEgCUC5gAaIBOgiKCBIoCiYIu57LAiABMOADONgGQAFKDwoKrQE7PDY4RjA9NxD0A1CIrQNoAiILEgAqB0lSWlhTT1mQA4itAw%3D%3D&uc=46",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 540,
+         "height": 962
+        }
+       },
+       "snapThumbnail": null,
+       "creationTimestampMs": "1749910488644",
+       "sourceCreationTimestamp": "1749860285000",
+       "expirationTimestampMs": "4903510488644",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "contextClientInfo": null,
+         "hint": 0,
+         "timestamp": "0",
+         "affordance": null,
+         "contentMetadata": null,
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "4f621b93-abc0-4ab8-b315-cd972728e5e8",
+        "userName": "tonysnaps",
+        "displayName": "TonyTalks",
+        "followerCount": "0",
+        "snapproTier": 0,
+        "creatorEligibility": null
+       },
+       "attachmentUrl": "",
+       "multiSnapExtension": null,
+       "snapSource": null,
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "lensId": "",
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "Why I Don’t Yawn In Public 🥱😂",
+       "snapConnectAttributes": null,
+       "boostMetadata": null,
+       "engagementStats": null,
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [
+        2
+       ],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "isStitchedMedia": false,
+       "geoLocation": null,
+       "snapDescription": null,
+       "connectionType": 0,
+       "cameo": null,
+       "sponsor": null,
+       "adsTracking": null,
+       "cameoTile": null,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "spotlightModerationStatus": null,
+       "adminPermission": null,
+       "attributionStatus": 0,
+       "scanOnPublicContentEnabled": false,
+       "contentModerationStatus": null,
+       "garmBrandSafety": 1,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [
+        {
+         "origin": {
+          "$case": "mediaOriginExternalStorage",
+          "mediaOriginExternalStorage": {
+           "creationTimestamp": "0",
+           "mediaSource": 0,
+           "insecureFileMetadata": null,
+           "originalLocalIds": []
+          }
+         }
+        }
+       ],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "commentSnapRepliesLabel": null,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "llmGeneratedMetadata": null,
+       "contentCategories": [],
+       "aiGeneratedInfo": null
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.258.IRZXSOY?mo=Gh8aCjIBBEgCUJABYAGiARAIggIiCxIAKgdJUlpYU09Z&uc=144",
+      "thumbnailIv": "",
+      "mediaKey": "",
+      "mediaId": "",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "",
+        "mediaKey": "",
+        "mediaIv": ""
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "TonyTalks",
+      "businessProfileId": "2cbcd7ac-e114-41dc-8c57-c0678a907669",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 5,
+      "cuSignals": [
+       {
+        "signal": {
+         "$case": "textMetadata",
+         "textMetadata": {
+          "description": "Funny reasons for not yawning publicly.",
+          "keywords": [
+           "yawning",
+           "public etiquette"
+          ]
+         }
+        }
+       },
+       {
+        "signal": {
+         "$case": "detectedLanguage",
+         "detectedLanguage": {
+          "languageScores": [
+           {
+            "languageCode": "en",
+            "score": 0.9985049962997437
+           }
+          ]
+         }
+        }
+       }
+      ],
+      "llmDescription": "In this comedic skit, TonyTalks showcases his talent for impersonation and transformation. He begins by mimicking a dramatic character in a fur coat, then switches to a 'cool' persona in a tan coat and gloves. The prank culminates in a surprise reveal where he transforms into a blonde woman, causing the other characters to react with shock and laughter. The video is a playful display of costume changes, exaggerated expressions, and comedic timing.",
+      "llmKeywords": null,
+      "s2iTags": null,
+      "llmTitle": "TonyTalks' Hilarious Fashion Transformation & Prank Reveal",
+      "llmModel": "qwen3",
+      "textMetadataKeywords": [
+       "yawning",
+       "public etiquette"
+      ]
+     },
+     "boostMetadata": null,
+     "engagementStats": {
+      "boostCount": "8706",
+      "shareCount": "276",
+      "viewCount": "42290",
+      "subCount": "-1",
+      "spotlightPendingReplyCount": "0",
+      "spotlightLiveReplyCount": "191",
+      "spotlightNewPendingReplyCount": "0",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "0",
+      "liveCommentCount": "191",
+      "newPendingCommentCount": "0",
+      "recommendCount": "664",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "trendingTopicBadgeMetadata": null,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "calloutLabel": null,
+     "timedAdPlacements": null,
+     "commentSnapRepliesLabel": null,
+     "calloutLabelV2": null,
+     "trendingLabelMetadata": null,
+     "contentSurvey": null,
+     "isSharingDisabled": false,
+     "trendLoggingInfo": null,
+     "commentLabelMetadata": null,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "score": 0,
+   "rankShouldBeFixed": false,
+   "notModerated": true,
+   "clientRankingFeatures": null,
+   "clientDisplayInfo": null,
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "tapAction": null,
+   "boostConfig": null,
+   "isPlaceholder": false,
+   "adminPermission": null,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "topSpotlightFeaturesForNotification": null,
+   "debugInfo": null,
+   "friendStoryModelHeadScores": [],
+   "numStorySnapPosts": null,
+   "scoringModelId": ""
+  },
+  {
+   "storyId": "35::W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+    "version": "0"
+   },
+   "storyIdFp": "0",
+   "storyDedupeFp": "0",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+       "snapClientId": "2DB9722C-3799-491D-87B6-AD2B3FA94F33",
+       "fragmentMetadata": null,
+       "sharedStorySubmissionId": "",
+       "originalSnapId": "",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://bolt-gcdn.sc-cdn.net/4/oMXyQ85dShw7U3x26GHKC?bo=EgkyAX5IAlAuYAE%3D&uc=46",
+        "mediaDimensions": null,
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+        "mediaIv": "",
+        "mediaKey": "",
+        "isZipped": false,
+        "duration": 127.13,
+        "isInfiniteDuration": true,
+        "streamingMediaInfo": null,
+        "publicMediaInfo": null,
+        "unencryptedSnapBoltInfo": null,
+        "mediaD2sUrl": "",
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjCi8sDIAEwnAQ4wAdAAUoPCgrHARkeGiAdISQjEPQDUJrhB2gCIgsSACoHSVJaWFNPWZADmuEH&uc=46",
+        "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.1034.IRZXSOY?mo=Gk0aCTIBBEgCUC5gAaIBOgiKCBIoCiYI5onnAiABMOADONQGQAFKDwoKuQETFxYWGBccHBD0A1Ca4QdoAiILEgAqB0lSWlhTT1mQA5rhBw%3D%3D&uc=46",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 540,
+         "height": 960
+        }
+       },
+       "snapThumbnail": null,
+       "creationTimestampMs": "1750464511558",
+       "sourceCreationTimestamp": "0",
+       "expirationTimestampMs": "4904064511558",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "contextClientInfo": null,
+         "hint": 0,
+         "timestamp": "0",
+         "affordance": null,
+         "contentMetadata": null,
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "77a5a84d-1c70-4507-b2a8-3220f8f09a08",
+        "userName": "nockturnny",
+        "displayName": "David Jowers",
+        "followerCount": "0",
+        "snapproTier": 0,
+        "creatorEligibility": null
+       },
+       "attachmentUrl": "",
+       "multiSnapExtension": null,
+       "snapSource": null,
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "lensId": "",
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "Key and Peele are so hilarious lmao 🤣 ",
+       "snapConnectAttributes": null,
+       "boostMetadata": null,
+       "engagementStats": null,
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [
+        2
+       ],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "isStitchedMedia": false,
+       "geoLocation": null,
+       "snapDescription": {
+        "text": "#comedy #keyandpeele #comedyspotlight"
+       },
+       "connectionType": 0,
+       "cameo": null,
+       "sponsor": null,
+       "adsTracking": null,
+       "cameoTile": null,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "spotlightModerationStatus": null,
+       "adminPermission": null,
+       "attributionStatus": 0,
+       "scanOnPublicContentEnabled": false,
+       "contentModerationStatus": null,
+       "garmBrandSafety": 1,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [
+        {
+         "origin": {
+          "$case": "mediaOriginExternalStorage",
+          "mediaOriginExternalStorage": {
+           "creationTimestamp": "0",
+           "mediaSource": 0,
+           "insecureFileMetadata": null,
+           "originalLocalIds": []
+          }
+         }
+        }
+       ],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "commentSnapRepliesLabel": null,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "llmGeneratedMetadata": null,
+       "contentCategories": [],
+       "aiGeneratedInfo": null
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.258.IRZXSOY?mo=Gh8aCjIBBEgCUJABYAGiARAIggIiCxIAKgdJUlpYU09Z&uc=144",
+      "thumbnailIv": "",
+      "mediaKey": "",
+      "mediaId": "",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 3,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "",
+        "mediaKey": "",
+        "mediaIv": ""
+       },
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "",
+        "mediaKey": "",
+        "mediaIv": ""
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "David Jowers",
+      "businessProfileId": "534a295d-139c-42e2-b36d-19fa3b153f20",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 0,
+      "cuSignals": [
+       {
+        "signal": {
+         "$case": "textMetadata",
+         "textMetadata": {
+          "description": "Key and Peele's hilarious comedy skit highlights absurdity.",
+          "keywords": [
+           "Key and Peele",
+           "comedy"
+          ]
+         }
+        }
+       },
+       {
+        "signal": {
+         "$case": "s2iTags",
+         "s2iTags": {
+          "tags": [],
+          "scoredTags": []
+         }
+        }
+       }
+      ],
+      "llmDescription": "Watch the hilarious conclusion of this comedy sketch starring David Jowers and his friends. The scene builds with anticipation before erupting into a chaotic and funny finale. Don't miss the punchline!",
+      "llmKeywords": null,
+      "s2iTags": null,
+      "llmTitle": "The Ending is HILARIOUS! | Comedy Sketch Featuring David Jowers",
+      "llmModel": "qwen3",
+      "textMetadataKeywords": [
+       "Key and Peele",
+       "comedy"
+      ]
+     },
+     "boostMetadata": null,
+     "engagementStats": {
+      "boostCount": "10346",
+      "shareCount": "1729",
+      "viewCount": "212745",
+      "subCount": "-1",
+      "spotlightPendingReplyCount": "0",
+      "spotlightLiveReplyCount": "90",
+      "spotlightNewPendingReplyCount": "0",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "0",
+      "liveCommentCount": "90",
+      "newPendingCommentCount": "0",
+      "recommendCount": "395",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "trendingTopicBadgeMetadata": null,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "calloutLabel": null,
+     "timedAdPlacements": null,
+     "commentSnapRepliesLabel": null,
+     "calloutLabelV2": null,
+     "trendingLabelMetadata": null,
+     "contentSurvey": null,
+     "isSharingDisabled": false,
+     "trendLoggingInfo": null,
+     "commentLabelMetadata": null,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "score": 0,
+   "rankShouldBeFixed": false,
+   "notModerated": true,
+   "clientRankingFeatures": null,
+   "clientDisplayInfo": null,
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "tapAction": null,
+   "boostConfig": null,
+   "isPlaceholder": false,
+   "adminPermission": null,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "topSpotlightFeaturesForNotification": null,
+   "debugInfo": null,
+   "friendStoryModelHeadScores": [],
+   "numStorySnapPosts": null,
+   "scoringModelId": ""
+  }
+ ],
+ "relatedS2ITags": [],
+ "s2iTagHierarchy": [],
+ "remainingSpotlightIds": [],
+ "devInfo": null,
+ "topicDescriptions": {
+  "short": "Comedy skit videos on Snapchat Spotlight — relatable POV bits, mom-vs-me shopping chaos, and viral characters with wild twist endings. Watch free.",
+  "long": "From spot-on POV takes on that one religious friend to mom-vs-me parking lot drama and larger-than-life village characters, this Spotlight collection rounds up the funniest comedy skits on Snapchat. Expect big reactions, physical comedy, and surprise twist endings worth replaying."
+ },
+ "pageGenerationId": "comedy-skit-1790154633234-4wzrg"
+}

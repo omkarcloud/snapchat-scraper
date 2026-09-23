@@ -1,0 +1,979 @@
+{
+ "viewerInfo": {
+  "country": "IN",
+  "locale": "en-US",
+  "isGdprCountry": false
+ },
+ "pageMetadata": {
+  "pageType": 11,
+  "pageTitle": "wwe | Spotlight on Snapchat",
+  "pageDescription": {
+   "value": "PENTA ➡️ #MITB! #WWERaw | Check out the best music, lenses, memes and videos in all the latest Spotlight snaps, brought to you by Snapchat."
+  },
+  "shareId": ""
+ },
+ "spotlightFeed": {
+  "spotlightStories": [
+   {
+    "story": {
+     "storyType": 15,
+     "snapList": [
+      {
+       "snapIndex": 0,
+       "snapId": {
+        "value": "W7_EDlXWTBiXAEEniNoMPwAAYbnJwb2puY29iAaDHCDLvAaDHCC1ZAAAAAQ"
+       },
+       "snapMediaType": 1,
+       "snapUrls": {
+        "mediaUrl": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.27.IRZXSOY?mo=GmYaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBPggbEi0KKwigy-gDIAEwnAQ4wAdAAUoUCg-5AV1xqQGYAYUBc4MBjgEQ9ANQmtoBaAIiCxIAKgdJUlpYU09ZkAOa2gE%3D&uc=46",
+        "mediaPreviewUrl": {
+         "value": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+        },
+        "overlayUrl": null,
+        "attachmentUrl": null
+       },
+       "isSponsored": null,
+       "timestampInSec": {
+        "value": "1790045597"
+       },
+       "snapTitle": null,
+       "snapSubtitles": null,
+       "lat": null,
+       "lng": null,
+       "hasAttachment": null,
+       "intervalStartTimeMs": null,
+       "audioTranscriptionObjectUrl": {
+        "value": "https://bolt-gcdn.sc-cdn.net/3/ci79irAd6KcfZ10oTZc4f.vtt?bo=EgkyAX1IAlAuYAE%3D&uc=46"
+       }
+      }
+     ],
+     "storyId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYbnJwb2puY29iAaDHCDLvAaDHCC1ZAAAAAQ"
+     },
+     "storyTitle": null,
+     "thumbnailUrl": {
+      "value": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "storySubtitle": null,
+     "storyShareId": null,
+     "canonicalUrlSuffix": null,
+     "emoji": null,
+     "storyTapId": "0",
+     "videoTrackUrl": null,
+     "highlightId": null,
+     "isAttributed": {
+      "value": true
+     },
+     "thumbnailTiles": [
+      {
+       "tileType": 2,
+       "url": {
+        "value": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "tileId": {
+        "value": "W7_EDlXWTBiXAEEniNoMPwAAYb2FzemJydWhrAaDHCSXcAaDHCSXcAAAAAQ"
+       }
+      },
+      {
+       "tileType": 1,
+       "url": {
+        "value": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "tileId": {
+        "value": "W7_EDlXWTBiXAEEniNoMPwAAYaHV5aHJocnVrAaDHC07OAaDHC07OAAAAAQ"
+       }
+      }
+     ]
+    },
+    "metadata": {
+     "videoMetadata": {
+      "name": "Spotlight Snap",
+      "description": "#MITB #WWERaw",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "uploadDateMs": "1790045597017",
+      "viewCount": "9537",
+      "contentUrl": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.27.IRZXSOY?mo=GmYaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBPggbEi0KKwigy-gDIAEwnAQ4wAdAAUoUCg-5AV1xqQGYAYUBc4MBjgEQ9ANQmtoBaAIiCxIAKgdJUlpYU09ZkAOa2gE%3D&uc=46",
+      "creator": {
+       "$case": "personCreator",
+       "personCreator": {
+        "username": "wwe",
+        "url": "https://www.snapchat.com/@wwe",
+        "name": "WWE",
+        "followerCount": "0",
+        "websiteUrl": ""
+       }
+      },
+      "durationMs": "27930",
+      "width": 540,
+      "height": 960,
+      "keywords": [],
+      "shareCount": "0",
+      "embeddedTextCaption": ""
+     },
+     "userMetadata": null,
+     "hashtags": [
+      "#MITB",
+      "#WWERaw"
+     ],
+     "contextCards": [
+      {
+       "contextType": 2,
+       "title": "Original Sound",
+       "subtitle": "wwe",
+       "url": "",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+       "snapcodeUrl": "",
+       "thumbnailType": 2,
+       "hasBadge": false,
+       "id": "148566888704"
+      },
+      {
+       "contextType": 3,
+       "title": "WWE",
+       "subtitle": "wwe",
+       "url": "https://www.snapchat.com/@wwe",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM3dBeWZ6YW5BWXRGZWNiUThYV1pCP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+       "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=wwe&type=SVG&bitmoji=enable",
+       "thumbnailType": 0,
+       "hasBadge": true,
+       "id": "602c2453-eef7-4a38-a4f0-4d61f601c512"
+      }
+     ],
+     "engagementStats": {
+      "viewCount": "9537",
+      "shareCount": "67",
+      "commentCount": "19",
+      "boostCount": "806",
+      "recommendCount": "104"
+     },
+     "deeplink": "https://click.snapchat.com/aVHG?pid=snapchat_download_page&af_dp=https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYbnJwb2puY29iAaDHCDLvAaDHCC1ZAAAAAQ&af_web_dp=https://snapchat.com/download?purpose%3Dweb_stories%26sp%3Dspotlight&af_ios_url=https://apps.apple.com/app/apple-store/id447188370?pt%3D614006%26ct%3Dspotlight%26mt%3D8",
+     "description": "PENTA ➡️ #MITB! #WWERaw ",
+     "cuSignals": [
+      {
+       "signal": {
+        "$case": "textMetadata",
+        "textMetadata": {
+         "description": "WWE superstar NEEL in wrestling action.",
+         "keywords": [
+          "wrestling",
+          "WWE superstar",
+          "fight sports"
+         ]
+        }
+       }
+      },
+      {
+       "signal": {
+        "$case": "detectedLanguage",
+        "detectedLanguage": {
+         "languageScores": [
+          {
+           "languageCode": "en",
+           "score": 0.9987732768058777
+          }
+         ]
+        }
+       }
+      },
+      {
+       "signal": {
+        "$case": "detectedLanguage",
+        "detectedLanguage": {
+         "languageScores": [
+          {
+           "languageCode": "unk",
+           "score": 0
+          }
+         ]
+        }
+       }
+      }
+     ],
+     "llmDescription": "Witness the electrifying climax of a WWE wrestling match as Penta El Zero Miedo executes his signature 'Springboard Mexican Destroyer' move to secure a dramatic victory. The crowd erupts in cheers as the referee raises his hand, declaring him the winner.",
+     "llmKeywords": [
+      "WWE match highlights",
+      "Wrestling finisher moves",
+      "Wrestling pinfall"
+     ],
+     "s2iTags": [],
+     "llmTitle": "Penta El Zero Miedo Wins Epic WWE Match with Springboard Mexican Destroyer",
+     "textMetadataKeywords": [
+      "wrestling",
+      "WWE superstar",
+      "fight sports"
+     ]
+    },
+    "contentSource": "ssr_initial",
+    "upNextThumbnailUrl": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+   },
+   {
+    "story": {
+     "storyType": 15,
+     "snapList": [
+      {
+       "snapIndex": 0,
+       "snapId": {
+        "value": "W7_EDlXWTBiXAEEniNoMPwAAYenFkeWVsYnNjAaADJMn1AaADJMnLAAAAAw"
+       },
+       "snapMediaType": 1,
+       "snapUrls": {
+        "mediaUrl": "https://cf-st.sc-cdn.net/d/AZD6kyT3LvWRBb3qQe1jj.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjJ5VggATCcBDjAB0ABSg8KCo4BXV5sZlJITVEQ9ANQ4D9oAiILEgAqB0lSWlhTT1mQA-A_&uc=46",
+        "mediaPreviewUrl": {
+         "value": "https://cf-st.sc-cdn.net/d/AZD6kyT3LvWRBb3qQe1jj.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+        },
+        "overlayUrl": null,
+        "attachmentUrl": null
+       },
+       "isSponsored": null,
+       "timestampInSec": {
+        "value": "1786759137"
+       },
+       "snapTitle": null,
+       "snapSubtitles": null,
+       "lat": null,
+       "lng": null,
+       "hasAttachment": null,
+       "intervalStartTimeMs": null,
+       "audioTranscriptionObjectUrl": null
+      }
+     ],
+     "storyId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYenFkeWVsYnNjAaADJMn1AaADJMnLAAAAAw"
+     },
+     "storyTitle": null,
+     "thumbnailUrl": {
+      "value": "https://cf-st.sc-cdn.net/d/AZD6kyT3LvWRBb3qQe1jj.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "storySubtitle": null,
+     "storyShareId": null,
+     "canonicalUrlSuffix": null,
+     "emoji": null,
+     "storyTapId": "5569807570158158361",
+     "videoTrackUrl": null,
+     "highlightId": null,
+     "isAttributed": {
+      "value": true
+     },
+     "thumbnailTiles": []
+    },
+    "metadata": {
+     "videoMetadata": {
+      "name": "Just a bunch of teenage girls livin the life",
+      "description": "Another Spotlight Snap brought to you by Snapchat",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/AZD6kyT3LvWRBb3qQe1jj.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "uploadDateMs": "1786759137739",
+      "viewCount": "524275",
+      "contentUrl": "https://cf-st.sc-cdn.net/d/AZD6kyT3LvWRBb3qQe1jj.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjJ5VggATCcBDjAB0ABSg8KCo4BXV5sZlJITVEQ9ANQ4D9oAiILEgAqB0lSWlhTT1mQA-A_&uc=46",
+      "creator": {
+       "$case": "personCreator",
+       "personCreator": {
+        "username": "nicole_200687",
+        "url": "https://www.snapchat.com/@nicole_200687",
+        "name": "Nicole Robinson",
+        "followerCount": "0",
+        "websiteUrl": ""
+       }
+      },
+      "durationMs": "8160",
+      "width": 540,
+      "height": 960,
+      "keywords": [],
+      "shareCount": "0",
+      "embeddedTextCaption": "Just a bunch of teenage girls livin the life"
+     },
+     "userMetadata": null,
+     "hashtags": [],
+     "contextCards": [
+      {
+       "contextType": 2,
+       "title": "Original Sound",
+       "subtitle": "nicole_200687",
+       "url": "",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+       "snapcodeUrl": "",
+       "thumbnailType": 2,
+       "hasBadge": false,
+       "id": "135881747580"
+      },
+      {
+       "contextType": 3,
+       "title": "Nicole Robinson",
+       "subtitle": "nicole_200687",
+       "url": "https://www.snapchat.com/@nicole_200687",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvWW1tSUZkY2JlZTNrZVl5bVlQbEpxP2JvPUVnMGFBQm9BTWdFRVNBSlFDR0FCJnVjPTg._RS0,90_FMpng",
+       "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=nicole_200687&type=SVG&bitmoji=enable",
+       "thumbnailType": 0,
+       "hasBadge": false,
+       "id": "3aa87ef8-4be7-409c-b915-293497d4c60c"
+      }
+     ],
+     "engagementStats": {
+      "viewCount": "524275",
+      "shareCount": "3620",
+      "commentCount": "0",
+      "boostCount": "42331",
+      "recommendCount": "1293"
+     },
+     "deeplink": "https://click.snapchat.com/aVHG?pid=snapchat_download_page&af_dp=https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYenFkeWVsYnNjAaADJMn1AaADJMnLAAAAAw&af_web_dp=https://snapchat.com/download?purpose%3Dweb_stories%26sp%3Dspotlight&af_ios_url=https://apps.apple.com/app/apple-store/id447188370?pt%3D614006%26ct%3Dspotlight%26mt%3D8",
+     "description": "",
+     "cuSignals": [
+      {
+       "signal": {
+        "$case": "textMetadata",
+        "textMetadata": {
+         "description": "Teenage girls enjoying fun moments together.",
+         "keywords": [
+          "friendship",
+          "teenage girls",
+          "fun times"
+         ]
+        }
+       }
+      },
+      {
+       "signal": {
+        "$case": "s2iTags",
+        "s2iTags": {
+         "tags": [],
+         "scoredTags": []
+        }
+       }
+      },
+      {
+       "signal": {
+        "$case": "detectedLanguage",
+        "detectedLanguage": {
+         "languageScores": [
+          {
+           "languageCode": "en",
+           "score": 0.599493682384491
+          }
+         ]
+        }
+       }
+      }
+     ],
+     "llmDescription": "Three young women, including Nicole Robinson, are seen dancing together in a basement living room. They move rhythmically to upbeat music, performing freestyle dance moves in casual attire. The scene captures a fun, energetic moment among friends.",
+     "llmKeywords": [],
+     "s2iTags": [],
+     "llmTitle": "Nicole Robinson and Friends Dance Freestyle in Basement",
+     "textMetadataKeywords": [
+      "friendship",
+      "teenage girls",
+      "fun times"
+     ]
+    },
+    "contentSource": "ssr_feed"
+   },
+   {
+    "story": {
+     "storyType": 15,
+     "snapList": [
+      {
+       "snapIndex": 0,
+       "snapId": {
+        "value": "W7_EDlXWTBiXAEEniNoMPwAAYZXltcHdpY2xqAaA9zQJYAaA9zM9lAAAAAQ"
+       },
+       "snapMediaType": 1,
+       "snapUrls": {
+        "mediaUrl": "https://bolt-gcdn.sc-cdn.net/y/LCsNDkfuSRSw0HzBPWJKz.27.IRZXSOY?mo=Gl0aCTIBeEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjq3UogATCcBDjAB0ABSg4KCVMjIiYoMCQmJRD0A1DYcmgCIgsSACoHSVJaWFNPWZAD2HI%3D&uc=46",
+        "mediaPreviewUrl": {
+         "value": "https://bolt-gcdn.sc-cdn.net/y/LCsNDkfuSRSw0HzBPWJKz.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+        },
+        "overlayUrl": null,
+        "attachmentUrl": null
+       },
+       "isSponsored": null,
+       "timestampInSec": {
+        "value": "1787743227"
+       },
+       "snapTitle": null,
+       "snapSubtitles": null,
+       "lat": null,
+       "lng": null,
+       "hasAttachment": null,
+       "intervalStartTimeMs": null,
+       "audioTranscriptionObjectUrl": null
+      }
+     ],
+     "storyId": {
+      "value": "W7_EDlXWTBiXAEEniNoMPwAAYZXltcHdpY2xqAaA9zQJYAaA9zM9lAAAAAQ"
+     },
+     "storyTitle": null,
+     "thumbnailUrl": {
+      "value": "https://bolt-gcdn.sc-cdn.net/y/LCsNDkfuSRSw0HzBPWJKz.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+     },
+     "storySubtitle": null,
+     "storyShareId": null,
+     "canonicalUrlSuffix": null,
+     "emoji": null,
+     "storyTapId": "-5230053518139456999",
+     "videoTrackUrl": null,
+     "highlightId": null,
+     "isAttributed": {
+      "value": true
+     },
+     "thumbnailTiles": []
+    },
+    "metadata": {
+     "videoMetadata": {
+      "name": "Spotlight Snap",
+      "description": "Another Spotlight Snap brought to you by Snapchat",
+      "thumbnailUrl": "https://bolt-gcdn.sc-cdn.net/y/LCsNDkfuSRSw0HzBPWJKz.256.IRZXSOY?mo=GkYaCTIBeEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "uploadDateMs": "1787743227749",
+      "viewCount": "964741",
+      "contentUrl": "https://bolt-gcdn.sc-cdn.net/y/LCsNDkfuSRSw0HzBPWJKz.27.IRZXSOY?mo=Gl0aCTIBeEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjq3UogATCcBDjAB0ABSg4KCVMjIiYoMCQmJRD0A1DYcmgCIgsSACoHSVJaWFNPWZAD2HI%3D&uc=46",
+      "creator": {
+       "$case": "personCreator",
+       "personCreator": {
+        "username": "rasha0a1",
+        "url": "https://www.snapchat.com/@rasha0a1",
+        "name": "SHKAR.BLLACK🐆",
+        "followerCount": "0",
+        "websiteUrl": ""
+       }
+      },
+      "durationMs": "14680",
+      "width": 540,
+      "height": 960,
+      "keywords": [],
+      "shareCount": "0",
+      "embeddedTextCaption": ""
+     },
+     "userMetadata": null,
+     "hashtags": [],
+     "contextCards": [
+      {
+       "contextType": 2,
+       "title": "Original Sound",
+       "subtitle": "rasha0a1",
+       "url": "",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/d/6YKRUxipwtyh6YMgtaJbK?bo=Eg0aABoAMgEESAJQCGAB&uc=8",
+       "snapcodeUrl": "",
+       "thumbnailType": 2,
+       "hasBadge": false,
+       "id": "117839454816"
+      },
+      {
+       "contextType": 3,
+       "title": "SHKAR.BLLACK🐆",
+       "subtitle": "rasha0a1",
+       "url": "https://www.snapchat.com/@rasha0a1",
+       "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvVzBsZ1RxV1dDTUVsQ1RlUWdFdWlmP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+       "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=rasha0a1&type=SVG&bitmoji=enable",
+       "thumbnailType": 0,
+       "hasBadge": false,
+       "id": "31f4c139-00ee-49c3-b4d5-fd4190bec5d7"
+      }
+     ],
+     "engagementStats": {
+      "viewCount": "964741",
+      "shareCount": "14415",
+      "commentCount": "697",
+      "boostCount": "22631",
+      "recommendCount": "3648"
+     },
+     "deeplink": "https://click.snapchat.com/aVHG?pid=snapchat_download_page&af_dp=https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZXltcHdpY2xqAaA9zQJYAaA9zM9lAAAAAQ&af_web_dp=https://snapchat.com/download?purpose%3Dweb_stories%26sp%3Dspotlight&af_ios_url=https://apps.apple.com/app/apple-store/id447188370?pt%3D614006%26ct%3Dspotlight%26mt%3D8",
+     "description": "",
+     "cuSignals": [
+      {
+       "signal": {
+        "$case": "textMetadata",
+        "textMetadata": {
+         "description": "Couple sharing affectionate moments together.",
+         "keywords": [
+          "couple",
+          "romance",
+          "love story"
+         ]
+        }
+       }
+      },
+      {
+       "signal": {
+        "$case": "detectedLanguage",
+        "detectedLanguage": {
+         "languageScores": [
+          {
+           "languageCode": "tr",
+           "score": 0.8622497320175171
+          }
+         ]
+        }
+       }
+      },
+      {
+       "signal": {
+        "$case": "detectedLanguage",
+        "detectedLanguage": {
+         "languageScores": [
+          {
+           "languageCode": "unk",
+           "score": 0
+          }
+         ]
+        }
+       }
+      }
+     ],
+     "llmDescription": "A couple shares a playful and intimate moment inside a car at night. The man, sporting tattoos, leans in close to the woman, who is smiling and laughing. They interact affectionately, with text overlays in Arabic appearing on screen. The scene is set to upbeat music, creating a lighthearted and romantic atmosphere.",
+     "llmKeywords": [
+      "dating tips for couples",
+      "how to flirt in car",
+      "simple date night ideas"
+     ],
+     "s2iTags": [],
+     "llmTitle": "Nighttime Car Romance & Texting Fun | SHKAR.BLLACK🐆",
+     "textMetadataKeywords": [
+      "couple",
+      "romance",
+      "love story"
+     ]
+    },
+    "contentSource": "ssr_feed"
+   }
+  ]
+ },
+ "restricted": false,
+ "videoMetadata": {
+  "name": "Spotlight Snap",
+  "description": "#MITB #WWERaw",
+  "thumbnailUrl": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+  "uploadDateMs": "1790045597017",
+  "viewCount": "9537",
+  "contentUrl": "https://cf-st.sc-cdn.net/d/CIC7Z2h3ctr7EGtsbtHS3.27.IRZXSOY?mo=GmYaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBPggbEi0KKwigy-gDIAEwnAQ4wAdAAUoUCg-5AV1xqQGYAYUBc4MBjgEQ9ANQmtoBaAIiCxIAKgdJUlpYU09ZkAOa2gE%3D&uc=46",
+  "creator": {
+   "$case": "personCreator",
+   "personCreator": {
+    "username": "wwe",
+    "url": "https://www.snapchat.com/@wwe",
+    "name": "WWE",
+    "followerCount": "0",
+    "websiteUrl": ""
+   }
+  },
+  "durationMs": "27930",
+  "width": 540,
+  "height": 960,
+  "keywords": [],
+  "shareCount": "0",
+  "embeddedTextCaption": ""
+ },
+ "isAttributed": true,
+ "encodedComments": "[{\"replyId\": {\"highBits\": \"13165312488468533182\", \"lowBits\": \"11545844533123289111\"}, \"snapPosterId\": {\"highBits\": \"8679238121483946301\", \"lowBits\": \"13418754629763367293\"}, \"snapId\": \"W7_EDlXWTBiXAEEniNoMPwAAYbnJwb2puY29iAaDHCDLvAaDHCC1ZAAAAAQ\", \"replyText\": \"was this last night?\", \"reactCounts\": [{\"reactTypeId\": \"1\", \"reactCount\": \"2\"}], \"reportCount\": \"0\", \"replyPosterId\": {\"highBits\": \"2807298119946423646\", \"lowBits\": \"12796039620403140645\"}, \"approvalState\": 3, \"replyTimestampMs\": \"1790076137674\", \"replyPosterDisplayName\": \"Jocelynn\\u271d\\ufe0f\\ud83c\\uddf2\\ud83c\\uddfd\\ud83c\\udde9\\ud83c\\uddea\", \"replyPosterBitmojiAvatarId\": \"106237397453_50-s5\", \"replyPosterBitmojiSelfieId\": \"10226681\", \"lastStateUpdateTsMs\": \"1790076137674\", \"threadedReplyCount\": \"2\", \"rankingScore\": 1250}, {\"replyId\": {\"highBits\": \"10471097046347498360\", \"lowBits\": \"9924339420845684015\"}, \"snapPosterId\": {\"highBits\": \"8679238121483946301\", \"lowBits\": \"13418754629763367293\"}, \"snapId\": \"W7_EDlXWTBiXAEEniNoMPwAAYbnJwb2puY29iAaDHCDLvAaDHCC1ZAAAAAQ\", \"replyText\": \"I'm glad penta won .\\ud83d\\ude4c\", \"reactCounts\": [{\"reactTypeId\": \"1\", \"reactCount\": \"2\"}], \"reportCount\": \"0\", \"replyPosterId\": {\"highBits\": \"1549549497369249252\", \"lowBits\": \"9391189540619872289\"}, \"approvalState\": 3, \"replyTimestampMs\": \"1790089966850\", \"replyPosterDisplayName\": \"Lucia\", \"replyPosterBitmojiAvatarId\": \"102991437151_1-s5\", \"replyPosterBitmojiSelfieId\": \"10226021\", \"lastStateUpdateTsMs\": \"1790089966850\", \"threadedReplyCount\": \"1\", \"rankingScore\": 1125}]",
+ "variant": "spotlight_snap",
+ "transcriptMap": {
+  "W7_EDlXWTBiXAEEniNoMPwAAYbnJwb2puY29iAaDHCDLvAaDHCC1ZAAAAAQ": {
+   "url": "https://bolt-gcdn.sc-cdn.net/3/ci79irAd6KcfZ10oTZc4f.vtt?bo=EgkyAX1IAlAuYAE%3D&uc=46",
+   "text": "WEBVTT\n\n00:00:00.000 --> 00:00:04.420\nLooking to bring Penta right into that corner. Oh, a reversal! That should be a\n\n00:00:04.420 --> 00:00:06.700\ndisqualification, Joe. Penta!\n\n00:00:08.480 --> 00:00:11.340\nSpringboard Mexican Destroyer!\n\n00:00:17.500 --> 00:00:20.240\nHere is your winner,\n\n00:00:21.380 --> 00:00:22.580\nPenta!\n\n00:00:23.940 --> 00:00:27.620\nHow can you not love everything about him?\n\n"
+  }
+ },
+ "locale": "en-US",
+ "isRerankEligible": true,
+ "rerankCandidateStories": [
+  {
+   "story": {
+    "storyType": 15,
+    "snapList": [
+     {
+      "snapIndex": 0,
+      "snapId": {
+       "value": "W7_EDlXWTBiXAEEniNoMPwAAYbWNrcHViYXN5AZ2doEhkAZ2dnZ_qAAAAAQ"
+      },
+      "snapMediaType": 1,
+      "snapUrls": {
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgj9p_EEIAEwnAQ4wAdAAUoPCgrkASIrMyAdRjYuEPQDUOyOBWgCIgsSACoHSVJaWFNPWZAD7I4F&uc=46",
+       "mediaPreviewUrl": {
+        "value": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "overlayUrl": null,
+       "attachmentUrl": null
+      },
+      "isSponsored": null,
+      "timestampInSec": {
+       "value": "1776465846"
+      },
+      "snapTitle": null,
+      "snapSubtitles": null,
+      "lat": null,
+      "lng": null,
+      "hasAttachment": null,
+      "intervalStartTimeMs": null,
+      "audioTranscriptionObjectUrl": null
+     }
+    ],
+    "storyId": {
+     "value": "W7_EDlXWTBiXAEEniNoMPwAAYbWNrcHViYXN5AZ2doEhkAZ2dnZ_qAAAAAQ"
+    },
+    "storyTitle": null,
+    "thumbnailUrl": {
+     "value": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+    },
+    "storySubtitle": null,
+    "storyShareId": null,
+    "canonicalUrlSuffix": null,
+    "emoji": null,
+    "storyTapId": "W7_EDlXWTBiXAEEniNoMPwAAYbWNrcHViYXN5AZ2doEhkAZ2dnZ_qAAAAAQ",
+    "videoTrackUrl": null,
+    "highlightId": null,
+    "isAttributed": {
+     "value": true
+    },
+    "thumbnailTiles": [
+     {
+      "tileType": 1,
+      "url": {
+       "value": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "tileId": null
+     },
+     {
+      "tileType": 2,
+      "url": {
+       "value": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "tileId": null
+     }
+    ]
+   },
+   "metadata": {
+    "videoMetadata": {
+     "name": "Spotlight Snap",
+     "description": "Another Spotlight Snap brought to you by Snapchat",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+     "uploadDateMs": "1776465846250",
+     "viewCount": "-1",
+     "contentUrl": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.27.IRZXSOY?mo=GmEaCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgj9p_EEIAEwnAQ4wAdAAUoPCgrkASIrMyAdRjYuEPQDUOyOBWgCIgsSACoHSVJaWFNPWZAD7I4F&uc=46",
+     "creator": {
+      "$case": "personCreator",
+      "personCreator": {
+       "username": "thejosephv",
+       "url": "https://www.snapchat.com/@thejosephv",
+       "name": "Joe Vulpis",
+       "followerCount": "0",
+       "websiteUrl": ""
+      }
+     },
+     "durationMs": "83820",
+     "width": 540,
+     "height": 960,
+     "keywords": [
+      "wrestling commentary"
+     ],
+     "shareCount": "0",
+     "embeddedTextCaption": ""
+    },
+    "userMetadata": {
+     "username": "thejosephv",
+     "displayName": "Joe Vulpis",
+     "emoji": "",
+     "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNDBWN2lCMk5lcjFmbFBwbFBEaURvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+     "hasBadge": true
+    },
+    "hashtags": [],
+    "contextCards": [
+     {
+      "contextType": 3,
+      "title": "Joe Vulpis",
+      "subtitle": "thejosephv",
+      "url": "https://www.snapchat.com/@thejosephv",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvNDBWN2lCMk5lcjFmbFBwbFBEaURvP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+      "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=thejosephv&type=SVG&bitmoji=enable",
+      "thumbnailType": 1,
+      "hasBadge": true,
+      "id": ""
+     }
+    ],
+    "engagementStats": {
+     "viewCount": "-1",
+     "shareCount": "0",
+     "commentCount": "0",
+     "boostCount": "7",
+     "recommendCount": "0"
+    },
+    "deeplink": "",
+    "description": "",
+    "llmDescription": "In this intense wrestling analysis, Joe Vulpis dives into the upcoming showdown between Rey Mysterio and Rusev. He shares his predictions, discusses past rivalries, and breaks down why he believes one wrestler has the edge over the other.",
+    "llmTitle": "Joe Vulpis Breaks Down Mysterio vs. Rusev: Who Wins?",
+    "llmKeywords": [
+     "wrestling commentary"
+    ],
+    "s2iTags": [
+     "Joe Rogan"
+    ]
+   },
+   "contentSource": "rerank",
+   "upNextThumbnailUrl": "https://cf-st.sc-cdn.net/d/V5R7dPQSiPv8VOsomUq5D.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+  },
+  {
+   "story": {
+    "storyType": 15,
+    "snapList": [
+     {
+      "snapIndex": 0,
+      "snapId": {
+       "value": "W7_EDlXWTBiXAEEniNoMPwAAYc2JwZmdwZHF0AaASJ4SqAaASJx7sAAAAAw"
+      },
+      "snapMediaType": 1,
+      "snapUrls": {
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwiAzDcgATCcBDjAB0ABSg4KCUsoNkc9MCs5NBD0A1CuOmgCIgsSACoHSVJaWFNPWZADrjo%3D&uc=46",
+       "mediaPreviewUrl": {
+        "value": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "overlayUrl": null,
+       "attachmentUrl": null
+      },
+      "isSponsored": null,
+      "timestampInSec": {
+       "value": "1787010948"
+      },
+      "snapTitle": null,
+      "snapSubtitles": null,
+      "lat": null,
+      "lng": null,
+      "hasAttachment": null,
+      "intervalStartTimeMs": null,
+      "audioTranscriptionObjectUrl": null
+     }
+    ],
+    "storyId": {
+     "value": "W7_EDlXWTBiXAEEniNoMPwAAYc2JwZmdwZHF0AaASJ4SqAaASJx7sAAAAAw"
+    },
+    "storyTitle": null,
+    "thumbnailUrl": {
+     "value": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+    },
+    "storySubtitle": null,
+    "storyShareId": null,
+    "canonicalUrlSuffix": null,
+    "emoji": null,
+    "storyTapId": "W7_EDlXWTBiXAEEniNoMPwAAYc2JwZmdwZHF0AaASJ4SqAaASJx7sAAAAAw",
+    "videoTrackUrl": null,
+    "highlightId": null,
+    "isAttributed": {
+     "value": true
+    },
+    "thumbnailTiles": [
+     {
+      "tileType": 1,
+      "url": {
+       "value": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "tileId": null
+     },
+     {
+      "tileType": 2,
+      "url": {
+       "value": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "tileId": null
+     }
+    ]
+   },
+   "metadata": {
+    "videoMetadata": {
+     "name": "Spotlight Snap",
+     "description": "Another Spotlight Snap brought to you by Snapchat",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+     "uploadDateMs": "1787010948844",
+     "viewCount": "48176",
+     "contentUrl": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwiAzDcgATCcBDjAB0ABSg4KCUsoNkc9MCs5NBD0A1CuOmgCIgsSACoHSVJaWFNPWZADrjo%3D&uc=46",
+     "creator": {
+      "$case": "personCreator",
+      "personCreator": {
+       "username": "lolischula2024",
+       "url": "https://www.snapchat.com/@lolischula2024",
+       "name": "Lolischula Hernandez",
+       "followerCount": "0",
+       "websiteUrl": ""
+      }
+     },
+     "durationMs": "7470",
+     "width": 540,
+     "height": 960,
+     "keywords": [
+      "How to be funny on social media",
+      "How to get more views on social media",
+      "Social media engagement tips"
+     ],
+     "shareCount": "69",
+     "embeddedTextCaption": ""
+    },
+    "userMetadata": {
+     "username": "lolischula2024",
+     "displayName": "Lolischula Hernandez",
+     "emoji": "",
+     "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveE91Mk13bEZMNjkxMUEzam10WFJ4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+     "hasBadge": false
+    },
+    "hashtags": [],
+    "contextCards": [
+     {
+      "contextType": 3,
+      "title": "Lolischula Hernandez",
+      "subtitle": "lolischula2024",
+      "url": "https://www.snapchat.com/@lolischula2024",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QveE91Mk13bEZMNjkxMUEzam10WFJ4P2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+      "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=lolischula2024&type=SVG&bitmoji=enable",
+      "thumbnailType": 1,
+      "hasBadge": false,
+      "id": ""
+     }
+    ],
+    "engagementStats": {
+     "viewCount": "48176",
+     "shareCount": "69",
+     "commentCount": "27",
+     "boostCount": "1087",
+     "recommendCount": "0"
+    },
+    "deeplink": "",
+    "description": "",
+    "llmDescription": "In this lighthearted social media clip, creator Lolischula Hernandez invites viewers to check her profile to see if she's 'Fea' (ugly). She playfully reveals that if they do, they'll find out she's 'loca' (crazy) too, all while standing in a scenic field under a clear blue sky. It's a fun, interactive moment showcasing her personality.",
+    "llmTitle": "Lolischula Hernandez Shares Her Playful Side in This Fun Social Media Challenge",
+    "llmKeywords": [
+     "How to be funny on social media",
+     "How to get more views on social media",
+     "Social media engagement tips"
+    ],
+    "s2iTags": []
+   },
+   "contentSource": "rerank",
+   "upNextThumbnailUrl": "https://cf-st.sc-cdn.net/d/gIB9bCp1ziX0Iv719vvl7.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+  },
+  {
+   "story": {
+    "storyType": 15,
+    "snapList": [
+     {
+      "snapIndex": 0,
+      "snapId": {
+       "value": "W7_EDlXWTBiXAEEniNoMPwAAYYXh2YXFsb2xsAaCh5qlIAaCh5pudAAAAAQ"
+      },
+      "snapMediaType": 1,
+      "snapUrls": {
+       "mediaUrl": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjvmUsgATCcBDjAB0ABSg4KCVofFyU6RU1pUxD0A1DCRGgCIgsSACoHSVJaWFNPWZADwkQ%3D&uc=46",
+       "mediaPreviewUrl": {
+        "value": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+       },
+       "overlayUrl": null,
+       "attachmentUrl": null
+      },
+      "isSponsored": null,
+      "timestampInSec": {
+       "value": "1789422640"
+      },
+      "snapTitle": null,
+      "snapSubtitles": null,
+      "lat": null,
+      "lng": null,
+      "hasAttachment": null,
+      "intervalStartTimeMs": null,
+      "audioTranscriptionObjectUrl": null
+     }
+    ],
+    "storyId": {
+     "value": "W7_EDlXWTBiXAEEniNoMPwAAYYXh2YXFsb2xsAaCh5qlIAaCh5pudAAAAAQ"
+    },
+    "storyTitle": null,
+    "thumbnailUrl": {
+     "value": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+    },
+    "storySubtitle": null,
+    "storyShareId": null,
+    "canonicalUrlSuffix": null,
+    "emoji": null,
+    "storyTapId": "W7_EDlXWTBiXAEEniNoMPwAAYYXh2YXFsb2xsAaCh5qlIAaCh5pudAAAAAQ",
+    "videoTrackUrl": null,
+    "highlightId": null,
+    "isAttributed": {
+     "value": true
+    },
+    "thumbnailTiles": [
+     {
+      "tileType": 2,
+      "url": {
+       "value": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "tileId": {
+       "value": "W7_EDlXWTBiXAEEniNoMPwAAYcWNoaXd0ZGx4AaCh5x3aAaCh5x3aAAAAAQ"
+      }
+     },
+     {
+      "tileType": 1,
+      "url": {
+       "value": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+      },
+      "tileId": {
+       "value": "W7_EDlXWTBiXAEEniNoMPwAAYdmdwdGJndW5jAaCh6NxHAaCh6NxHAAAAAQ"
+      }
+     }
+    ]
+   },
+   "metadata": {
+    "videoMetadata": {
+     "name": "Spotlight Snap",
+     "description": "Another Spotlight Snap brought to you by Snapchat",
+     "thumbnailUrl": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.256.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVCgAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+     "uploadDateMs": "1789422640029",
+     "viewCount": "1181",
+     "contentUrl": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.27.IRZXSOY?mo=Gl0aCTIBBEgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNggbEiUKIwjvmUsgATCcBDjAB0ABSg4KCVofFyU6RU1pUxD0A1DCRGgCIgsSACoHSVJaWFNPWZADwkQ%3D&uc=46",
+     "creator": {
+      "$case": "personCreator",
+      "personCreator": {
+       "username": "freddyortizlol",
+       "url": "https://www.snapchat.com/@freddyortizlol",
+       "name": "Freddy Ortiz",
+       "followerCount": "0",
+       "websiteUrl": ""
+      }
+     },
+     "durationMs": "8770",
+     "width": 540,
+     "height": 960,
+     "keywords": [],
+     "shareCount": "7",
+     "embeddedTextCaption": ""
+    },
+    "userMetadata": {
+     "username": "freddyortizlol",
+     "displayName": "Freddy Ortiz",
+     "emoji": "",
+     "profilePictureUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcmprdFlsMmpzdzU0eUZBYnJyNnJKP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+     "hasBadge": true
+    },
+    "hashtags": [],
+    "contextCards": [
+     {
+      "contextType": 3,
+      "title": "Freddy Ortiz",
+      "subtitle": "freddyortizlol",
+      "url": "https://www.snapchat.com/@freddyortizlol",
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvcmprdFlsMmpzdzU0eUZBYnJyNnJKP2JvPUVna3lBUVJJQWxBWllBRSUzRCZ1Yz0yNQ._RS0,640_FMjpeg",
+      "snapcodeUrl": "https://app.snapchat.com/web/deeplink/snapcode?username=freddyortizlol&type=SVG&bitmoji=enable",
+      "thumbnailType": 1,
+      "hasBadge": true,
+      "id": ""
+     }
+    ],
+    "engagementStats": {
+     "viewCount": "1181",
+     "shareCount": "7",
+     "commentCount": "2",
+     "boostCount": "146",
+     "recommendCount": "0"
+    },
+    "deeplink": "",
+    "description": "",
+    "llmDescription": "This comedic skit features Freddy Ortiz portraying a student who is completely distracted from his teacher's lesson, choosing instead to play an intense first-person shooter game on his school computer. The video humorously contrasts the student's intense focus on the game with the importance of the classroom topic.",
+    "llmTitle": "Freddy Ortiz Parody: Brother's School Game vs. Teacher's Lecture",
+    "llmKeywords": [],
+    "s2iTags": []
+   },
+   "contentSource": "rerank",
+   "upNextThumbnailUrl": "https://cf-st.sc-cdn.net/d/7gmET2cFd4EQHUNWQCqur.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46"
+  }
+ ],
+ "referrer": "internal",
+ "isAppClipCardEnabled": false
+}
