@@ -1,0 +1,71 @@
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://www.snapchat.com/entertainment/funny",
+  "name": "Funny Videos on Snapchat",
+  "url": "https://www.snapchat.com/entertainment/funny",
+  "description": "Browse every funny topic on Snapchat Spotlight — memes, pranks, fails, animal clips, comedy skits and more. Pick a topic to watch the best funny videos.",
+  "isFamilyFriendly": true,
+  "publisher": {
+   "@type": "Organization",
+   "name": "Snapchat",
+   "url": "https://www.snapchat.com"
+  },
+  "mainEntity": {
+   "@type": "ItemList",
+   "@id": "https://www.snapchat.com/entertainment/funny#items",
+   "name": "Funny Videos on Snapchat",
+   "numberOfItems": 216,
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "animal comedy clips",
+     "item": "https://www.snapchat.com/entertainment/funny/animal-comedy-clips"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "animal humor",
+     "item": "https://www.snapchat.com/entertainment/funny/animal-humor"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "animal memes",
+     "item": "https://www.snapchat.com/entertainment/funny/animal-memes"
+    }
+   ]
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+   {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Snapchat",
+    "item": {
+     "@type": "WebPage",
+     "@id": "https://www.snapchat.com/"
+    }
+   },
+   {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Entertainment",
+    "item": {
+     "@type": "WebPage",
+     "@id": "https://www.snapchat.com/entertainment"
+    }
+   },
+   {
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Funny"
+   }
+  ]
+ }
+]

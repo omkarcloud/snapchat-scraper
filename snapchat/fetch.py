@@ -21,8 +21,9 @@ Upstream surfaces (all anonymous):
     (`/lens`, basePath /lens), the search app (`/explore/<q>`) and the
     discover app. `locale` is picked by geo-IP (an Indian exit gets Hindi
     strings) and Accept-Language is ignored — `?locale=en-US` is what
-    fixes the language. `/topic/<slug>` is an App Router page with no
-    __NEXT_DATA__: its data is the ld+json ItemList (ld_json()).
+    fixes the language. `/topic/<slug>` and (since 2026-10-06)
+    `/entertainment/funny[/<keyword>]` are App Router pages with no
+    __NEXT_DATA__: their data is the ld+json ItemList (ld_json()).
 
   * JSON   GET https://www.snapchat.com/_next/data/<buildId>/<path>.json
     The same pageProps as JSON for the spotlight app (`/@user/spotlight/
@@ -50,6 +51,7 @@ Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
   SnapchatNotFound       unknown user / snap / tag / lens…   — never retried
 """
 import json
+import fastjson
 import os
 import re
 import sys
@@ -62,9 +64,12 @@ from urllib.parse import quote, urlencode
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
+import egress
+import identity_pool
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 
 from . import proto
+from scraper_utils import debug, fanout, sessions
 
 SITE = "https://www.snapchat.com"
 GRAPHQL_URL = SITE + "/api/web-stories-api/graphql"
@@ -85,7 +90,6 @@ REPLIES_VIEWER = {1: ("fixed64", 328159700207617257), 2: ("fixed64", 95582301718
 
 PAGE_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9",
     "sec-fetch-dest": "document",
     "sec-fetch-mode": "navigate",
     "sec-fetch-site": "none",
@@ -93,7 +97,6 @@ PAGE_HEADERS = {
 }
 JSON_HEADERS = {
     "accept": "*/*",
-    "accept-language": "en-US,en;q=0.9",
     "origin": SITE,
     "referer": SITE + "/",
     "sec-fetch-dest": "empty",
@@ -154,6 +157,7 @@ def _session(country=None):
             proxy = config.snapchat_proxy() or (config.snapchat_fallback_proxy() if via_fallback else None)
         if proxy:
             sess.proxies = {"http": proxy, "https": proxy}
+        sess.headers["accept-language"] = egress.accept_language(proxy)   # the exit's language
         sess._sc_fallback = via_fallback
         store[key] = sess
     return sess
@@ -162,11 +166,7 @@ def _session(country=None):
 def _drop_session(country=None):
     store = _sessions()
     sess = store.pop((country or "").lower(), None)
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.close_quietly(sess)
 
 
 def _escalate(country=None):
@@ -180,14 +180,7 @@ def _escalate(country=None):
 
 def dump_debug(name, text):
     """Write a raw response to $SNAPCHAT_DEBUG_DIR/<name>.txt."""
-    dbg = os.environ.get("SNAPCHAT_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w") as f:
-                f.write(text if isinstance(text, str) else repr(text))
-        except OSError:
-            pass
+    debug.dump("SNAPCHAT_DEBUG_DIR", name, text, render=repr)
 
 
 def _retrying(fn, country=None):
@@ -262,7 +255,7 @@ def next_data_from_html(html, label):
         dump_debug(f"nonext_{label}", html)
         raise SnapchatUpstreamError(f"{label}: no __NEXT_DATA__ in page")
     try:
-        return json.loads(match.group(1))
+        return fastjson.loads(match.group(1))
     except ValueError:
         dump_debug(f"badnext_{label}", html)
         raise SnapchatUpstreamError(f"{label}: could not parse __NEXT_DATA__")
@@ -288,34 +281,47 @@ def ld_json(path, *, label, params=None, locale=None, country=None):
     out = []
     for raw in _LD_JSON_RE.findall(html):
         try:
-            out.append(json.loads(raw))
+            out.append(fastjson.loads(raw))
         except ValueError:
             continue
     return out, html
 
 
 # ---- _next/data JSON routes ---------------------------------------------------------
-# buildId per Next app, learned from a page of that app and refreshed on 404.
-_build_lock = threading.Lock()
-_build_ids = {}
+# buildId per Next app (pool key = app), learned from a page of that app and
+# refreshed on 404. A shared identity_pool replaced the `_build_ids` dict +
+# lock on 2026-11-09: a 404 wave costs ONE home-page read per app (the other
+# threads get the winner's buildId) and at most one per
+# BUILD_ID_REFRESH_INTERVAL - a 404 on a freshly learned buildId is a real
+# not-found, not a deploy.
 APP_HOME = {
     "spotlight": ("/spotlight", ""),        # www root app: /spotlight, /tag, /p, /place
     "lens": ("/lens", "/lens"),             # lens app, basePath /lens
 }
+BUILD_ID_REFRESH_INTERVAL = 60   # seconds between two home-page re-reads per app
 
 
-def build_id(app, refresh=False):
-    with _build_lock:
-        if not refresh and _build_ids.get(app):
-            return _build_ids[app]
+def _mint_build_id(app, hint):
+    """The pool's mint: the buildId printed in `app`'s home page. Raises
+    SnapchatUpstreamError (and get_page's own errors) when it cannot."""
     home, _ = APP_HOME[app]
     _, doc, _ = get_page(home, label=f"{app} home")
     value = doc.get("buildId")
     if not value:
         raise SnapchatUpstreamError(f"{app} home page carries no buildId")
-    with _build_lock:
-        _build_ids[app] = value
     return value
+
+
+_build_ids = identity_pool.Pool("snapchat-build-id", _mint_build_id, min_interval=BUILD_ID_REFRESH_INTERVAL)
+
+
+def build_id(app, refresh=False):
+    """The current buildId of `app`; refresh=True after a 404 asks the pool
+    to replace it (throttled: inside the interval the same id comes back)."""
+    ident = _build_ids.get(app)
+    if refresh:
+        ident = _build_ids.get(app, replace=ident)
+    return ident.value
 
 
 def next_data(app, path, *, label, params=None, locale=None, country=None):
@@ -341,19 +347,21 @@ def next_data(app, path, *, label, params=None, locale=None, country=None):
                 dump_debug(f"nonjson_{label}", text)
                 raise SnapchatBlocked(f"{label} returned a non-JSON body")
             try:
-                return json.loads(text)
+                return fastjson.loads(text)
             except ValueError:
                 dump_debug(f"badjson_{label}", text)
                 raise SnapchatUpstreamError(f"{label}: could not parse JSON")
 
         return _retrying(once, country)
 
-    build = build_id(app)
-    doc = fetch(build)
+    used = _build_ids.get(app)
+    doc = fetch(used.value)
     if doc is None:
-        fresh = build_id(app, refresh=True)
-        if fresh != build:
-            doc = fetch(fresh)
+        # one re-read per 404 wave; a thread that lost the race gets the
+        # winner's buildId, and inside the interval the same one comes back
+        fresh = _build_ids.get(app, replace=used)
+        if fresh.value != used.value:
+            doc = fetch(fresh.value)
     if doc is None:
         raise SnapchatNotFound(f"{label} not found")
     props = doc.get("pageProps") if isinstance(doc, dict) else None
@@ -381,7 +389,7 @@ def _json_post(url, body, *, label, headers=None, country=None):
                 raise SnapchatBadRequest(f"snapchat rejected {label}")
             raise SnapchatBlocked(f"{label} returned a non-JSON body")
         try:
-            payload = json.loads(text)
+            payload = fastjson.loads(text)
         except ValueError:
             dump_debug(f"badjson_{label}", text)
             raise SnapchatUpstreamError(f"{label}: could not parse JSON")
@@ -468,13 +476,7 @@ def get_replies(snap_id, cursor=None, parent_id=None, *, country_code="US", coun
 def run_parallel(fns):
     """Run zero-arg callables in parallel; results align with `fns`.
     Exceptions propagate from the first failing call."""
-    if not fns:
-        return []
-    if len(fns) == 1:
-        return [fns[0]()]
-    with ThreadPoolExecutor(max_workers=min(FANOUT_WORKERS, len(fns))) as ex:
-        futures = [ex.submit(fn) for fn in fns]
-        return [f.result() for f in futures]
+    return fanout.per_call(fns, FANOUT_WORKERS)
 
 
 def snapcode_link(username, fmt="SVG", bitmoji=True, size=None):

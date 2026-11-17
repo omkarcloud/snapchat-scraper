@@ -9,13 +9,14 @@ the Discover feed.
   tag      `/tag/<tag>` JSON: ~32 internal story cards, no paging.
   topic    `/topic/<slug>`: an App Router page; 18 VideoObjects in its
            ld+json plus ~78 related topic links.
-  funny    `/entertainment/funny[/<keyword>]`: 216 curated comedy keywords,
-           each with 20 story cards.
+  funny    `/entertainment/funny[/<keyword>]`: 216 curated comedy keywords
+           (ld+json ItemList), each an App Router page whose 18 VideoObjects
+           are hydrated into story cards through fetchSpotlight.
   discover GraphQL discoverFeed: publisher shows + public user stories,
            paged by echoing seen tap ids.
 """
 from . import parsers as P, queries, refs
-from .fetch import get_page, graphql, ld_json, next_data, quote_path
+from .fetch import fetch_spotlights, get_page, graphql, ld_json, next_data, quote_path
 
 
 def explore(query, country=None, locale="en-US"):
@@ -70,13 +71,19 @@ def get_topic(topic):
 
 
 def get_funny(keyword=None):
+    # 2026-10-06: both funny pages moved to the App Router (no __NEXT_DATA__,
+    # "no __NEXT_DATA__ in page" 502s). Like /topic/, their data is ld+json;
+    # a keyword page lists 18 VideoObjects whose ids fetchSpotlight (<= 31)
+    # hydrates into the same story cards the old pageProps carried.
     if not keyword:
-        props, _, _ = get_page("/entertainment/funny", label="funny keywords")
-        keywords = [P.funny_keyword(i) for i in props.get("items") or [] if isinstance(i, dict)]
+        objects, _ = ld_json("/entertainment/funny", label="funny keywords")
+        keywords = P.funny_keywords(objects)
         return {"keyword_count": len(keywords), "keywords": keywords}
     slug = refs.slugify(keyword)
-    props, _, _ = get_page(f"/entertainment/funny/{slug}", label=f"funny {slug}")
-    return P.funny_page(props)
+    objects, html = ld_json(f"/entertainment/funny/{slug}", label=f"funny {slug}")
+    ids = P.ld_spotlight_ids(objects)[:31]
+    entries = fetch_spotlights(ids) if ids else []
+    return P.funny_page(objects, html, slug, entries)
 
 
 def get_discover_feed(country="US", locale="en-US", limit=30, cursor=None):

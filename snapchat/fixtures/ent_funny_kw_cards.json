@@ -1,0 +1,1102 @@
+[
+ {
+  "storyCard": {
+   "storyId": "35::W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+    "version": "0"
+   },
+   "storyIdFp": "0",
+   "storyDedupeFp": "0",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "contentToken": {},
+   "adOrganicSignals": {},
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+       "snapClientId": "D9032351-F283-4518-84E1-60BB90D4FAEE",
+       "sharedStorySubmissionId": "",
+       "originalSnapId": "",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://bolt-gcdn.sc-cdn.net/3/XkMmj8lBjhvYRAFVkwOWH?bo=EgkyAX1IAlAuYAE%3D&uc=46",
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+        "mediaIv": "",
+        "mediaKey": "",
+        "isZipped": false,
+        "duration": 54.92,
+        "isInfiniteDuration": true,
+        "snapBoltInfo": {
+         "mediaContentObject": {},
+         "overlayContentObject": {},
+         "rawContentObject": {},
+         "zippedContentObject": {},
+         "audioTranscriptionObject": {},
+         "audioTranscriptionContentObject": {}
+        },
+        "mediaD2sUrl": "",
+        "firstFrameContentObject": {},
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgikz84DIAEwnAQ4wgdAAUoPCgrQAVJUTFBfPVFJEPQDUIitA2gCIgsSACoHSVJaWFNPWZADiK0D&uc=46",
+        "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.1034.IRZXSOY?mo=Gk0aCTIBBEgCUC5gAaIBOgiKCBIoCiYIu57LAiABMOADONgGQAFKDwoKrQE7PDY4RjA9NxD0A1CIrQNoAiILEgAqB0lSWlhTT1mQA4itAw%3D%3D&uc=46",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 540,
+         "height": 962
+        }
+       },
+       "creationTimestampMs": "1749910488644",
+       "sourceCreationTimestamp": "1749860285000",
+       "expirationTimestampMs": "4903510488644",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "clientInfo": {
+          "$case": "unencryptedClientInfo",
+          "unencryptedClientInfo": {
+           "mentionedUsernames": [],
+           "mentionedUserIds": [],
+           "groupInvites": [],
+           "snapReplyRequests": [],
+           "gameIds": [],
+           "storyInvites": [],
+           "publisherId": "0",
+           "attachedTopicStickers": [],
+           "mentionSources": [],
+           "mentionTextRanges": [],
+           "apps": [],
+           "cameos": [],
+           "musicTrack": {
+            "trackId": "135769573671",
+            "contentRestrictions": {
+             "countryRestriction": {
+              "$case": "countryBlocklist",
+              "countryBlocklist": {
+               "countryCodes": []
+              }
+             }
+            },
+            "type": 0,
+            "startOffsetSeconds": 0,
+            "isSoundSync": false,
+            "musicStickerStyle": ""
+           },
+           "legacyTappableElements": [],
+           "creativetoolsStickers": [],
+           "hashtags": [],
+           "remixSettingsInfo": {
+            "userDisabledMentionRemixing": false,
+            "userDisabledRemixing": false
+           },
+           "pollInfo": [],
+           "isCheeriosVideo": false,
+           "ctItemInstance": [
+            {
+             "ctpId": {},
+             "item": {
+              "id": {},
+              "entity": {
+               "entityOneof": {
+                "$case": "captionStyles",
+                "captionStyles": {
+                 "captionStyles": [
+                  {
+                   "styleName": "Classic",
+                   "displayName": "Classic",
+                   "fontStyle": {
+                    "fontName": "Helvetica",
+                    "fontUrl": "",
+                    "fontColor": {
+                     "color": [],
+                     "colorStop": [],
+                     "colorTransform": 0,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "borderColor": {
+                     "color": [],
+                     "colorStop": [],
+                     "colorTransform": 0,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "letterSpacing": 0,
+                    "lineHeight": 0,
+                    "fontSize": 17,
+                    "fontBorderWidth": 0,
+                    "textTransform": 0,
+                    "textShadow": [],
+                    "textDecoration": 0,
+                    "textAlign": 2,
+                    "padding": {
+                     "top": 0,
+                     "left": 0,
+                     "right": 0,
+                     "bottom": 0
+                    },
+                    "minFontSize": 17,
+                    "mediaContent": {
+                     "thumbnailUrl": "",
+                     "contentUrl": "",
+                     "thumbnailBoltObject": {},
+                     "contentBoltObject": {}
+                    }
+                   },
+                   "colorChangeable": true,
+                   "baseColor": "FFFFFFFF",
+                   "isWifiOnly": false,
+                   "styleType": 4
+                  },
+                  {
+                   "styleName": "Classic-Outline",
+                   "displayName": "Classic",
+                   "fontStyle": {
+                    "fontName": "Helvetica-Bold",
+                    "fontUrl": "",
+                    "fontColor": {
+                     "color": [
+                      "FF000000"
+                     ],
+                     "colorStop": [],
+                     "colorTransform": 1,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "borderColor": {
+                     "color": [
+                      "FFFFFFFF"
+                     ],
+                     "colorStop": [],
+                     "colorTransform": 3,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": [
+                      0,
+                      0,
+                      0,
+                      0
+                     ]
+                    },
+                    "letterSpacing": 1,
+                    "lineHeight": 1.100000023841858,
+                    "fontSize": 38,
+                    "fontBorderWidth": 1,
+                    "textTransform": 0,
+                    "textShadow": [],
+                    "textDecoration": 0,
+                    "textAlign": 2,
+                    "padding": {
+                     "top": 0,
+                     "left": 0,
+                     "right": 0,
+                     "bottom": 0
+                    },
+                    "minFontSize": 13,
+                    "mediaContent": {
+                     "thumbnailUrl": "",
+                     "contentUrl": "",
+                     "thumbnailBoltObject": {},
+                     "contentBoltObject": {}
+                    }
+                   },
+                   "colorChangeable": true,
+                   "baseColor": "FF000000",
+                   "isWifiOnly": false,
+                   "styleType": 6
+                  }
+                 ],
+                 "captionStyleId": "0"
+                }
+               }
+              },
+              "ctId": "0",
+              "associatedIds": [],
+              "syncSensitivity": 0
+             },
+             "metadata": {
+              "metadataType": {
+               "$case": "captionStyleMetadata",
+               "captionStyleMetadata": {
+                "text": "Why I Don’t Yawn In Public 🥱😂",
+                "displayFontSize": 17,
+                "placeIds": [],
+                "textAlignment": 1,
+                "color": "",
+                "appliedStyleName": "Classic",
+                "mentions": [],
+                "colorRanges": [
+                 {
+                  "color": "FFFFFF",
+                  "range": {
+                   "location": "0",
+                   "length": "31"
+                  }
+                 }
+                ],
+                "styleRanges": [
+                 {
+                  "isBold": false,
+                  "isUnderlined": false,
+                  "isItalicized": false,
+                  "range": {
+                   "location": "0",
+                   "length": "27"
+                  }
+                 },
+                 {
+                  "isBold": false,
+                  "isUnderlined": false,
+                  "isItalicized": false,
+                  "range": {
+                   "location": "27",
+                   "length": "4"
+                  }
+                 }
+                ],
+                "editingFontSize": 17,
+                "isMagicCaption": false,
+                "generatedMagicCaptionText": "",
+                "backgroundType": 0
+               }
+              }
+             }
+            }
+           ],
+           "audioMix": [],
+           "isQuickCutSnap": false
+          }
+         },
+         "hint": 0,
+         "timestamp": "0",
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "4f621b93-abc0-4ab8-b315-cd972728e5e8",
+        "userName": "tonysnaps",
+        "displayName": "TonyTalks",
+        "followerCount": "0",
+        "snapproTier": 0
+       },
+       "attachmentUrl": "",
+       "audioStitchData": {},
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "serializedUnlockablesSnapInfo": {},
+       "lensId": "",
+       "lensMetadata": {},
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "Why I Don’t Yawn In Public 🥱😂",
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [
+        2
+       ],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "eventSignature": {},
+       "isStitchedMedia": false,
+       "connectionType": 0,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "attributionStatus": 0,
+       "scanOnPublicContentEnabled": false,
+       "garmBrandSafety": 1,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [
+        {
+         "origin": {
+          "$case": "mediaOriginExternalStorage",
+          "mediaOriginExternalStorage": {
+           "creationTimestamp": "0",
+           "mediaSource": 0,
+           "originalLocalIds": []
+          }
+         }
+        }
+       ],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "contentCategories": []
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "thumbnailIv": "",
+      "mediaKey": "",
+      "mediaId": "",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/XkMmj8lBjhvYRAFVkwOWH.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "",
+        "mediaKey": "",
+        "mediaIv": ""
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "TonyTalks",
+      "businessProfileId": "2cbcd7ac-e114-41dc-8c57-c0678a907669",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 5
+     },
+     "engagementStats": {
+      "boostCount": "8707",
+      "shareCount": "276",
+      "viewCount": "42301",
+      "subCount": "-1",
+      "spotlightPendingReplyCount": "0",
+      "spotlightLiveReplyCount": "191",
+      "spotlightNewPendingReplyCount": "0",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "0",
+      "liveCommentCount": "191",
+      "newPendingCommentCount": "0",
+      "recommendCount": "664",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "isSharingDisabled": false,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "jaguarClientLogging": {
+    "creatorId": "",
+    "tileLoggingKey": "ae136d751de99230148746f96b594b6a",
+    "isBoostedStory": false,
+    "tapStoryKey": "0",
+    "impressionLoggingExtension": {},
+    "actionLoggingExtension": {},
+    "viewSessionLoggingExtension": {},
+    "commonLoggingExtension": {},
+    "variantLoggingKey": "",
+    "explorationSource": 1
+   },
+   "score": 0,
+   "rankShouldBeFixed": false,
+   "notModerated": true,
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "isPlaceholder": false,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "friendStoryModelHeadScores": [],
+   "scoringModelId": ""
+  },
+  "context": {
+   "spotlightCards": [],
+   "hashtags": [],
+   "attributionInfo": {
+    "info": {
+     "$case": "user",
+     "user": {
+      "id": "4f621b93-abc0-4ab8-b315-cd972728e5e8",
+      "username": "tonysnaps",
+      "displayName": "TonyTalks",
+      "businessProfileId": "2cbcd7ac-e114-41dc-8c57-c0678a907669",
+      "isOfficial": true,
+      "bitmoji": {
+       "avatarId": "219342257_8-s5",
+       "selfieId": "10226428"
+      },
+      "snapProIdentity": {
+       "id": "2cbcd7ac-e114-41dc-8c57-c0678a907669",
+       "logo": {
+        "logoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvM3ExNlVXTGRKOFBDdXdpZDJ5VEpFP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMpng",
+        "isDefault": false
+       }
+      }
+     }
+    },
+    "title": "TonyTalks",
+    "action": {
+     "metric": {
+      "actionType": "openedOurStoryCreatorProfile",
+      "actionId": "4f621b93-abc0-4ab8-b315-cd972728e5e8",
+      "cardDataType": 21
+     },
+     "action": {
+      "$case": "unifiedPublicProfileAction",
+      "unifiedPublicProfileAction": {
+       "route": {
+        "$case": "unifiedPublicProfileRoute",
+        "unifiedPublicProfileRoute": {
+         "profileId": {
+          "highBits": "3223688570800980444",
+          "lowBits": "10112763039222625897"
+         },
+         "hostAccountUserId": {
+          "highBits": "5720164797769599672",
+          "lowBits": "12904446356380771816"
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "snapId": "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ"
+  },
+  "cuSignals": {
+   "llmDescription": "In this comedic skit, TonyTalks showcases his talent for impersonation and transformation. He begins by mimicking a dramatic character in a fur coat, then switches to a 'cool' persona in a tan coat and gloves. The prank culminates in a surprise reveal where he transforms into a blonde woman, causing the other characters to react with shock and laughter. The video is a playful display of costume changes, exaggerated expressions, and comedic timing.",
+   "llmTitle": "TonyTalks' Hilarious Fashion Transformation & Prank Reveal",
+   "llmKeywords": [],
+   "s2iTags": []
+  }
+ },
+ {
+  "storyCard": {
+   "storyId": "35::W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ::0",
+   "compositeStoryId": {
+    "corpus": 35,
+    "id": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+    "version": "0"
+   },
+   "storyIdFp": "0",
+   "storyDedupeFp": "0",
+   "similarStoryIdFps": [],
+   "storyCacheFp": "0",
+   "contentToken": {},
+   "adOrganicSignals": {},
+   "derivedAdsEngagementScore": 0,
+   "derivedSccV3Tags": [],
+   "storyHomingSection": 0,
+   "card": {
+    "$case": "singleSnapStoryCard",
+    "singleSnapStoryCard": {
+     "snaps": [
+      {
+       "rawSnapId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+       "snapClientId": "2DB9722C-3799-491D-87B6-AD2B3FA94F33",
+       "sharedStorySubmissionId": "",
+       "originalSnapId": "",
+       "mediaInfo": {
+        "mediaType": 1,
+        "mediaUrl": "https://bolt-gcdn.sc-cdn.net/4/oMXyQ85dShw7U3x26GHKC?bo=EgkyAX5IAlAuYAE%3D&uc=46",
+        "mediaId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+        "mediaIv": "",
+        "mediaKey": "",
+        "isZipped": false,
+        "duration": 127.13,
+        "isInfiniteDuration": true,
+        "snapBoltInfo": {
+         "mediaContentObject": {},
+         "overlayContentObject": {},
+         "rawContentObject": {},
+         "zippedContentObject": {},
+         "audioTranscriptionObject": {},
+         "audioTranscriptionContentObject": {}
+        },
+        "mediaD2sUrl": "",
+        "firstFrameContentObject": {},
+        "boltWatermarkedVideoUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.27.IRZXSOY?mo=Gl4aCTIBBEgCUC5gAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjCi8sDIAEwnAQ4wAdAAUoPCgrHARkeGiAdISQjEPQDUJrhB2gCIgsSACoHSVJaWFNPWZADmuEH&uc=46",
+        "unencryptedFlatVideoUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.1034.IRZXSOY?mo=Gk0aCTIBBEgCUC5gAaIBOgiKCBIoCiYI5onnAiABMOADONQGQAFKDwoKuQETFxYWGBccHBD0A1Ca4QdoAiILEgAqB0lSWlhTT1mQA5rhBw%3D%3D&uc=46",
+        "unencryptedImageUrl": "",
+        "boltWatermarkedVideoDimensions": {
+         "width": 540,
+         "height": 960
+        }
+       },
+       "creationTimestampMs": "1750464511558",
+       "sourceCreationTimestamp": "0",
+       "expirationTimestampMs": "4904064511558",
+       "title": "",
+       "subTitles": [],
+       "displayGeoInfo": "",
+       "pivotInfo": {
+        "contextHint": {
+         "clientInfo": {
+          "$case": "unencryptedClientInfo",
+          "unencryptedClientInfo": {
+           "mentionedUsernames": [],
+           "mentionedUserIds": [],
+           "groupInvites": [],
+           "snapReplyRequests": [],
+           "gameIds": [],
+           "storyInvites": [],
+           "publisherId": "0",
+           "attachedTopicStickers": [],
+           "mentionSources": [],
+           "mentionTextRanges": [],
+           "apps": [],
+           "cameos": [],
+           "musicTrack": {
+            "trackId": "160544141137",
+            "contentRestrictions": {
+             "countryRestriction": {
+              "$case": "countryBlocklist",
+              "countryBlocklist": {
+               "countryCodes": []
+              }
+             }
+            },
+            "type": 0,
+            "startOffsetSeconds": 0,
+            "isSoundSync": false,
+            "musicStickerStyle": ""
+           },
+           "legacyTappableElements": [],
+           "creativetoolsStickers": [],
+           "hashtags": [
+            {
+             "title": "#comedyspotlight",
+             "isServerSuggested": false,
+             "source": 2
+            },
+            {
+             "title": "#keyandpeele",
+             "isServerSuggested": false,
+             "source": 2
+            },
+            {
+             "title": "#comedy",
+             "isServerSuggested": false,
+             "source": 2
+            }
+           ],
+           "remixSettingsInfo": {
+            "userDisabledMentionRemixing": false,
+            "userDisabledRemixing": false
+           },
+           "pollInfo": [],
+           "isCheeriosVideo": false,
+           "cameraContextInfo": {
+            "directorMode": {}
+           },
+           "ctItemInstance": [
+            {
+             "ctpId": {},
+             "item": {
+              "id": {},
+              "entity": {
+               "entityOneof": {
+                "$case": "captionStyles",
+                "captionStyles": {
+                 "captionStyles": [
+                  {
+                   "styleName": "Big Text bg",
+                   "displayName": "Big Text",
+                   "fontStyle": {
+                    "fontName": "Helvetica-Bold",
+                    "fontUrl": "",
+                    "fontColor": {
+                     "color": [
+                      "FF000000"
+                     ],
+                     "colorStop": [],
+                     "colorTransform": 3,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": [
+                      16777215,
+                      0,
+                      0,
+                      16777215
+                     ]
+                    },
+                    "borderColor": {
+                     "color": [],
+                     "colorStop": [],
+                     "colorTransform": 0,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "letterSpacing": 1,
+                    "lineHeight": 1,
+                    "fontSize": 38,
+                    "fontBorderWidth": 0,
+                    "textTransform": 0,
+                    "textShadow": [],
+                    "textDecoration": 0,
+                    "textAlign": 2,
+                    "padding": {
+                     "top": 10,
+                     "left": 10,
+                     "right": 10,
+                     "bottom": 10
+                    },
+                    "minFontSize": 13,
+                    "mediaContent": {
+                     "thumbnailUrl": "",
+                     "contentUrl": "",
+                     "thumbnailBoltObject": {},
+                     "contentBoltObject": {}
+                    }
+                   },
+                   "backgroundStyle": {
+                    "color": {
+                     "color": [
+                      "FFFFFFFF"
+                     ],
+                     "colorStop": [],
+                     "colorTransform": 1,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "borderRadius": 9,
+                    "backgroundImageUrl": "",
+                    "isStretchable": false
+                   },
+                   "colorChangeable": true,
+                   "baseColor": "FFFFFFFF",
+                   "isWifiOnly": false,
+                   "styleType": 7
+                  },
+                  {
+                   "styleName": "Big Text",
+                   "displayName": "Big Text",
+                   "fontStyle": {
+                    "fontName": "Helvetica-Bold",
+                    "fontUrl": "",
+                    "fontColor": {
+                     "color": [],
+                     "colorStop": [],
+                     "colorTransform": 0,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "borderColor": {
+                     "color": [],
+                     "colorStop": [],
+                     "colorTransform": 0,
+                     "colorGradientAngleDegree": 0,
+                     "colorTransformParams": []
+                    },
+                    "letterSpacing": 1,
+                    "lineHeight": 1.100000023841858,
+                    "fontSize": 38,
+                    "fontBorderWidth": 0,
+                    "textTransform": 0,
+                    "textShadow": [
+                     {
+                      "color": {
+                       "color": [
+                        "00000033"
+                       ],
+                       "colorStop": [],
+                       "colorTransform": 3,
+                       "colorGradientAngleDegree": 0,
+                       "colorTransformParams": []
+                      },
+                      "x": 0,
+                      "y": 1,
+                      "radius": 3
+                     }
+                    ],
+                    "textDecoration": 0,
+                    "textAlign": 2,
+                    "padding": {
+                     "top": 0,
+                     "left": 0,
+                     "right": 0,
+                     "bottom": 0
+                    },
+                    "minFontSize": 13,
+                    "mediaContent": {
+                     "thumbnailUrl": "",
+                     "contentUrl": "",
+                     "thumbnailBoltObject": {},
+                     "contentBoltObject": {}
+                    }
+                   },
+                   "colorChangeable": true,
+                   "baseColor": "FFFFFFFF",
+                   "isWifiOnly": false,
+                   "styleType": 0
+                  }
+                 ],
+                 "captionStyleId": "4294967294"
+                }
+               }
+              },
+              "ctId": "0",
+              "associatedIds": [],
+              "syncSensitivity": 0
+             },
+             "metadata": {
+              "metadataType": {
+               "$case": "captionStyleMetadata",
+               "captionStyleMetadata": {
+                "text": "Key and Peele are so hilarious lmao 🤣 ",
+                "displayFontSize": 41,
+                "placeIds": [],
+                "textAlignment": 1,
+                "color": "",
+                "appliedStyleName": "Big Text bg",
+                "mentions": [],
+                "colorRanges": [
+                 {
+                  "color": "000000",
+                  "range": {
+                   "location": "0",
+                   "length": "39"
+                  }
+                 }
+                ],
+                "styleRanges": [
+                 {
+                  "isBold": true,
+                  "isUnderlined": false,
+                  "isItalicized": false,
+                  "range": {
+                   "location": "0",
+                   "length": "36"
+                  }
+                 },
+                 {
+                  "isBold": false,
+                  "isUnderlined": false,
+                  "isItalicized": false,
+                  "range": {
+                   "location": "36",
+                   "length": "2"
+                  }
+                 },
+                 {
+                  "isBold": true,
+                  "isUnderlined": false,
+                  "isItalicized": false,
+                  "range": {
+                   "location": "38",
+                   "length": "1"
+                  }
+                 }
+                ],
+                "editingFontSize": 38,
+                "isMagicCaption": false,
+                "generatedMagicCaptionText": "",
+                "backgroundType": 0
+               }
+              }
+             }
+            }
+           ],
+           "audioMix": [],
+           "isQuickCutSnap": false
+          }
+         },
+         "hint": 0,
+         "timestamp": "0",
+         "moreContext": []
+        },
+        "venueId": "",
+        "attachmentUrl": ""
+       },
+       "creatorInfo": {
+        "userId": "77a5a84d-1c70-4507-b2a8-3220f8f09a08",
+        "userName": "nockturnny",
+        "displayName": "David Jowers",
+        "followerCount": "0",
+        "snapproTier": 0
+       },
+       "attachmentUrl": "",
+       "audioStitchData": {},
+       "encryptedGeoData": "",
+       "storyFilterId": "",
+       "filterId": "",
+       "serializedUnlockablesSnapInfo": {},
+       "lensId": "",
+       "lensMetadata": {},
+       "hasSnappablesMetadata": false,
+       "externalId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ",
+       "brandFriendliness": 0,
+       "isPetraBrandSafe": false,
+       "isPublic": false,
+       "caption": "Key and Peele are so hilarious lmao 🤣 ",
+       "animatedSnapType": 4,
+       "isRotationLocked": false,
+       "ourStoryDestinations": [
+        2
+       ],
+       "blockedUserIds": [],
+       "spotlightSnapStatus": 0,
+       "eventSignature": {},
+       "isStitchedMedia": false,
+       "snapDescription": {
+        "text": "#comedy #keyandpeele #comedyspotlight"
+       },
+       "connectionType": 0,
+       "lensRankingId": "",
+       "spotlightRejectionReason": 0,
+       "attributionStatus": 0,
+       "scanOnPublicContentEnabled": false,
+       "garmBrandSafety": 1,
+       "displayTimestampMs": "0",
+       "mediaOrigins": [
+        {
+         "origin": {
+          "$case": "mediaOriginExternalStorage",
+          "mediaOriginExternalStorage": {
+           "creationTimestamp": "0",
+           "mediaSource": 0,
+           "originalLocalIds": []
+          }
+         }
+        }
+       ],
+       "suggestedQuery": "",
+       "storyTypeVariant": 0,
+       "fromCamera": false,
+       "suggestedQueryCandidates": [],
+       "suggestedSearchType": 0,
+       "poiEventEndTimeMs": "0",
+       "contentCategories": []
+      }
+     ],
+     "storyThumbnail": {
+      "thumbnailUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+      "thumbnailIv": "",
+      "mediaKey": "",
+      "mediaId": "",
+      "videoThumbnailUrl": "",
+      "videoFirstFrameThumbnailUrl": "",
+      "thumbnailDominantColor": "",
+      "thumbnailVariants": [],
+      "isBrandSafe": false,
+      "score": 0,
+      "snapId": "",
+      "largeThumbnailUrl": "",
+      "thumbnailContentObject": {},
+      "thumbnailCoKey": "",
+      "thumbnailCoIv": "",
+      "tileId": "",
+      "thumbnailTiles": [
+       {
+        "tileId": "",
+        "tileType": 3,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.1400.IRZXSOY?mo=GkYaCTIBBEgCUC5gAVClAloQRGZMYXJnZVRodW1ibmFpbKIBEAj4CiILEgAqB0lSWlhTT1miARAIlgsiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "",
+        "mediaKey": "",
+        "mediaIv": ""
+       },
+       {
+        "tileId": "",
+        "tileType": 4,
+        "unencryptedUrl": "https://cf-st.sc-cdn.net/d/oMXyQ85dShw7U3x26GHKC.256.IRZXSOY?mo=GkMaCTIBBEgCUC5gAVoQRGZMYXJnZVRodW1ibmFpbKIBEAiAAiILEgAqB0lSWlhTT1miARAImgoiCxIAKgdJUlpYU09Z&uc=46",
+        "encryptedUrl": "",
+        "mediaKey": "",
+        "mediaIv": ""
+       }
+      ]
+     },
+     "singleSnapStoryMetadata": {
+      "displayName": "David Jowers",
+      "businessProfileId": "534a295d-139c-42e2-b36d-19fa3b153f20",
+      "topicId": "",
+      "topicStoryType": 0,
+      "isOriginalSoundSnap": false,
+      "topicPageBadge": 0,
+      "tilePrimaryText": "",
+      "tileSecondaryText": "",
+      "bitmojiAvatarId": "",
+      "bitmojiAvatarSelfieId": "",
+      "filledIconUrl": "",
+      "businessLogoUrl": "",
+      "creatorType": 0
+     },
+     "engagementStats": {
+      "boostCount": "10346",
+      "shareCount": "1729",
+      "viewCount": "212747",
+      "subCount": "-1",
+      "spotlightPendingReplyCount": "0",
+      "spotlightLiveReplyCount": "90",
+      "spotlightNewPendingReplyCount": "0",
+      "rewatchCount": "0",
+      "remixCount": "0",
+      "viewerCount": "0",
+      "screenshotCount": "0",
+      "privateReplyCount": "0",
+      "subViewerCount": "0",
+      "nonSubViewerCount": "0",
+      "swipeUpCount": "0",
+      "swipeDownCount": "0",
+      "swipeAwayCount": "0",
+      "tapForwardCount": "0",
+      "tapBackwardCount": "0",
+      "totalViewTimeMs": "0",
+      "avgViewTimeMs": "0",
+      "pendingCommentCount": "0",
+      "liveCommentCount": "90",
+      "newPendingCommentCount": "0",
+      "recommendCount": "394",
+      "combinedViewCount": "0",
+      "combinedReach": "0",
+      "paidViewCount": "0",
+      "paidReach": "0"
+     },
+     "topCreatorBadge": false,
+     "repliesEnabled": true,
+     "uiLabel": 0,
+     "isSharingDisabled": false,
+     "isCreatorMonetizable": false
+    }
+   },
+   "storySubtype": 0,
+   "tileAspectRatio": 0,
+   "tileDominantColor": "",
+   "isSubscribed": false,
+   "isPostedByFriend": false,
+   "isNotificationOptedIn": false,
+   "isFeatured": false,
+   "isContinuousExploration": false,
+   "isCreatorSuggestion": false,
+   "featuredBannerText": "",
+   "jaguarClientLogging": {
+    "creatorId": "",
+    "tileLoggingKey": "ac547944539fe6aa817b2cd3536a2881",
+    "isBoostedStory": false,
+    "tapStoryKey": "0",
+    "impressionLoggingExtension": {},
+    "actionLoggingExtension": {},
+    "viewSessionLoggingExtension": {},
+    "commonLoggingExtension": {},
+    "variantLoggingKey": "",
+    "explorationSource": 1
+   },
+   "score": 0,
+   "rankShouldBeFixed": false,
+   "notModerated": true,
+   "hideAfterWatch": 0,
+   "hideSubscribeButton": false,
+   "latestUpdateTimestampSecs": "0",
+   "hasUpnextRecommendation": false,
+   "isPlaceholder": false,
+   "spotlightL2ModelHeadScores": [],
+   "discoverL2ModelHeadScores": [],
+   "friendStoryModelHeadScores": [],
+   "scoringModelId": ""
+  },
+  "context": {
+   "spotlightCards": [],
+   "hashtags": [],
+   "attributionInfo": {
+    "info": {
+     "$case": "user",
+     "user": {
+      "id": "77a5a84d-1c70-4507-b2a8-3220f8f09a08",
+      "username": "nockturnny",
+      "displayName": "David Jowers",
+      "businessProfileId": "534a295d-139c-42e2-b36d-19fa3b153f20",
+      "isOfficial": false,
+      "bitmoji": {
+       "avatarId": "296807022_9-s5",
+       "selfieId": "10226021"
+      },
+      "snapProIdentity": {
+       "id": "534a295d-139c-42e2-b36d-19fa3b153f20",
+       "logo": {
+        "logoUrl": "https://cf-st.sc-cdn.net/aps/bolt/aHR0cHM6Ly9jZi1zdC5zYy1jZG4ubmV0L2QvaktSRE0wZllOY1NJWTVpM1pWRFhqP2JvPUVnMGFBQm9BTWdFRVNBSlFHV0FCJnVjPTI1._RS0,640_FMjpeg",
+        "isDefault": false
+       }
+      }
+     }
+    },
+    "title": "David Jowers",
+    "action": {
+     "metric": {
+      "actionType": "openedOurStoryCreatorProfile",
+      "actionId": "77a5a84d-1c70-4507-b2a8-3220f8f09a08",
+      "cardDataType": 21
+     },
+     "action": {
+      "$case": "unifiedPublicProfileAction",
+      "unifiedPublicProfileAction": {
+       "route": {
+        "$case": "unifiedPublicProfileRoute",
+        "unifiedPublicProfileRoute": {
+         "profileId": {
+          "highBits": "6001654933162312418",
+          "lowBits": "12929018667774328608"
+         },
+         "hostAccountUserId": {
+          "highBits": "8621482110813750535",
+          "lowBits": "12873594652035422728"
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "snapId": "W7_EDlXWTBiXAEEniNoMPwAAYaGdkbGFrZHJiAZeP0Z1qAZeP0L5GAAAAAQ"
+  },
+  "cuSignals": {
+   "llmDescription": "Watch the hilarious conclusion of this comedy sketch starring David Jowers and his friends. The scene builds with anticipation before erupting into a chaotic and funny finale. Don't miss the punchline!",
+   "llmTitle": "The Ending is HILARIOUS! | Comedy Sketch Featuring David Jowers",
+   "llmKeywords": [],
+   "s2iTags": []
+  }
+ }
+]

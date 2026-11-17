@@ -253,9 +253,18 @@ def test_topic_and_funny():
     assert video["creator"]["username"] == "taylorred_music" and video["id"] and video["video"]
     assert video["duration_seconds"] and (video["stats"] is None or all(k.endswith("_count") for k in video["stats"]))
     assert topic["related_topics"][0]["slug"] == "taylor-red-fashion"
-    funny = P.funny_page(load("ent_funny_kw.json"))
+    # 2026-10-06: the funny pages became App Router pages (ld+json + fetchSpotlight hydration)
+    with open(os.path.join(FIXTURES, "ent_funny_kw_page.html"), encoding="utf-8") as handle:
+        funny_html = handle.read()
+    funny = P.funny_page(load("ent_funny_kw_ld.json"), funny_html, "comedy-skit", load("ent_funny_kw_cards.json"))
     assert funny["topic"]["name"] == "Comedy Skit" and funny["spotlight_count"] == 2
-    assert P.funny_keyword(load("ent_funny.json")["items"][0])["slug"] == "animal-comedy-clips"
+    assert funny["topic"]["description"].startswith("Comedy skit videos") and funny["topic"]["link"].endswith("/funny/comedy-skit")
+    assert funny["spotlights"][0]["id"] == "W7_EDlXWTBiXAEEniNoMPwAAYYmNndmZwdXZlAZduy24jAZduywZEAAAAAQ"
+    assert funny["spotlights"][0]["creator"]["username"] == "tonysnaps" and funny["spotlights"][0]["stats"]["view_count"]
+    assert funny["related_tags"][0] == "funny videos" and funny["tag_hierarchy"] == ["Entertainment", "Funny", "Comedy Skit"]
+    keywords = P.funny_keywords(load("ent_funny_ld.json"))
+    assert keywords[0] == {"name": "animal comedy clips", "slug": "animal-comedy-clips",
+                           "link": "https://www.snapchat.com/entertainment/funny/animal-comedy-clips"}
 
 
 # ---- lenses ---------------------------------------------------------------------------

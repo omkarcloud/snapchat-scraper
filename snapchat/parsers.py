@@ -76,9 +76,11 @@ Deliberately dropped as noise:
 """
 import re
 from datetime import datetime, timezone
-from urllib.parse import urlparse
 
 from . import proto, refs
+import fastjson
+from scraper_utils.values import num as to_float
+from scraper_utils.text import trimmed as clean
 
 STORY_TYPES = {3: "curated_highlight", 5: "public_story", 15: "spotlight", 16: "publisher_episode"}
 SNAP_MEDIA_TYPES = {0: "image", 1: "video", "IMAGE": "image", "VIDEO": "video"}
@@ -93,13 +95,6 @@ _HASHTAG_RE = re.compile(r"#([^\s#]+)")
 
 
 # ---- scalars ---------------------------------------------------------------------------
-
-def clean(value):
-    """Whitespace-trimmed string, or None for empty / non-strings."""
-    if value is None or isinstance(value, (dict, list, bool)):
-        return None
-    text = str(value).strip()
-    return text or None
 
 
 def val(value):
@@ -125,16 +120,6 @@ def to_int(value):
             return int(float(text))
         except ValueError:
             return None
-
-
-def to_float(value):
-    value = val(value)
-    if value is None or isinstance(value, bool):
-        return None
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return None
 
 
 def to_count(value):
@@ -494,7 +479,7 @@ def cu_signals(signals):
             if text:
                 import json
                 try:
-                    for entry in json.loads(text):
+                    for entry in fastjson.loads(text):
                         word, _, score = str(entry).rpartition("|")
                         if word:
                             out["llm_keywords"].append({"keyword": word, "score": to_float(score)})
@@ -681,7 +666,7 @@ def comments_from_json(encoded):
     if not encoded:
         return []
     try:
-        data = json.loads(encoded) if isinstance(encoded, str) else encoded
+        data = fastjson.loads(encoded) if isinstance(encoded, str) else encoded
     except ValueError:
         return []
     if not isinstance(data, list):
@@ -1511,27 +1496,79 @@ def topic(ld_objects, html, slug):
     }
 
 
+def ld_spotlight_ids(ld_objects):
+    """Spotlight ids of an ld+json ItemList's VideoObjects, in page order."""
+    ids = []
+    for obj in ld_objects or []:
+        if isinstance(obj, dict) and obj.get("@type") == "ItemList":
+            for raw in obj.get("itemListElement") or []:
+                snap_id = topic_video(raw)["id"] if isinstance(raw, dict) else None
+                if snap_id and snap_id not in ids:
+                    ids.append(snap_id)
+    return ids
+
+
 def funny_keyword(raw):
+    """One ListItem of the funny landing page's ld+json ItemList
+    ({name, item: <keyword page url>})."""
     raw = raw or {}
-    href = clean(raw.get("href")) or ""
-    slug = href.rstrip("/").rsplit("/", 1)[-1] if href else None
-    return {"name": clean(raw.get("title")), "slug": slug, "link": refs.SITE + href if href else None}
+    item = raw.get("item")
+    link = link_or_none(item.get("@id") if isinstance(item, dict) else item)
+    slug = link.rstrip("/").rsplit("/", 1)[-1] if link else None
+    return {"name": clean(raw.get("name")), "slug": slug, "link": link}
 
 
-def funny_page(page):
-    page = page or {}
-    descriptions = page.get("topicDescriptions") or {}
-    spotlights = [story_card(c) for c in page.get("spotlights") or [] if isinstance(c, dict)]
+def funny_keywords(ld_objects):
+    """/entertainment/funny -> [keyword]. 2026-10-06: the page moved to the
+    App Router (no __NEXT_DATA__ `items` any more); its ld+json
+    CollectionPage carries the same 216 keywords as mainEntity ItemList."""
+    for obj in ld_objects or []:
+        if isinstance(obj, dict) and obj.get("@type") == "CollectionPage":
+            items = (obj.get("mainEntity") or {}).get("itemListElement") or []
+            return [k for k in (funny_keyword(i) for i in items if isinstance(i, dict)) if k["slug"]]
+    return []
+
+
+_FUNNY_PILL_RE = re.compile(r'<a[^>]*href="/entertainment/funny/([^"/?#]+)"[^>]*>(.*?)</a>', re.S)
+
+
+def funny_page(ld_objects, html, slug, entries):
+    """/entertainment/funny/<slug> -> page. 2026-10-06: an App Router page
+    now (no __NEXT_DATA__): the CollectionPage / BreadcrumbList ld+json plus
+    the fetchSpotlight `entries` hydrated from its VideoObject ids — the
+    same story cards the old pageProps `spotlights` held, so the card shape
+    is unchanged. The page no longer exposes a long description or S2I
+    tags: `related_tags` are its "Related to …" keyword pills and
+    `tag_hierarchy` the breadcrumb path (Entertainment > Funny > <topic>)."""
+    description, crumbs = None, []
+    for obj in ld_objects or []:
+        if not isinstance(obj, dict):
+            continue
+        if obj.get("@type") == "CollectionPage":
+            description = clean(obj.get("description"))
+        elif obj.get("@type") == "BreadcrumbList":
+            crumbs = [clean(b.get("name")) for b in obj.get("itemListElement") or [] if isinstance(b, dict)]
+    heading = re.search(r"<h1[^>]*>(.*?)</h1>", html or "", re.S)
+    name = (clean(re.sub(r"<[^>]+>", "", heading.group(1))) if heading else None) or (crumbs[-1] if crumbs else None)
+    order = {snap_id: i for i, snap_id in enumerate(ld_spotlight_ids(ld_objects))}
+    spotlights = [hydrated_spotlight(e) for e in entries or [] if isinstance(e, dict)]
+    spotlights.sort(key=lambda c: order.get(c.get("id"), len(order)))
+    related_row = (html or "").split('data-testid="related-topics-row"', 1)
+    related = []
+    for pill_slug, inner in _FUNNY_PILL_RE.findall(related_row[1] if len(related_row) == 2 else ""):
+        text = clean(re.sub(r"<[^>]+>", "", inner))
+        if pill_slug != slug and text and text not in related:
+            related.append(text)
     return {
         "topic": {
-            "slug": clean(page.get("topicId")),
-            "name": clean(page.get("displayName")),
-            "link": f"{refs.SITE}/entertainment/funny/{clean(page.get('topicId'))}" if clean(page.get("topicId")) else None,
-            "description": clean(descriptions.get("short")),
-            "long_description": clean(descriptions.get("long")),
+            "slug": slug,
+            "name": name,
+            "link": f"{refs.SITE}/entertainment/funny/{slug}" if slug else None,
+            "description": description,
+            "long_description": None,
         },
         "spotlight_count": len(spotlights),
         "spotlights": spotlights,
-        "related_tags": [clean(t) for t in page.get("relatedS2ITags") or [] if clean(t)],
-        "tag_hierarchy": [clean(t) for t in page.get("s2iTagHierarchy") or [] if clean(t)],
+        "related_tags": related,
+        "tag_hierarchy": [c for c in crumbs[1:] if c],
     }
