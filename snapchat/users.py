@@ -5,7 +5,14 @@ page is memoised in-process for PAGE_TTL seconds so a client walking the
 five routes for one account fetches it once; the response cache in front
 (cache_config) keys each route on its own params.
 
-Facts about the page (2026-09-22): creators / brands come as
+Since November 2026 the page is an App Router document: its data is read
+from the flight stream (flight.py) and mapped back onto the shapes below by
+approuter.profile_props, so the parsers and the responses are unchanged. What
+the page stopped carrying: the first comments under each spotlight, a
+story snap's own timestamp (now read from the snap id), Bitmoji 3D renders
+for creators. Each tab holds at most 32 items.
+
+Facts about the page as it was until then (2026-09-22): creators / brands come as
 `publicProfileInfo` with bio, counts, highlights; plain accounts come as
 `userInfo` (username, display name, snapcode, bitmoji) and answer 404-free
 but empty for story / highlights / spotlights / lenses. An unknown
@@ -18,8 +25,8 @@ site's counts.
 import threading
 import time
 
-from . import parsers as P
-from .fetch import SnapchatNotFound, get_page
+from . import approuter, parsers as P
+from .fetch import SnapchatNotFound, get_flight, ld_objects, snapcode_link
 
 PAGE_TTL = 120
 _lock = threading.Lock()
@@ -32,8 +39,13 @@ def _page(username):
         hit = _pages.get(username)
         if hit and hit[0] > now:
             return hit[1]
-    props, _, _ = get_page(f"/@{username}", label=f"profile @{username}")
-    if not (props.get("userProfile") or {}).get("$case") and not props.get("userProfile"):
+    page, html, _ = get_flight(f"/@{username}", label=f"profile @{username}")
+    # A plain account's page says its display name only in the ld+json ProfilePage.
+    person = next((o.get("mainEntity") for o in ld_objects(html)
+                   if isinstance(o, dict) and o.get("@type") == "ProfilePage" and isinstance(o.get("mainEntity"), dict)), {})
+    props = approuter.profile_props(page, username, display_name=person.get("name"),
+                                    snapcode_image=snapcode_link(username))
+    if props is None:
         raise SnapchatNotFound(f"@{username} not found on Snapchat")
     with _lock:
         if len(_pages) > 2000:
@@ -91,11 +103,9 @@ def get_spotlights(user):
     prof = _profile(page, user)
     stories = page.get("spotlightHighlights") or []
     metas = page.get("spotlightStoryMetadata") or []
-    comment_groups = P.comments_from_json(page.get("encodedSpotlightComments"))
+    # The profile page no longer ships a snap's first comments (it did until
+    # November 2026); `comments` stays in each item, empty. /spotlight/comments has them.
     by_snap = {}
-    for group in comment_groups if comment_groups and isinstance(comment_groups[0], list) else []:
-        if group:
-            by_snap[group[0].get("snap_id")] = group
     spotlights = []
     for index, story in enumerate(stories):
         if not isinstance(story, dict):

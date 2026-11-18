@@ -25,10 +25,21 @@ Upstream surfaces (all anonymous):
     `/entertainment/funny[/<keyword>]` are App Router pages with no
     __NEXT_DATA__: their data is the ld+json ItemList (ld_json()).
 
+  * APP ROUTER PAGES (since November 2026): profiles (`/@user`), one
+    Spotlight (`/@user/spotlight/<id>`), the Spotlight home and search
+    (`/explore/<q>`) are App Router documents too. They have no
+    __NEXT_DATA__ and no _next/data route; their data is in the React
+    flight stream of the document (get_flight(), flight.py) and is mapped
+    back onto the old pageProps shapes by approuter.py. Still Pages Router
+    (get_page): `/tag/`, `/p/`, `/place/`, `/local/`, the lens app and the
+    discover app.
+
   * JSON   GET https://www.snapchat.com/_next/data/<buildId>/<path>.json
-    The same pageProps as JSON for the spotlight app (`/@user/spotlight/
-    <id>`, `/tag/<tag>`) and the lens app (`/lens/_next/data/<lensBuild>/
-    index|category/<c>|<id>.json`). buildIds change on every deploy:
+    The same pageProps as JSON for the lens app (`/lens/_next/data/
+    <lensBuild>/index|category/<c>|<id>.json`). The spotlight app had such
+    routes as well; its home page, where the buildId was read, is an App
+    Router page now, so `/tag/<tag>` is read as a page instead and nothing
+    uses the "spotlight" entry of APP_HOME. buildIds change on every deploy:
     they are read from a page of that app and refreshed on the first 404
     (a 404 with an unchanged buildId is a real not-found). Profiles have
     no _next/data route (404 for every spelling) — the HTML is parsed.
@@ -68,7 +79,7 @@ import egress
 import identity_pool
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 
-from . import proto
+from . import flight, proto
 from scraper_utils import debug, fanout, sessions
 
 SITE = "https://www.snapchat.com"
@@ -275,16 +286,33 @@ def get_page(path, *, label, params=None, locale=None, country=None, not_found_o
     return props, doc, final
 
 
-def ld_json(path, *, label, params=None, locale=None, country=None):
-    """GET an App Router page -> (list of ld+json objects, html)."""
-    html, _, _ = get_html(path, label=label, params=params, locale=locale, country=country)
+def get_flight(path, *, label, params=None, locale=None, country=None):
+    """GET an App Router page (profile, Spotlight, search: see flight.py) ->
+    (flight.Page, html, final_url). A document without a flight stream is an
+    upstream error: the site answered, but not with the page."""
+    html, _, final = get_html(path, label=label, params=params, locale=locale, country=country)
+    page = flight.Page(html)
+    if not page:
+        dump_debug(f"noflight_{label}", html)
+        raise SnapchatUpstreamError(f"{label}: no page data in the document")
+    return page, html, final
+
+
+def ld_objects(html):
+    """The ld+json objects of a document (unreadable ones are skipped)."""
     out = []
     for raw in _LD_JSON_RE.findall(html):
         try:
             out.append(fastjson.loads(raw))
         except ValueError:
             continue
-    return out, html
+    return out
+
+
+def ld_json(path, *, label, params=None, locale=None, country=None):
+    """GET an App Router page -> (list of ld+json objects, html)."""
+    html, _, _ = get_html(path, label=label, params=params, locale=locale, country=country)
+    return ld_objects(html), html
 
 
 # ---- _next/data JSON routes ---------------------------------------------------------
@@ -295,7 +323,7 @@ def ld_json(path, *, label, params=None, locale=None, country=None):
 # BUILD_ID_REFRESH_INTERVAL - a 404 on a freshly learned buildId is a real
 # not-found, not a deploy.
 APP_HOME = {
-    "spotlight": ("/spotlight", ""),        # www root app: /spotlight, /tag, /p, /place
+    "spotlight": ("/spotlight", ""),        # www root app. Unused since November 2026: /spotlight carries no buildId now
     "lens": ("/lens", "/lens"),             # lens app, basePath /lens
 }
 BUILD_ID_REFRESH_INTERVAL = 60   # seconds between two home-page re-reads per app

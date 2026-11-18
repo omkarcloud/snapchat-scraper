@@ -13,8 +13,8 @@ threaded comments and batch stats.
   stats     POST /api/fetchSpotlight: up to 31 snap ids -> engagement stats,
             creator follower counts and the unencrypted media renditions.
 """
-from . import parsers as P, proto, queries, refs
-from .fetch import SnapchatNotFound, fetch_spotlights, get_page, get_replies, graphql, next_data
+from . import approuter, parsers as P, proto, queries, refs
+from .fetch import SnapchatNotFound, fetch_spotlights, get_flight, get_replies, graphql, ld_objects
 
 FEED_PAGE = 25
 
@@ -46,62 +46,47 @@ def get_feed(country="US", locale="en-US", cursor=None):
 
 
 def _page(spotlight):
+    """The snap's own page, as approuter.spotlight_props reads it. Since
+    November 2026 it is an App Router document (flight.py); the JSON data
+    route it used to have is gone."""
     snap_id = spotlight["id"]
+    paths = [f"/spotlight/{snap_id}"]         # 301s to /@user/spotlight/<id>
     if spotlight.get("username"):
+        paths.insert(0, f"/@{spotlight['username']}/spotlight/{snap_id}")
+    for index, path in enumerate(paths):
         try:
-            return next_data("spotlight", f"/@{spotlight['username']}/spotlight/{snap_id}", label="spotlight")
+            page, html, _ = get_flight(path, label="spotlight")
         except SnapchatNotFound:
-            pass  # a wrong username in the link: fall through to the redirect
-    props, _, _ = get_page(f"/spotlight/{snap_id}", label="spotlight")
-    return props
-
-
-def _own_story(page, snap_id):
-    stories = (page.get("spotlightFeed") or {}).get("spotlightStories") or []
-    own, others = None, []
-    for entry in stories:
-        if not isinstance(entry, dict):
-            continue
-        story = entry.get("story") or {}
-        sid = P.clean(P.val(story.get("storyId")))
-        if own is None and sid == snap_id:
-            own = entry
-        else:
-            others.append(entry)
-    if own is None and stories and isinstance(stories[0], dict):
-        own, others = stories[0], stories[1:]
-    return own, others
+            if index + 1 < len(paths):
+                continue    # a wrong username in the link: try the redirect
+            raise
+        found = approuter.spotlight_props(page, ld_objects(html))
+        if found is not None:
+            return found
+    raise SnapchatNotFound("spotlight not found")
 
 
 def get_details(spotlight):
-    page = _page(spotlight)
+    found = _page(spotlight)
     snap_id = spotlight["id"]
-    own, others = _own_story(page, snap_id)
-    if own is None:
-        raise SnapchatNotFound("spotlight not found")
-    transcript_raw = (page.get("transcriptMap") or {}).get(snap_id)
-    item = P.spotlight(own.get("story"), own.get("metadata"),
-                       comments=P.comments_from_json(page.get("encodedComments")),
-                       transcript=P.transcript_entry(transcript_raw) if transcript_raw else None)
-    video = page.get("videoMetadata") or {}
-    if not item["video"]:
-        item["video"] = P.link_or_none(video.get("contentUrl"))
-    item["is_restricted"] = P.to_bool(page.get("restricted"))
+    story, meta = found["own"]
+    transcript = None
+    if found["transcript"] or found["transcript_link"]:
+        # The page prints the transcript as plain text; the timed cues are in the .vtt behind `link`.
+        transcript = {"link": P.link_or_none(found["transcript_link"]), "cues": [], "text": P.clean(found["transcript"])}
+    item = P.spotlight(story, meta, comments=[P.comment(c) for c in found["comments"]], transcript=transcript)
+    item["is_restricted"] = None
     item["embed_link"] = f"{refs.SITE}/spotlight/{snap_id}/embed"
-    item["related_count"] = len(others) + len(page.get("rerankCandidateStories") or [])
+    item["related_count"] = len(found["others"])
     return item
 
 
 def get_related(spotlight):
     """The "up next" snaps the site queues after this one."""
-    page = _page(spotlight)
-    own, others = _own_story(page, spotlight["id"])
-    if own is None:
-        raise SnapchatNotFound("spotlight not found")
-    entries = others + [e for e in page.get("rerankCandidateStories") or [] if isinstance(e, dict)]
+    found = _page(spotlight)
     items = []
-    for entry in entries:
-        item = P.spotlight(entry.get("story"), entry.get("metadata"))
+    for story, meta in found["others"]:
+        item = P.spotlight(story, meta)
         if item["id"] and item["id"] != spotlight["id"] and item["id"] not in {x["id"] for x in items}:
             items.append(item)
     return {"spotlight_id": spotlight["id"], "spotlight_count": len(items), "spotlights": items}

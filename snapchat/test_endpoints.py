@@ -63,9 +63,9 @@ def test_discovery():
 
 def test_lenses():
     browse = call("/snapchat/lenses/browse", category="face")
-    assert browse["lens_count"] == 25 and browse["next_cursor"]
+    assert browse["lens_count"] >= 20 and browse["next_cursor"]      # 25 a page until November 2026, 24 since
     assert call("/snapchat/lenses/details", lens="565e7595ec4e4a0da689762b127308ef")["name"]
-    assert call("/snapchat/lenses/creators")["creators"][0]["username"]
+    assert call("/snapchat/lenses/creators")["creators"] == []       # the site removed its "Creators" category (November 2026)
     assert call("/snapchat/lenses/search", query="dog")["lenses"]
 
 

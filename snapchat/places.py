@@ -17,8 +17,7 @@ def get_details(place, locale="en-US"):
 
 
 def search(query, country=None, locale="en-US"):
-    props = explore(query, country=country, locale=locale)
-    places = P.search_results(props).get("places") or []
+    places = explore(query, country=country, locale=locale)[0].get("places") or []
     return {"query": query, "place_count": len(places), "places": places}
 
 

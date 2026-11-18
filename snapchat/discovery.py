@@ -2,11 +2,11 @@
 the Discover feed.
 
   search   `/explore/<query>` — the site's search, server-rendered as
-           typed sections (spotlights, lenses, topics, public profiles,
-           places, shows, episodes). No paging (sectionPageToken is always
-           empty). The viewer country is the exit IP's: `country` pins a
-           residential exit there.
-  tag      `/tag/<tag>` JSON: ~32 internal story cards, no paging.
+           sections (spotlights, lenses, public profiles and plain accounts,
+           places, shows, episodes) plus related topic words. No paging. The
+           viewer country is the exit IP's: `country` pins a residential
+           exit there.
+  tag      `/tag/<tag>`: ~32 internal story cards, no paging.
   topic    `/topic/<slug>`: an App Router page; 18 VideoObjects in its
            ld+json plus ~78 related topic links.
   funny    `/entertainment/funny[/<keyword>]`: 216 curated comedy keywords
@@ -15,21 +15,28 @@ the Discover feed.
   discover GraphQL discoverFeed: publisher shows + public user stories,
            paged by echoing seen tap ids.
 """
-from . import parsers as P, queries, refs
-from .fetch import fetch_spotlights, get_page, graphql, ld_json, next_data, quote_path
+from . import approuter, parsers as P, queries, refs
+from .fetch import SnapchatUpstreamError, fetch_spotlights, get_flight, get_page, graphql, ld_json, quote_path
 
 
 def explore(query, country=None, locale="en-US"):
-    props, _, _ = get_page(f"/explore/{quote_path(query)}", label="search", locale=locale, country=country)
-    return props
+    """The search page -> {"<section>": [...]} with every section it carried.
+    Since November 2026 `/explore/<query>` is an App Router document
+    (flight.py) with sections by kind; approuter.search_props maps them back
+    onto what the parsers read."""
+    page, _, _ = get_flight(f"/explore/{quote_path(query)}", label="search", locale=locale, country=country)
+    found = approuter.search_props(page)
+    if found is None:
+        raise SnapchatUpstreamError("search: no results block in the page")
+    return P.search_sections(found), found
 
 
 def search(query, type="all", country=None, locale="en-US"):
-    props = explore(query, country=country, locale=locale)
-    sections = P.search_results(props)
+    sections, found = explore(query, country=country, locale=locale)
     out = {
-        "query": P.clean(props.get("query")) or query,
-        "country": P.clean(props.get("country")),
+        "query": P.clean(found.get("query")) or query,
+        # The page no longer says which country it was rendered for; this is the one asked for.
+        "country": country.upper() if country else None,
         "link": refs.explore_link(query),
     }
     if type and type != "all":
@@ -43,13 +50,14 @@ def search(query, type="all", country=None, locale="en-US"):
 
 
 def search_users(query, country=None, locale="en-US"):
-    props = explore(query, country=country, locale=locale)
-    users = P.search_results(props).get("users") or []
+    users = explore(query, country=country, locale=locale)[0].get("users") or []
     return {"query": query, "user_count": len(users), "users": users}
 
 
 def get_tag(tag):
-    props = next_data("spotlight", f"/tag/{quote_path(tag)}", label=f"tag #{tag}")
+    # The page itself: its JSON data route needed the Spotlight app's build id,
+    # which was read from /spotlight, and that page has had none since November 2026.
+    props, _, _ = get_page(f"/tag/{quote_path(tag)}", label=f"tag #{tag}")
     cards = [P.story_card(c) for c in props.get("spotlights") or [] if isinstance(c, dict)]
     related = []
     for item in props.get("relatedTopics") or []:

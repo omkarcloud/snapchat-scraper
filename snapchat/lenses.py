@@ -50,6 +50,9 @@ def get_details(lens, locale="en-US"):
 
 
 def creators(cursor=None, locale="en-US"):
+    # Snapchat removed the "Creators" category in November 2026: the address now
+    # redirects to the lens home, which lists no creators. The route answers
+    # with an empty list until the site offers them again.
     props = _page("/category/creators", cursor, locale, "lens creators")
     items = [P.lens_creator(c) for c in props.get("creatorDisplayInfos") or [] if isinstance(c, dict)]
     has_more = bool(P.to_bool(props.get("hasMore"))) and bool(items)
@@ -62,6 +65,5 @@ def creators(cursor=None, locale="en-US"):
 
 
 def search(query, country=None, locale="en-US"):
-    props = explore(query, country=country, locale=locale)
-    lenses = P.search_results(props).get("lenses") or []
+    lenses = explore(query, country=country, locale=locale)[0].get("lenses") or []
     return {"query": query, "lens_count": len(lenses), "lenses": lenses}

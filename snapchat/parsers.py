@@ -1042,6 +1042,25 @@ def search_results(page):
     return out
 
 
+_SECTION_ITEM = {"spotlights": lambda raw: story_card(raw), "lenses": search_lens, "users": business_profile,
+                 "places": search_place, "shows": search_publisher, "episodes": search_episode}
+
+
+def search_sections(found):
+    """approuter.search_props(...) -> {"<section>": [...]}, the same names and
+    item fields as search_results gives for the old page. Sections come in
+    page order, the related topic words last."""
+    found = found or {}
+    out = {}
+    for name, raws in (found.get("sections") or {}).items():
+        if name in _SECTION_ITEM:
+            out[name] = [_SECTION_ITEM[name](raw) for raw in raws]
+    topics = [search_topic({"text": text}) for text in found.get("topics") or []]
+    if topics:
+        out["topics"] = topics
+    return out
+
+
 # ---- discover / publishers ---------------------------------------------------------------
 
 def discover_creator(raw):
